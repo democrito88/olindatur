@@ -3,11 +3,13 @@ import './App.css';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Igrejas from "./pages/Igrejas";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Igreja from "./pages/Igreja";
 import Fortes from "./pages/Fortes";
 import Museus from "./pages/Museus";
 import Monumentos from "./pages/Monumentos";
 import NotFound from './pages/NotFound';
+
 
 function App() {
 
