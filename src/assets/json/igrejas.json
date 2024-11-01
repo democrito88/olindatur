@@ -1,0 +1,211 @@
+[
+    {
+        "id": "1",
+        "name": "Igreja de São Bento",
+        "coordinates": [
+            -8.0082,
+            -34.878483
+        ],
+        "descricao": "A Igreja de São Bento, um marco histórico e religioso, destaca-se pela sua arquitetura imponente e rica ornamentação, refletindo a herança cultural e espiritual da região.",
+        "url": "img/igrejas/igrejaSaoBento.jpg",
+        "linkMapa": "zPYsvk7tdbzBMRYG6"
+    },
+    {
+        "id": "2",
+        "name": "Igreja de São Francisco",
+        "coordinates": [
+            -8.0095,
+            -34.8514
+        ],
+        "descricao": "A Igreja de São Francisco, com seu estilo barroco, é um tesouro arquitetônico que atrai visitantes pela sua beleza artística e importância histórica.",
+        "url": "img/igrejas/igrejaSaoFrancisco.jpeg",
+        "linkMapa": "1ZKMEfXCB4wdFpyKA"
+    },
+    {
+        "id": "3",
+        "name": "Igreja do Carmo",
+        "coordinates": [
+            -8.0096,
+            -34.8537
+        ],
+        "descricao": "A Igreja do Carmo, famosa por sua fachada imponente e detalhes góticos, é um símbolo da devoção religiosa e da rica história da comunidade local.",
+        "url": "img/igrejas/igrejaCarmo.jpg",
+        "linkMapa": "XCAPLXFCfHhEGq8c9"
+    },
+    {
+        "id": "4",
+        "name": "Igreja do Rosário dos Homens Pretos",
+        "coordinates": [
+            -8.0101,
+            -34.8572
+        ],
+        "descricao": "A Igreja do Rosário dos Homens Pretos é um importante local de culto e memória, celebrando a fé e resistência da comunidade afro-brasileira.",
+        "url": "img/igrejas/igrejaHomemPreto.jpg",
+        "linkMapa": "tNJFB1jPBNAd6GaM7"
+    },
+    {
+        "id": "5",
+        "name": "Igreja da Misericórdia",
+        "coordinates": [
+            -8.0107,
+            -34.8507
+        ],
+        "descricao": "A Igreja da Misericórdia, conhecida por seu interior deslumbrante e arquitetura colonial, é um ponto de peregrinação e reflexão espiritual.",
+        "url": "img/igrejas/igrejaMisericordia.jpg",
+        "linkMapa": "ojesK9ZQjd8Sccjc6"
+    },
+    {
+        "id": "6",
+        "name": "Igreja de Nossa Senhora da Graça",
+        "coordinates": [
+            -8.0132,
+            -34.8518
+        ],
+        "descricao": "A Igreja de Nossa Senhora da Graça, um santuário de tranquilidade e fé, encanta visitantes com sua simplicidade e beleza serena.",
+        "url": "img/igrejas/igrejaGraca.jpg",
+        "linkMapa": "vAfQYNVwBLGxENEr9"
+    },
+    {
+        "id": "7",
+        "name": "Catedral da Sé",
+        "coordinates": [
+            -8.0089,
+            -34.8553
+        ],
+        "descricao": "Construída em 1540, é a igreja mais antiga de Olinda, com belos altares e uma vista panorâmica da cidade.",
+        "url": "img/igrejas/igrejaSe.jpg",
+        "linkMapa": "CHQUEaVDGB3CLzT4A"
+    },
+    {
+        "id": "8",
+        "name": "Igreja de São João Batista dos Militares",
+        "coordinates": [
+            -8.0062,
+            -34.8528
+        ],
+        "descricao": "Fundada em 1581, esta igreja destaca-se por sua arquitetura barroca e detalhes ornamentais ricos.",
+        "url": "img/igrejas/igrejaBatista.jpg",
+        "linkMapa": "cKnjfxq2a6ai6PL86"
+    },
+    {
+        "id": "9",
+        "name": "Igreja de Nossa Senhora da Conceição",
+        "coordinates": [
+            -8.0077,
+            -34.8543
+        ],
+        "descricao": "Pequena e charmosa, com origem no século XVII, possui altares de estilo rococó e azulejos portugueses.",
+        "url": "img/igrejas/igrejaConceicao.jpg",
+        "linkMapa": "Z59FBqra6R4WBP7Z9"
+    },
+    {
+        "id": "10",
+        "name": "Igreja de Nossa Senhora da Boa Hora",
+        "coordinates": [
+            -8.0085,
+            -34.8556
+        ],
+        "descricao": "Data do século XVIII, destaca-se por sua fachada simples e o altar em estilo neoclássico.",
+        "url": "img/igrejas/boaHora.jpg",
+        "linkMapa": "GGegGKUdrSZcZr4V6"
+    },
+    {
+        "id": "11",
+        "name": "Igreja de Nossa Senhora das Neves",
+        "coordinates": [
+            -8.0080,
+            -34.8564
+        ],
+        "descricao": "Fundada em 1599, possui altares de madeira talhada e belos painéis de azulejos.",
+        "url": "img/igrejas/IgrejaNeves.jpg",
+        "linkMapa": "C8NWYUagW7cBAb7V9"
+    },
+    {
+        "id": "12",
+        "name": "Igreja de Nossa Senhora do Guadalupe",
+        "coordinates": [
+            -8.0082,
+            -34.8559
+        ],
+        "descricao": "Pequena capela do século XVIII, famosa por suas festas religiosas e simplicidade.",
+        "url": "img/igrejas/igrejaGuadalupe.jpg",
+        "linkMapa": "tswVyycheAQVhfTh7"
+    },
+    {
+        "id": "13",
+        "name": "Igreja de São Pedro Mártir",
+        "coordinates": [
+            -8.0094,
+            -34.8552
+        ],
+        "descricao": "Construída em 1665, possui estilo barroco e um impressionante retábulo dourado.",
+        "url": "img/igrejas/igrejaPedro.jpg",
+        "linkMapa": "Tuup4C9Gv1gyh8EK9"
+    },
+    {
+        "id": "14",
+        "name": "Igreja de São Sebastião",
+        "coordinates": [
+            -8.0087,
+            -34.8557
+        ],
+        "descricao": "Data do século XVII, destacando-se pelo altar-mor e capelas laterais bem ornamentadas.",
+        "url": "img/igrejas/igrejaSebastiao.jpg",
+        "linkMapa": "yBHk3aiPJ3QFc3Ng6"
+    },
+    {
+        "id": "15",
+        "name": "Capela de Santanna",
+        "coordinates": [
+            -8.0068,
+            -34.8529
+        ],
+        "descricao": "Pequena capela do século XVIII, conhecida por sua fachada simples e interior acolhedor.",
+        "url": "img/igrejas/igrejaSantana.jpg",
+        "linkMapa": "zekPDpy3MEbxxPcs8"
+    },
+    {
+        "id": "16",
+        "name": "Igreja de Nossa Senhora do Bom Sucesso",
+        "coordinates": [
+            -8.0079,
+            -34.8533
+        ],
+        "descricao": "Construída no século XVII, possui um belo altar-mor e é famosa por sua festa anual.",
+        "url": "img/igrejas/igrejaBomSucesso.jpg",
+        "linkMapa": "4ZqhGHWa2HB7UNZJA"
+    },
+    {
+        "id": "17",
+        "name": "Capela de São Roque",
+        "coordinates": [
+            -8.0084,
+            -34.8555
+        ],
+        "descricao": "Data do século XVIII, pequena e simples, com um ambiente tranquilo e acolhedor.",
+        "url": "img/igrejas/semIMG.png",
+        "linkMapa": "C8NWYUagW7cBAb7V9"
+    },
+    {
+        "id": "18",
+        "name": "Igreja de Nossa Senhora do Amparo",
+        "coordinates": [
+            -8.0083,
+            -34.8551
+        ],
+        "descricao": "Construída em 1613, é conhecida por seu altar-mor dourado e um belo adro com escadaria.",
+        "url": "img/igrejas/IgrejaAmparo.jpg",
+        "linkMapa": "z2eBWeai5Sr3bC3L6"
+    },
+    {
+        "id": "19",
+        "name": "Igreja de Nossa Senhora do Monte",
+        "coordinates": [
+            -8.0073,
+            -34.8541
+        ],
+        "descricao": "Erguida no século XVII, oferece uma vista panorâmica de Olinda e Recife.",
+        "url": "img/igrejas/igrejaMonteSenhora.jpg",
+        "linkMapa": "nvsKYyS3evdAYXsB9"
+    }
+]
