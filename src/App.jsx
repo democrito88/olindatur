@@ -8,10 +8,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Categoria from './pages/Categoria';
 import PontoTuristico from './pages/PontoTuristico';
+import Navegacao from './components/Navegacao';
 
 function App() {
   return (
     <>
+      <Navegacao />
       <BrowserRouter>
         <Routes>
           <Route element={<Home />} path="/" />
