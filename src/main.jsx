@@ -9,6 +9,6 @@ import VLibras from "react-vlibras";
 createRoot(document.getElementById('root')).render(
   <>
     <App />
-     <VLibras />
+     {/*<VLibras />*/}
   </>,
 )

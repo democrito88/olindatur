@@ -13,9 +13,9 @@ function Home(){
                 <h1 class="text-center">OlindaTur</h1>
             </div>
             <div class="card-body">
-                <div class="row col-md-12 col-sm-12 col-12  mt-2 mb-2">
+                <div class="row d-flex align-items-center mt-2 mb-2">
                     <div class="col-md-3 col-sm-3">
-                        <div class="item d-flex align-items-center">
+                        <div class="item d-flex flex-row">
                             <a href="/igrejas">
                                 <div class="circulo"></div>
                             </a>
@@ -25,7 +25,7 @@ function Home(){
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3">
-                        <div class="item d-flex align-items-center mt-4">
+                        <div class="item d-flex flex-row">
                             <a href="/fortes">
                                 <div class="circulo2"></div>
                             </a>
@@ -35,17 +35,17 @@ function Home(){
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3">
-                        <div class="item d-flex align-items-center mt-4">
-                            <a href="/manutencao">
+                        <div class="item d-flex flex-row">
+                            <a href="/museus">
                                 <div class="circulo3"></div>
                             </a>
-                            <a href="/manutencao">
+                            <a href="/museus">
                                 <span class="circulo-text"><b>{museus.length} Museus</b></span>
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3">
-                        <div class="item d-flex align-items-center mt-4">
+                        <div class="item d-flex flex-row">
                             <a href="/monumentos">
                                 <div class="circulo4"></div>
                             </a>
