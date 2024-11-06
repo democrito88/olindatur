@@ -20,3 +20,7 @@
 .titulo-banner{
     color: black;
 }
+
+.capitalize {
+    text-transform: capitalize;
+}

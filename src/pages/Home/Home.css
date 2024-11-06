@@ -21,3 +21,8 @@
 .botao-categoria-titulo{
     color: black;
 }
+
+.capitalize {
+    text-transform: capitalize;
+}
+
