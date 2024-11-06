@@ -3,7 +3,7 @@ import dados from "../../assets/json/database.json";
 
 export default function Navegacao(){
     return(
-        <Navbar expand="lg" className="bg-body-tertiary">
+        <Navbar expand="lg" className="bg-body-tertiary capitalize">
             <Container>
                 <Navbar.Brand href="/">
                     <img src="/favicon.png"  width={20}/>

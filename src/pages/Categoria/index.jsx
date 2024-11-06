@@ -6,7 +6,7 @@ import useFetch from "../../hooks/useFetch";
 
 export default function Categoria() {
     const { pagina } = useParams();
-    const { dados, estado, mensagem } = useFetch("http://localhost:5173/json/database.json");
+    const { dados, estado, mensagem } = useFetch("http://192.168.11.132:5173/json/database.json");
 
     return (
         <Container className="mt-4">
@@ -15,7 +15,7 @@ export default function Categoria() {
                     <p>{mensagem}</p>
                     :
                     dados[pagina]?.map((objeto, index) => (
-                        <Col key={index} md={3} className="m-5" >
+                        <Col key={index} md={3}  >
                             <Cartao
                                 name={objeto.name}
                                 descricao={objeto.descricao}
