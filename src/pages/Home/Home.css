@@ -1,3 +1,23 @@
 .principal{
     padding: 5em;
 }
+
+.botao-categoria{
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    min-height: 15em;
+    min-width: 15em;
+}
+
+.botao-categoria-painel{
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 0.5em;
+}
+
+.botao-categoria-titulo{
+    color: black;
+}

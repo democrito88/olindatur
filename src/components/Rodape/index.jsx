@@ -1,13 +1,12 @@
 import React from 'react';
+import "./Rodape.css"
 
 function Rodape(){
     return (
-        <footer className="blog-footer mt-2">
+        <footer className="rodape mt-2">
+            <h6>Olindatur &copy;</h6>
             <p>
-                {"Coordenadoria Geral de Infomática - Prefeitura Municipal de Olinda"}
-            </p>
-            <p>
-                <a href="#">Voltar ao topo</a>
+                Prefeitura Municipal de Olinda - Todos  os direitos reservados
             </p>
         </footer>
     );
