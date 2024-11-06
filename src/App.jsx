@@ -11,6 +11,7 @@ import NotFound from './pages/NotFound';
 import Rodape from './components/Rodape';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import Teste from './pages/Teste';
 
 
 
@@ -26,6 +27,7 @@ function App() {
           <Route element={<Fortes />} path="/fortes" />
           <Route element={<Museus />} path="/museus" />
           <Route element={<Monumentos />} path="/monumentos" />
+          <Route element={<Teste />} path="/teste" />
           <Route element={<NotFound />} path="*" />
         </Routes>
       </BrowserRouter>
