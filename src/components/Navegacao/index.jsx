@@ -12,7 +12,6 @@ export default function Navegacao(){
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
-                    <Nav.Link href="/">Principal</Nav.Link>
                     <NavDropdown title="Conheça" id="basic-nav-dropdown">
                         {Object.keys(dados).map(propriedade => 
                             <NavDropdown.Item key={propriedade} href={`/${propriedade}`}>

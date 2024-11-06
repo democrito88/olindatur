@@ -1,0 +1,138 @@
+[
+    {
+        "id": "1",
+        "name": "Biblioteca Pública de Olinda",
+        "coordinates": [-7.988049, -34.846773],
+        "descricao": "Criada por Decreto Imperial em 1830, foi a primeira biblioteca pública de Pernambuco. Inicialmente, funcionava no Convento de São Francisco e hoje está na Av. Liberdade. Abriga um acervo histórico e ocupa uma das construções mais antigas da cidade.",
+        "url": "img/monumentos/biblioteca_publica_olinda.jpg",
+        "linkMapa": "eXkMCR7HuoGySoNTA"
+    },
+    {
+        "id": "2",
+        "name": "Caixa D'Água e Elevador Panorâmico",
+        "coordinates": [-7.992044, -34.851073],
+        "descricao": "Construída em 1934, a Caixa D'Água é um marco arquitetônico moderno e conta com um elevador panorâmico que proporciona uma vista de 360º das cidades de Olinda e Recife.",
+        "url": "img/monumentos/caixa_dagua_alto_se.jpg",
+        "linkMapa": "XioxNVkxTpopG2QD7"
+    },
+    {
+        "id": "3",
+        "name": "Casa de João Fernandes Vieira",
+        "coordinates": [-7.993144, -34.851314],
+        "descricao": "Este sobrado histórico pertenceu a João Fernandes Vieira, figura importante na luta contra os holandeses no século XVII.",
+        "url": "img/monumentos/casa_joao_fernandes.jpg",
+        "linkMapa": "sjZd8VgQ1ackrq2K8"
+    },
+    {
+        "id": "4",
+        "name": "Centro de Educação Musical de Olinda (CEMO)",
+        "coordinates": [-7.992508, -34.854514],
+        "descricao": "O CEMO está localizado em um casarão do século XIX, antigo lar do Barão de Tacaruna. Hoje é uma escola municipal de música em Olinda.",
+        "url": "img/monumentos/cemo.jpg",
+        "linkMapa": "KbpjW3tiRekr55Yj6"
+    },
+    {
+        "id": "5",
+        "name": "Coreto da Praça da Preguiça",
+        "coordinates": [-7.988320, -34.846330],
+        "descricao": "Coreto de ferro fundido de origem escocesa, datado de 1914, utilizado para eventos e apresentações musicais ao ar livre.",
+        "url": "img/monumentos/coreto_preguica.jpg",
+        "linkMapa": "i44zUGYXCZhKetG46"
+    },
+    {
+        "id": "6",
+        "name": "Farol de Olinda",
+        "coordinates": [-7.987566, -34.851512],
+        "descricao": "O farol foi originalmente construído sobre o Fortim Montenegro e depois transferido para o Morro Serapião, em 1941. Visível a 12 milhas de distância, é um dos marcos turísticos da cidade.",
+        "url": "img/monumentos/farol_olinda.jpg",
+        "linkMapa": "urLWDETrwWyYt23b9"
+    },
+    {
+        "id": "7",
+        "name": "Conjunto da Maxambomba",
+        "coordinates": [-7.990380, -34.847210],
+        "descricao": "No século XIX, a Maxambomba conectava Olinda a outras áreas com uma linha de trem a vapor. O local abriga hoje comércios e residências.",
+        "url": "img/monumentos/maxambomba.jpg",
+        "linkMapa": "BdJVGuaW4QsLoBxy6"
+    },
+    {
+        "id": "8",
+        "name": "Mercado Eufrásio Barbosa",
+        "coordinates": [-7.989010, -34.847580],
+        "descricao": "Antiga fábrica de doces Amorim, o mercado foi adaptado para eventos culturais, com teatro e espaço para exposições.",
+        "url": "img/monumentos/mercado_eufrasio_barbosa.jpg",
+        "linkMapa": "fz4zLU7ci57k6T389"
+    },
+    {
+        "id": "9",
+        "name": "Mercado da Ribeira",
+        "coordinates": [-7.991128, -34.851307],
+        "descricao": "Construído no século XVII, é um exemplo da arquitetura colonial brasileira e funciona como mercado de artesanato.",
+        "url": "img/monumentos/mercado_ribeira.jpg",
+        "linkMapa": "J4n48xLP5ai2wd737"
+    },
+    {
+        "id": "10",
+        "name": "Observatório Astronômico",
+        "coordinates": [-7.992044, -34.851073],
+        "descricao": "Construído na década de 1880 no Alto da Sé, serviu para estudos astronômicos e meteorológicos. Hoje, é um espaço aberto para observação do céu e educação científica.",
+        "url": "img/monumentos/observatorio.jpg",
+        "linkMapa": "3wWFCDkC9anJD6VMA"
+    },
+    {
+        "id": "11",
+        "name": "Palácio dos Governadores",
+        "coordinates": [-7.992899, -34.851694],
+        "descricao": "Sede da Prefeitura de Olinda, o Palácio foi o Paço dos Governadores Gerais do Brasil no século XVII e tem uma rica história política e arquitetônica.",
+        "url": "img/monumentos/palacio_governadores.jpg",
+        "linkMapa": "xRUrAndVsEmz5JYn6"
+    },
+    {
+        "id": "12",
+        "name": "Ruínas do Senado",
+        "coordinates": [-7.991170, -34.851170],
+        "descricao": "Onde foi dado o primeiro grito de República no Brasil em 1710. O prédio entrou em ruínas no século XIX.",
+        "url": "img/monumentos/ruinas_senado.jpg",
+        "linkMapa": "ehFanMYD1UnpsjLt6"
+    },
+    {
+        "id": "13",
+        "name": "Sobrado Mourisco da Rua do Amparo",
+        "coordinates": [-7.991510, -34.851910],
+        "descricao": "Antiga residência do século XVII com elementos arquitetônicos árabes. É uma das construções mais preservadas do período colonial em Pernambuco.",
+        "url": "img/monumentos/sobrado_mourisco_amparo.jpg",
+        "linkMapa": "ZVGrzcjQbB2qyQWD6"
+    },
+    {
+        "id": "14",
+        "name": "Sobrado Mourisco da Praça de São Pedro",
+        "coordinates": [-7.992710, -34.850820],
+        "descricao": "Este sobrado hospedou o imperador D. Pedro II em 1859 e possui arquitetura de influência árabe.",
+        "url": "img/monumentos/sobrado_mourisco_sao_pedro.jpg",
+        "linkMapa": "uU8Pr1XQhTZDEVNf8"
+    },
+    {
+        "id": "15",
+        "name": "Bica de São Pedro",
+        "coordinates": [-7.992620, -34.848260],
+        "descricao": "Construída no século XVI, a bica é uma fonte de água histórica que servia à população olindense.",
+        "url": "img/monumentos/bica_sao_pedro.jpg",
+        "linkMapa": "E915DxPAdCr9F3E28"
+    },
+    {
+        "id": "16",
+        "name": "Bica do Rosário",
+        "coordinates": [-7.993410, -34.850210],
+        "descricao": "Remanescente do Val de Fontes do século XVI, apresenta um frontispício adornado com jarros de pedra e brasão da cidade.",
+        "url": "img/monumentos/bica_rosario.jpg",
+        "linkMapa": "vMZwQKfPx1aP6A899"
+    },
+    {
+        "id": "17",
+        "name": "Bica dos Quatro Cantos",
+        "coordinates": [-7.992870, -34.849130],
+        "descricao": "Fonte histórica de 1602, também chamada de Fonte da Tabatinga. Foi destruída e reconstruída ao longo dos anos.",
+        "url": "img/monumentos/bica_quatro_cantos.jpg",
+        "linkMapa": "aFJFRTevN4otGoce7"
+    }
+]

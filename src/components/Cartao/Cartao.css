@@ -7,3 +7,7 @@
 .card-uniform {
     min-height: 500px !important; /* Ajuste conforme necessário para padronizar a altura dos cards */
 }
+
+.link-mapa{
+    color: var(--azul-de-olinda);
+}
