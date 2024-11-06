@@ -1,0 +1,9 @@
+.img-uniform {
+    height: 273px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card-uniform {
+    min-height: 500px !important; /* Ajuste conforme necessário para padronizar a altura dos cards */
+}

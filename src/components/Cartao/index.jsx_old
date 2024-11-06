@@ -1,0 +1,94 @@
+import React, { useState } from 'react';
+import { Carousel } from 'react-bootstrap';
+import { TbBrandGoogleMaps } from 'react-icons/tb';
+import { FaVolumeUp } from "react-icons/fa";
+
+function Cartao(props) {
+    const speakText = () => {
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance(props.descricao);
+            utterance.lang = 'pt-BR';
+            utterance.pitch = 1;
+            utterance.rate = 1;
+            window.speechSynthesis.speak(utterance);
+        } else {
+            alert('API Web Speech não é suportada neste navegador.');
+        }
+    };
+
+    const [index, setIndex] = useState(0);
+
+    const handleSelect = (selectedIndex) => {
+        setIndex(selectedIndex);
+    };
+
+    return (
+        <Carousel activeIndex={index} onSelect={handleSelect} className="mt-5">
+            <Carousel.Item>
+                <img
+                    className="d-block w-100 img-uniform"
+                    src={props.img}
+                    alt="Primeiro slide"
+                />
+                <Carousel.Caption>
+                    <h3>{props.name}</h3>
+                    <p>{props.descricao}</p>
+                    <div className="d-flex justify-content-center mt-2">
+                        <FaVolumeUp
+                            size={40}
+                            onClick={speakText}
+                            style={{ cursor: 'pointer', marginRight: '10px' }}
+                        />
+                        <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer">
+                            <TbBrandGoogleMaps size={40} style={{ cursor: 'pointer' }} />
+                        </a>
+                    </div>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img
+                    className="d-block w-100 img-uniform"
+                    src={props.img}
+                    alt="Segundo slide"
+                />
+                <Carousel.Caption>
+                    <h3>{props.name}</h3>
+                    <p>{props.descricao}</p>
+                    <div className="d-flex justify-content-center mt-2">
+                        <FaVolumeUp
+                            size={40}
+                            onClick={speakText}
+                            style={{ cursor: 'pointer', marginRight: '10px' }}
+                        />
+                        <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer">
+                            <TbBrandGoogleMaps size={40} style={{ cursor: 'pointer' }} />
+                        </a>
+                    </div>
+                </Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+                <img
+                    className="d-block w-100 img-uniform"
+                    src={props.img}
+                    alt="Terceiro slide"
+                />
+                <Carousel.Caption>
+                    <h3>{props.name}</h3>
+                    <p>{props.descricao}</p>
+                    <div className="d-flex justify-content-center mt-2">
+                        <FaVolumeUp
+                            size={40}
+                            onClick={speakText}
+                            style={{ cursor: 'pointer', marginRight: '10px' }}
+                        />
+                        <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer">
+                            <TbBrandGoogleMaps size={40} style={{ cursor: 'pointer' }} />
+                        </a>
+                    </div>
+                </Carousel.Caption>
+            </Carousel.Item>
+        </Carousel>
+    );
+}
+
+export default Cartao;

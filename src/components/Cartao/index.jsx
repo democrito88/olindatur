@@ -2,6 +2,7 @@ import React from 'react';
 import { Button, Card } from 'react-bootstrap';
 import { TbBrandGoogleMaps } from 'react-icons/tb';
 import { FaVolumeUp } from "react-icons/fa";
+import './Cartao.css';
 
 
 function Cartao(props) {
@@ -21,20 +22,19 @@ function Cartao(props) {
 
     return (
         <>
-            <Card border="primary" style={{ width: '25rem' }} className='mt-5'>
-                <Card.Img variant="top" src={props.img} />
-                <Card.Body className='mt-2'>
-                    <Card.Title>{props.name}</Card.Title>
-                    <Card.Text className='mt-2 text-center' id="descricao-text">
-                        {props.descricao}
-                    </Card.Text>
-                    <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer">
-                        <TbBrandGoogleMaps size={40} />
-                    </a>
-                    <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
-                </Card.Body>
-                
-            </Card>
+            <Card border="primary" className="mt-5 card-uniform">
+            <Card.Img src={props.img} className="img-uniform" />
+            <Card.Body className="mt-2">
+                <Card.Title className='text-center'>{props.name}</Card.Title>
+                <Card.Text className="mt-2 " id="descricao-text">
+                    {props.descricao}
+                </Card.Text>
+                <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer">
+                    <TbBrandGoogleMaps size={40} />
+                </a>
+                <FaVolumeUp size={40} onClick={props.speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+            </Card.Body>
+        </Card>
         </>
     );
 }
