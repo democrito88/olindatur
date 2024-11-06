@@ -1,0 +1,398 @@
+{
+    "fortes": [
+        {
+            "id": "1",
+            "name": "Forte de São Francisco do Barbalho",
+            "coordinates": [
+                -8.004567,
+                -34.857520
+            ],
+            "descricao": "Construído no século XVII, o Forte de São Francisco do Barbalho tinha a função de proteger a cidade de Olinda contra invasões. Localizado em uma posição estratégica, o forte oferece uma vista panorâmica do mar e da costa. Suas ruínas ainda podem ser visitadas, proporcionando uma imersão na história da colonização portuguesa.",
+            "url": "../img/fortes/forte_sao_francisco.jpg",
+            "linkMapa": "2wrftcqXwfF2Mmgn6"
+        }
+    ],
+    "igrejas": [
+        {
+            "id": "1",
+            "name": "Igreja de São Bento",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": "A Igreja de São Bento, um marco histórico e religioso, destaca-se pela sua arquitetura imponente e rica ornamentação, refletindo a herança cultural e espiritual da região.",
+            "url": "img/igrejas/igrejaSaoBento.jpg",
+            "linkMapa": "zPYsvk7tdbzBMRYG6"
+        },
+        {
+            "id": "2",
+            "name": "Igreja de São Francisco",
+            "coordinates": [
+                -8.0095,
+                -34.8514
+            ],
+            "descricao": "A Igreja de São Francisco, com seu estilo barroco, é um tesouro arquitetônico que atrai visitantes pela sua beleza artística e importância histórica.",
+            "url": "img/igrejas/igrejaSaoFrancisco.jpeg",
+            "linkMapa": "1ZKMEfXCB4wdFpyKA"
+        },
+        {
+            "id": "3",
+            "name": "Igreja do Carmo",
+            "coordinates": [
+                -8.0096,
+                -34.8537
+            ],
+            "descricao": "A Igreja do Carmo, famosa por sua fachada imponente e detalhes góticos, é um símbolo da devoção religiosa e da rica história da comunidade local.",
+            "url": "img/igrejas/igrejaCarmo.jpg",
+            "linkMapa": "XCAPLXFCfHhEGq8c9"
+        },
+        {
+            "id": "4",
+            "name": "Igreja do Rosário dos Homens Pretos",
+            "coordinates": [
+                -8.0101,
+                -34.8572
+            ],
+            "descricao": "A Igreja do Rosário dos Homens Pretos é um importante local de culto e memória, celebrando a fé e resistência da comunidade afro-brasileira.",
+            "url": "img/igrejas/igrejaHomemPreto.jpg",
+            "linkMapa": "tNJFB1jPBNAd6GaM7"
+        },
+        {
+            "id": "5",
+            "name": "Igreja da Misericórdia",
+            "coordinates": [
+                -8.0107,
+                -34.8507
+            ],
+            "descricao": "A Igreja da Misericórdia, conhecida por seu interior deslumbrante e arquitetura colonial, é um ponto de peregrinação e reflexão espiritual.",
+            "url": "img/igrejas/igrejaMisericordia.jpg",
+            "linkMapa": "ojesK9ZQjd8Sccjc6"
+        },
+        {
+            "id": "6",
+            "name": "Igreja de Nossa Senhora da Graça",
+            "coordinates": [
+                -8.0132,
+                -34.8518
+            ],
+            "descricao": "A Igreja de Nossa Senhora da Graça, um santuário de tranquilidade e fé, encanta visitantes com sua simplicidade e beleza serena.",
+            "url": "img/igrejas/igrejaGraca.jpg",
+            "linkMapa": "vAfQYNVwBLGxENEr9"
+        },
+        {
+            "id": "7",
+            "name": "Catedral da Sé",
+            "coordinates": [
+                -8.0089,
+                -34.8553
+            ],
+            "descricao": "Construída em 1540, é a igreja mais antiga de Olinda, com belos altares e uma vista panorâmica da cidade.",
+            "url": "img/igrejas/igrejaSe.jpg",
+            "linkMapa": "CHQUEaVDGB3CLzT4A"
+        },
+        {
+            "id": "8",
+            "name": "Igreja de São João Batista dos Militares",
+            "coordinates": [
+                -8.0062,
+                -34.8528
+            ],
+            "descricao": "Fundada em 1581, esta igreja destaca-se por sua arquitetura barroca e detalhes ornamentais ricos.",
+            "url": "img/igrejas/igrejaBatista.jpg",
+            "linkMapa": "cKnjfxq2a6ai6PL86"
+        },
+        {
+            "id": "9",
+            "name": "Igreja de Nossa Senhora da Conceição",
+            "coordinates": [
+                -8.0077,
+                -34.8543
+            ],
+            "descricao": "Pequena e charmosa, com origem no século XVII, possui altares de estilo rococó e azulejos portugueses.",
+            "url": "img/igrejas/igrejaConceicao.jpg",
+            "linkMapa": "Z59FBqra6R4WBP7Z9"
+        },
+        {
+            "id": "10",
+            "name": "Igreja de Nossa Senhora da Boa Hora",
+            "coordinates": [
+                -8.0085,
+                -34.8556
+            ],
+            "descricao": "Data do século XVIII, destaca-se por sua fachada simples e o altar em estilo neoclássico.",
+            "url": "img/igrejas/boaHora.jpg",
+            "linkMapa": "GGegGKUdrSZcZr4V6"
+        },
+        {
+            "id": "11",
+            "name": "Igreja de Nossa Senhora das Neves",
+            "coordinates": [
+                -8.0080,
+                -34.8564
+            ],
+            "descricao": "Fundada em 1599, possui altares de madeira talhada e belos painéis de azulejos.",
+            "url": "img/igrejas/IgrejaNeves.jpg",
+            "linkMapa": "C8NWYUagW7cBAb7V9"
+        },
+        {
+            "id": "12",
+            "name": "Igreja de Nossa Senhora do Guadalupe",
+            "coordinates": [
+                -8.0082,
+                -34.8559
+            ],
+            "descricao": "Pequena capela do século XVIII, famosa por suas festas religiosas e simplicidade.",
+            "url": "img/igrejas/igrejaGuadalupe.jpg",
+            "linkMapa": "tswVyycheAQVhfTh7"
+        },
+        {
+            "id": "13",
+            "name": "Igreja de São Pedro Mártir",
+            "coordinates": [
+                -8.0094,
+                -34.8552
+            ],
+            "descricao": "Construída em 1665, possui estilo barroco e um impressionante retábulo dourado.",
+            "url": "img/igrejas/igrejaPedro.jpg",
+            "linkMapa": "Tuup4C9Gv1gyh8EK9"
+        },
+        {
+            "id": "14",
+            "name": "Igreja de São Sebastião",
+            "coordinates": [
+                -8.0087,
+                -34.8557
+            ],
+            "descricao": "Data do século XVII, destacando-se pelo altar-mor e capelas laterais bem ornamentadas.",
+            "url": "img/igrejas/igrejaSebastiao.jpg",
+            "linkMapa": "yBHk3aiPJ3QFc3Ng6"
+        },
+        {
+            "id": "15",
+            "name": "Capela de Santanna",
+            "coordinates": [
+                -8.0068,
+                -34.8529
+            ],
+            "descricao": "Pequena capela do século XVIII, conhecida por sua fachada simples e interior acolhedor.",
+            "url": "img/igrejas/igrejaSantana.jpg",
+            "linkMapa": "zekPDpy3MEbxxPcs8"
+        },
+        {
+            "id": "16",
+            "name": "Igreja de Nossa Senhora do Bom Sucesso",
+            "coordinates": [
+                -8.0079,
+                -34.8533
+            ],
+            "descricao": "Construída no século XVII, possui um belo altar-mor e é famosa por sua festa anual.",
+            "url": "img/igrejas/igrejaBomSucesso.jpg",
+            "linkMapa": "4ZqhGHWa2HB7UNZJA"
+        },
+        {
+            "id": "17",
+            "name": "Capela de São Roque",
+            "coordinates": [
+                -8.0084,
+                -34.8555
+            ],
+            "descricao": "Data do século XVIII, pequena e simples, com um ambiente tranquilo e acolhedor.",
+            "url": "img/igrejas/semIMG.png",
+            "linkMapa": "C8NWYUagW7cBAb7V9"
+        },
+        {
+            "id": "18",
+            "name": "Igreja de Nossa Senhora do Amparo",
+            "coordinates": [
+                -8.0083,
+                -34.8551
+            ],
+            "descricao": "Construída em 1613, é conhecida por seu altar-mor dourado e um belo adro com escadaria.",
+            "url": "img/igrejas/IgrejaAmparo.jpg",
+            "linkMapa": "z2eBWeai5Sr3bC3L6"
+        },
+        {
+            "id": "19",
+            "name": "Igreja de Nossa Senhora do Monte",
+            "coordinates": [
+                -8.0073,
+                -34.8541
+            ],
+            "descricao": "Erguida no século XVII, oferece uma vista panorâmica de Olinda e Recife.",
+            "url": "img/igrejas/igrejaMonteSenhora.jpg",
+            "linkMapa": "nvsKYyS3evdAYXsB9"
+        }
+    ],
+    "monumentos": [
+        {
+            "id": "1",
+            "name": "Biblioteca Pública de Olinda",
+            "coordinates": [-7.988049, -34.846773],
+            "descricao": "Criada por Decreto Imperial em 1830, foi a primeira biblioteca pública de Pernambuco. Inicialmente, funcionava no Convento de São Francisco e hoje está na Av. Liberdade. Abriga um acervo histórico e ocupa uma das construções mais antigas da cidade.",
+            "url": "img/monumentos/biblioteca_publica_olinda.jpg",
+            "linkMapa": "eXkMCR7HuoGySoNTA"
+        },
+        {
+            "id": "2",
+            "name": "Caixa D'Água e Elevador Panorâmico",
+            "coordinates": [-7.992044, -34.851073],
+            "descricao": "Construída em 1934, a Caixa D'Água é um marco arquitetônico moderno e conta com um elevador panorâmico que proporciona uma vista de 360º das cidades de Olinda e Recife.",
+            "url": "img/monumentos/caixa_dagua_alto_se.jpg",
+            "linkMapa": "XioxNVkxTpopG2QD7"
+        },
+        {
+            "id": "3",
+            "name": "Casa de João Fernandes Vieira",
+            "coordinates": [-7.993144, -34.851314],
+            "descricao": "Este sobrado histórico pertenceu a João Fernandes Vieira, figura importante na luta contra os holandeses no século XVII.",
+            "url": "img/monumentos/casa_joao_fernandes.jpg",
+            "linkMapa": "sjZd8VgQ1ackrq2K8"
+        },
+        {
+            "id": "4",
+            "name": "Centro de Educação Musical de Olinda (CEMO)",
+            "coordinates": [-7.992508, -34.854514],
+            "descricao": "O CEMO está localizado em um casarão do século XIX, antigo lar do Barão de Tacaruna. Hoje é uma escola municipal de música em Olinda.",
+            "url": "img/monumentos/cemo.jpg",
+            "linkMapa": "KbpjW3tiRekr55Yj6"
+        },
+        {
+            "id": "5",
+            "name": "Coreto da Praça da Preguiça",
+            "coordinates": [-7.988320, -34.846330],
+            "descricao": "Coreto de ferro fundido de origem escocesa, datado de 1914, utilizado para eventos e apresentações musicais ao ar livre.",
+            "url": "img/monumentos/coreto_preguica.jpg",
+            "linkMapa": "i44zUGYXCZhKetG46"
+        },
+        {
+            "id": "6",
+            "name": "Farol de Olinda",
+            "coordinates": [-7.987566, -34.851512],
+            "descricao": "O farol foi originalmente construído sobre o Fortim Montenegro e depois transferido para o Morro Serapião, em 1941. Visível a 12 milhas de distância, é um dos marcos turísticos da cidade.",
+            "url": "img/monumentos/farol_olinda.jpg",
+            "linkMapa": "urLWDETrwWyYt23b9"
+        },
+        {
+            "id": "7",
+            "name": "Conjunto da Maxambomba",
+            "coordinates": [-7.990380, -34.847210],
+            "descricao": "No século XIX, a Maxambomba conectava Olinda a outras áreas com uma linha de trem a vapor. O local abriga hoje comércios e residências.",
+            "url": "img/monumentos/maxambomba.jpg",
+            "linkMapa": "BdJVGuaW4QsLoBxy6"
+        },
+        {
+            "id": "8",
+            "name": "Mercado Eufrásio Barbosa",
+            "coordinates": [-7.989010, -34.847580],
+            "descricao": "Antiga fábrica de doces Amorim, o mercado foi adaptado para eventos culturais, com teatro e espaço para exposições.",
+            "url": "img/monumentos/mercado_eufrasio_barbosa.jpg",
+            "linkMapa": "fz4zLU7ci57k6T389"
+        },
+        {
+            "id": "9",
+            "name": "Mercado da Ribeira",
+            "coordinates": [-7.991128, -34.851307],
+            "descricao": "Construído no século XVII, é um exemplo da arquitetura colonial brasileira e funciona como mercado de artesanato.",
+            "url": "img/monumentos/mercado_ribeira.jpg",
+            "linkMapa": "J4n48xLP5ai2wd737"
+        },
+        {
+            "id": "10",
+            "name": "Observatório Astronômico",
+            "coordinates": [-7.992044, -34.851073],
+            "descricao": "Construído na década de 1880 no Alto da Sé, serviu para estudos astronômicos e meteorológicos. Hoje, é um espaço aberto para observação do céu e educação científica.",
+            "url": "img/monumentos/observatorio.jpg",
+            "linkMapa": "3wWFCDkC9anJD6VMA"
+        },
+        {
+            "id": "11",
+            "name": "Palácio dos Governadores",
+            "coordinates": [-7.992899, -34.851694],
+            "descricao": "Sede da Prefeitura de Olinda, o Palácio foi o Paço dos Governadores Gerais do Brasil no século XVII e tem uma rica história política e arquitetônica.",
+            "url": "img/monumentos/palacio_governadores.jpg",
+            "linkMapa": "xRUrAndVsEmz5JYn6"
+        },
+        {
+            "id": "12",
+            "name": "Ruínas do Senado",
+            "coordinates": [-7.991170, -34.851170],
+            "descricao": "Onde foi dado o primeiro grito de República no Brasil em 1710. O prédio entrou em ruínas no século XIX.",
+            "url": "img/monumentos/ruinas_senado.jpg",
+            "linkMapa": "ehFanMYD1UnpsjLt6"
+        },
+        {
+            "id": "13",
+            "name": "Sobrado Mourisco da Rua do Amparo",
+            "coordinates": [-7.991510, -34.851910],
+            "descricao": "Antiga residência do século XVII com elementos arquitetônicos árabes. É uma das construções mais preservadas do período colonial em Pernambuco.",
+            "url": "img/monumentos/sobrado_mourisco_amparo.jpg",
+            "linkMapa": "ZVGrzcjQbB2qyQWD6"
+        },
+        {
+            "id": "14",
+            "name": "Sobrado Mourisco da Praça de São Pedro",
+            "coordinates": [-7.992710, -34.850820],
+            "descricao": "Este sobrado hospedou o imperador D. Pedro II em 1859 e possui arquitetura de influência árabe.",
+            "url": "img/monumentos/sobrado_mourisco_sao_pedro.jpg",
+            "linkMapa": "uU8Pr1XQhTZDEVNf8"
+        },
+        {
+            "id": "15",
+            "name": "Bica de São Pedro",
+            "coordinates": [-7.992620, -34.848260],
+            "descricao": "Construída no século XVI, a bica é uma fonte de água histórica que servia à população olindense.",
+            "url": "img/monumentos/bica_sao_pedro.jpg",
+            "linkMapa": "E915DxPAdCr9F3E28"
+        },
+        {
+            "id": "16",
+            "name": "Bica do Rosário",
+            "coordinates": [-7.993410, -34.850210],
+            "descricao": "Remanescente do Val de Fontes do século XVI, apresenta um frontispício adornado com jarros de pedra e brasão da cidade.",
+            "url": "img/monumentos/bica_rosario.jpg",
+            "linkMapa": "vMZwQKfPx1aP6A899"
+        },
+        {
+            "id": "17",
+            "name": "Bica dos Quatro Cantos",
+            "coordinates": [-7.992870, -34.849130],
+            "descricao": "Fonte histórica de 1602, também chamada de Fonte da Tabatinga. Foi destruída e reconstruída ao longo dos anos.",
+            "url": "img/monumentos/bica_quatro_cantos.jpg",
+            "linkMapa": "aFJFRTevN4otGoce7"
+        }
+    ],
+    "museus": [
+        {
+            "id": "1",
+            "name": "MAC (Museu de Arte Contemporânea)",
+            "coordinates": "Rua 13 de Maio, s/n",
+            "descricao": "O edifício é datado de 1765 e foi construído para ser o Aljube ou Cadeia Eclesiástica para as punições da inquisição. Em frente foi edificada a Capela de São Pedro Advíncula. O conjunto Aljube e Capela foi restaurado e tombado pelo IPHAN em 1966. O museu conta com um acervo de mais de 4 mil obras de várias técnicas e estilos, incluindo obras de Portinari, Cícero Dias, Di Cavalcanti, entre outros.",
+            "url": "img/museus/",
+            "linkMapa": ""
+        },
+        {
+            "id": "2",
+            "name": "MASPE (Museu de Arte Sacra de Pernambuco)",
+            "coordinates": "Rua Bispo Coutinho, 726 – Alto da Sé",
+            "descricao": "Inaugurado em 1977, o MASPE está instalado no antigo Palácio dos Bispos de Olinda. Seu acervo inclui imagens eruditas antigas do século XVI, arte sacra popular, e objetos do culto. A fachada possui o antigo brasão episcopal e uma placa da Unesco declarando Olinda como Monumento Histórico da Humanidade.",
+            "url": "img/museus/",
+            "linkMapa": ""
+        },
+        {
+            "id": "3",
+            "name": "Museu do Mamulengo",
+            "coordinates": "Rua de São Bento, 344",
+            "descricao": "Fundado em 1994, o Museu do Mamulengo possui mais de 1200 peças de mestres mamulengueiros, representando figuras populares. É o primeiro museu da América Latina dedicado a bonecos populares, com algumas peças do século XVIII.",
+            "url": "img/museus/",
+            "linkMapa": ""
+        },
+        {
+            "id": "4",
+            "name": "Museu Regional de Olinda",
+            "coordinates": "Rua do Amparo, 128 – Amparo",
+            "descricao": "Construído no século XVIII e fundado em 1935, o Museu Regional de Olinda possui um acervo com 217 peças históricas, como móveis, painéis, imagens e o brasão do Senado da Câmara de Olinda.",
+            "url": "img/museus/",
+            "linkMapa": ""
+        }
+    ]
+}
