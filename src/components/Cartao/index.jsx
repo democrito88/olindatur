@@ -27,12 +27,15 @@ function Cartao(props) {
                     <Card.Text className="mt-2 " id="descricao-text">
                         {props.descricao}
                     </Card.Text>
+
+                    <FaVolumeUp size={40} onClick={props.speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+
+
                     <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
                         <TbBrandGoogleMaps size={40} />
                     </a>
-                    <FaVolumeUp size={40} onClick={props.speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
                 </Card.Body>
-        </Card>
+            </Card>
         </>
     );
 }
