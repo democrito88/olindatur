@@ -21,15 +21,13 @@ function Cartao(props) {
 
     return (
         <>
-
             <Card border="primary" style={{ width: '25rem' }} className='mt-5'>
-                <Card.Header className='text-center'>{props.name}</Card.Header>
+                <Card.Img variant="top" src={props.img} />
                 <Card.Body className='mt-2'>
-                    <Card.Img src={props.img} width={125} height={125} />
+                    <Card.Title>{props.name}</Card.Title>
                     <Card.Text className='mt-2 text-center' id="descricao-text">
                         {props.descricao}
                     </Card.Text>
-
                     <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer">
                         <TbBrandGoogleMaps size={40} />
                     </a>
