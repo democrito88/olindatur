@@ -9,7 +9,7 @@ export default function Categoria() {
     const { dados, estado, mensagem } = useFetch("http://192.168.11.132:5173/json/database.json");
 
     return (
-        <Container className="mt-4">
+        <Container className="mt-4 ">
             <Row>
                 {estado === 0 || estado === 1 ?
                     <p>{mensagem}</p>

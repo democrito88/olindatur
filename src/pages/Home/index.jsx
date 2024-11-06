@@ -16,7 +16,7 @@ function Home() {
                     ) : (
                         // Se os dados estiverem carregados e não houver erro, renderiza os botões de categoria
                         Object.keys(dados)?.map((estado) => (
-                            <div key={estado} className="col-lg-3 col-md-4 col-sm-6 mb-4">
+                            <div key={estado} className="col-lg-3 col-md-4 col-sm-6 mb-4 ">
                                 <a href={`/${estado}`}>
                                     <div className="botao-categoria" style={{ backgroundImage: `url(${dados[estado][0].url})` }}>
                                         <div className="botao-categoria-painel">

@@ -20,8 +20,8 @@ function Cartao(props) {
 
     return (
         <>
-            <Card border="primary" className="mt-5 card-uniform">
-                <Card.Img src={props.img} className="img-uniform" />
+            <Card border="primary" className="mt-5 card-uniform ">
+                <Card.Img src={props.img} className="img-uniform " />
                 <Card.Body className="mt-2">
                     <Card.Title className='text-center'>{props.name}</Card.Title>
                     <Card.Text className="mt-2 " id="descricao-text">
