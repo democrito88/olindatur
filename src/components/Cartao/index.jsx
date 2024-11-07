@@ -33,7 +33,8 @@ function Cartao(props) {
                         </Card.Link>
                     </Card.Text>
                     <Card.Footer>
-                        <FaVolumeUp size={40} onClick={props.speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+                    <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+
                         <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
                             <TbBrandGoogleMaps size={40} />
                         </a>
