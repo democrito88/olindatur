@@ -26,14 +26,18 @@ function Cartao(props) {
                     <Card.Title className='text-center'>{props.name}</Card.Title>
                     <Card.Text className="mt-2 " id="descricao-text">
                         {props.descricao}
+                        <Card.Link 
+                        href={`/${props.categoria}/${props.id}`}
+                        className='saiba-mais'>
+                            Saiba mais...
+                        </Card.Link>
                     </Card.Text>
-
-                    <FaVolumeUp size={40} onClick={props.speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
-
-
-                    <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
-                        <TbBrandGoogleMaps size={40} />
-                    </a>
+                    <Card.Footer>
+                        <FaVolumeUp size={40} onClick={props.speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+                        <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
+                            <TbBrandGoogleMaps size={40} />
+                        </a>
+                    </Card.Footer>
                 </Card.Body>
             </Card>
         </>

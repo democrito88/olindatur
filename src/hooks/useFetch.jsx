@@ -9,8 +9,16 @@ const useFetch = (url) => {
     useEffect(() => {
         axios.get(url)
         .then(resposta => {
-            setDados(resposta.data)
-            setEstado(2);
+            if (resposta.headers['content-type'].includes('application/json')) {
+            // It's a JSON response
+                setDados(resposta.data)
+                setEstado(2);
+            console.log('Received JSON:', resposta.data);
+            } else {
+            // It's something else (e.g., plain text, HTML, etc.)
+                console.log('Received non-JSON data:', resposta.data);
+                throw new Error('Invalid URL');
+            }
         })
         .catch(error => {
             console.error(error);

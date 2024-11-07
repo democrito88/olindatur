@@ -8,7 +8,7 @@
     min-height: 500px !important; /* Ajuste conforme necessário para padronizar a altura dos cards */
 }
 
-.link-mapa{
+.link-mapa, .saiba-mais{
     color: black;
 }
 

@@ -11,6 +11,13 @@
     /* margin: 1em; */
     min-height: 15em;
     min-width: 15em;
+    transition: transform .3s;
+}
+
+.botao-categoria:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
 }
 
 .botao-categoria-painel{

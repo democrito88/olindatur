@@ -1,9 +1,11 @@
 import "./Home.css";
 import Cabecalho from "../../components/Cabecalho";
 import useFetch from "../../hooks/useFetch";
+import { useContext } from "react";
+import { AppContext } from "../../context/AppContext";
 
 function Home() {
-    const { dados, estado, mensagem } = useFetch("http://192.168.11.132:5173/json/database.json");
+    const { dados, estado, mensagem } = useContext(AppContext);
 
     return (
         <>
