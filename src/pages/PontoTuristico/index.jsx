@@ -2,85 +2,51 @@ import { useContext } from "react";
 import { useParams } from "react-router-dom";
 import { AppContext } from "../../context/AppContext";
 import { useEffect } from "react";
+import { Col, Container, Row } from "react-bootstrap";
+import Slideshow from "../../components/Slideshow";
+import { FaVolumeUp } from "react-icons/fa";
+import { TbBrandGoogleMaps } from "react-icons/tb";
 
 function PontoTuristico() {
   const { pagina, id } = useParams();
   const { dados, estado, mensagem } = useContext(AppContext);
+
+  const speakText = () => {
+    if ('speechSynthesis' in window) {
+        const utterance = new SpeechSynthesisUtterance(dados[pagina][id - 1].name+". "+dados[pagina][id - 1].descricao);
+        utterance.lang = 'pt-BR';
+        utterance.pitch = 1;
+        utterance.rate = 1;
+        window.speechSynthesis.speak(utterance);
+    } else {
+        alert('API Web Speech não é suportada neste navegador.');
+    }
+  };
 
   return (
     <>
       {estado === 0 || estado === 1 ? (
         <p>{mensagem}</p>
       ) : (
-        <div className="container mb-5">
-          <div className="row justify-content-center">
-            <div className="col-lg-6 col-md-8">
-              <div className="card mt-5">
-                <div className="card-header">
-                  <h1 className="text-center">OlindaTur</h1>
-                </div>
-                <div className="card-body">
-                  <div className="icon-container">
-                    <a href="pontos.php">
-                      <i
-                        className="fa fa-arrow-left text-dark"
-                        aria-hidden="true"
-                      ></i>
-                    </a>
-                  </div>
-                  <div className="item d-flex align-items-center mt-5">
-                    <div className="d-flex justify-content-center align-items-center mx-auto col-md-12 col-sm-12 col-12">
-                      <div className="container tourist-spot">
-                        <div className="row">
-                          <div className="col-lg-12 col-sm-12 d-flex justify-content-center">
-                            <img
-                              className="img-thumbnail"
-                              src={"../" + dados[pagina][id - 1].url}
-                              alt={"Imagem da " + dados[pagina][id - 1].name}
-                              loading="lazy"
-                            />
-                          </div>
-                          <div
-                            className="col-lg-12 col-md-12 col-sm-12 col-12"
-                            id="content"
-                          >
-                            <h3 className="mt-2 text-center">
-                              <b>{dados[pagina][id - 1].name}</b>
-                              <br />
-                              <br />
-                              <p>{dados[pagina][id - 1].descricao}</p>
-                            </h3>
-                            <div className="d-flex justify-content-start mt-3">
-                              <button className="btn fTamanho">
-                                <i className="fa-solid fa-circle-play"></i>
-                              </button>
-                              <a
-                                className="btn btn-dark ms-3"
-                                href={
-                                  "https://maps.app.goo.gl/$(dados[pagina][id - 1].linkMapa)"
-                                }
-                                target="_blank"
-                                rel="noopener noreferrer"
-                              >
-                                Ver Mapa
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div vw className="enabled">
-                    <div vw-access-button className="active"></div>
-                    <div vw-plugin-wrapper>
-                      <div className="vw-plugin-top-wrapper"></div>
-                    </div>
-                  </div>
-                </div>
+        <Container className="py-2">
+          <Row className="responsivo">
+            <Col sm={12} lg={8}>
+              <Slideshow imagens={dados[pagina][id - 1].images} />
+            </Col>
+            <Col sm={12} lg={4}>
+              <h3 className="mt-2 text-center">
+                {dados[pagina][id - 1].name}
+              </h3>
+              <p>{dados[pagina][id - 1].descricao}</p>
+              <div className="d-flex justify-content-start mt-3">
+                <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+                <a href={`https://maps.app.goo.gl/${dados[pagina][id - 1].linkMapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
+                    <TbBrandGoogleMaps size={40} />
+                </a>
               </div>
-            </div>
-          </div>
-        </div>
+            </Col>
+          </Row>
+        </Container>
       )}
     </>
   );

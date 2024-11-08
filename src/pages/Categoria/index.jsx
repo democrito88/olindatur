@@ -20,12 +20,12 @@ export default function Categoria() {
                         <p>{mensagem}</p>
                         :
                         dados[pagina]?.map((objeto, index) => (
-                            <Col key={index} md={3}  >
+                            <Col key={index} lg={4} md={6} sm={12} >
                                 <Cartao
                                     id={objeto.id}
                                     name={objeto.name}
                                     descricao={objeto.descricao}
-                                    img={objeto.url}
+                                    img={objeto?.images[0]}
                                     mapa={objeto.linkMapa}
                                     categoria={pagina}
                                 />

@@ -8,7 +8,7 @@ export default function Navegacao() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary capitalize">
       <Container>
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="/" className="d-flex flex-row align-items-baseline">
           <img src="/favicon.png" width={20} />
           OlindaTur
         </Navbar.Brand>

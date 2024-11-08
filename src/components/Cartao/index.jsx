@@ -20,7 +20,7 @@ function Cartao(props) {
 
     return (
         <>
-            <Card border="primary" className="mt-5 card-uniform ">
+            <Card border="0" className="mt-5 card-uniform ">
                 <Card.Img src={props.img} className="img-uniform " />
                 <Card.Body className="mt-2">
                     <Card.Title className='text-center'>{props.name}</Card.Title>
@@ -33,8 +33,7 @@ function Cartao(props) {
                         </Card.Link>
                     </Card.Text>
                     <Card.Footer>
-                    <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
-
+                        <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
                         <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
                             <TbBrandGoogleMaps size={40} />
                         </a>

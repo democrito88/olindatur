@@ -7,16 +7,16 @@ import { SiInstagram } from "react-icons/si";
 
 function Rodape() {
     return (
-        <footer className="rodape mt-2">
-            <div class="container">
-                <div class="row mt-3 d-flex flex-row align-itens-baseline" >
-                    <div class="col-sm">
-                        <img src='../public/brasao.png' width={'200px'} className='left' />
+        <footer className="rodape mt-4">
+            <div className="container">
+                <div className="row mt-3 d-flex flex-row align-itens-baseline" >
+                    <div className="col-sm">
+                        <img src='/brasao.png' width={'200px'} className='left' />
                     </div>
-                    <div class="col-sm ">
-                        <img src="../public/fSemFundo.png" width="50px" alt="Logo Olindatur" /><b>Olindatur &copy;</b>
+                    <div className="col-sm ">
+                        <img src="/fSemFundo.png" width="50px" alt="Logo Olindatur" /><b>Olindatur &copy;</b>
                     </div>
-                    <div class="col-sm link-social">
+                    <div className="col-sm link-social">
                         <a href="#">
                             <IoLogoYoutube size={'35px'} />
                         </a>

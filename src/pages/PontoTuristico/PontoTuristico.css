@@ -1,0 +1,10 @@
+.responsivo{
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 720px) {
+    .responsivo{
+        flex-direction: row;
+    }
+}
