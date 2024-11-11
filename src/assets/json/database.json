@@ -7,7 +7,12 @@
                 -8.004567,
                 -34.857520
             ],
-            "descricao": "Construído no século XVII, o Forte de São Francisco do Barbalho tinha a função de proteger a cidade de Olinda contra invasões. Localizado em uma posição estratégica, o forte oferece uma vista panorâmica do mar e da costa. Suas ruínas ainda podem ser visitadas, proporcionando uma imersão na história da colonização portuguesa.",
+            "descricao":[
+                "Construído no século XVII, o Forte de São Francisco do Barbalho tinha a função de proteger a cidade de Olinda contra invasões. Localizado em uma posição estratégica, o forte oferece uma vista panorâmica do mar e da costa. Suas ruínas ainda podem ser visitadas, proporcionando uma imersão na história da colonização portuguesa.",
+                "Built in the 17th century, the Forte de São Francisco do Barbalho was meant to protect the city of Olinda from invasions. Located in a strategic position, the fort offers a panoramic view of the sea and coast. Its ruins can still be visited, providing an immersion into the history of Portuguese colonization.",
+                "Construido en el siglo XVII, el Fuerte de São Francisco do Barbalho tenía la función de proteger la ciudad de Olinda contra las invasiones. Situado en una posición estratégica, el fuerte ofrece una vista panorámica del mar y la costa. Sus ruinas aún se pueden visitar, proporcionando una inmersión en la historia de la colonización portuguesa.",
+                "圣弗朗西斯科·德巴尔巴略堡建于17世纪，旨在保护奥林达市免受入侵。堡垒位于战略位置，可俯瞰大海和海岸的全景。其遗迹至今仍可参观，让人深入了解葡萄牙殖民历史。"
+            ],
             "images": ["../../assets/img/fortes/forte_sao_francisco.jpg"],
             "linkMapa": "2wrftcqXwfF2Mmgn6"
         }
@@ -20,7 +25,12 @@
                 -8.0082,
                 -34.878483
             ],
-            "descricao": "A Igreja de São Bento, um marco histórico e religioso, destaca-se pela sua arquitetura imponente e rica ornamentação, refletindo a herança cultural e espiritual da região.",
+            "descricao": [
+                "A Igreja de São Bento, um marco histórico e religioso, destaca-se pela sua arquitetura imponente e rica ornamentação, refletindo a herança cultural e espiritual da região.",
+                "The Church of São Bento, a historical and religious landmark, stands out for its imposing architecture and rich ornamentation, reflecting the cultural and spiritual heritage of the region.",
+                "La Iglesia de São Bento, un hito histórico y religioso, se destaca por su imponente arquitectura y rica ornamentación, reflejando la herencia cultural y espiritual de la región.",
+                "圣本托教堂，作为一个历史和宗教的地标，以其宏伟的建筑和丰富的装饰而闻名，反映了该地区的文化和精神遗产。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaSaoBento.jpg"],
             "linkMapa": "zPYsvk7tdbzBMRYG6"
         },
@@ -31,7 +41,12 @@
                 -8.0095,
                 -34.8514
             ],
-            "descricao": "A Igreja de São Francisco, com seu estilo barroco, é um tesouro arquitetônico que atrai visitantes pela sua beleza artística e importância histórica.",
+            "descricao": [
+                "A Igreja de São Francisco, com seu estilo barroco, é um tesouro arquitetônico que atrai visitantes pela sua beleza artística e importância histórica.",
+                "The Church of São Francisco, with its baroque style, is an architectural treasure that attracts visitors with its artistic beauty and historical importance.",
+                "La Iglesia de São Francisco, con su estilo barroco, es un tesoro arquitectónico que atrae a los visitantes por su belleza artística e importancia histórica.",
+                "圣弗朗西斯科教堂，以其巴洛克风格，是一座建筑宝藏，以其艺术之美和历史重要性吸引游客。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaSaoFrancisco.jpeg"],
             "linkMapa": "1ZKMEfXCB4wdFpyKA"
         },
@@ -42,7 +57,12 @@
                 -8.0096,
                 -34.8537
             ],
-            "descricao": "A Igreja do Carmo, famosa por sua fachada imponente e detalhes góticos, é um símbolo da devoção religiosa e da rica história da comunidade local.",
+            "descricao": [
+                "A Igreja do Carmo, famosa por sua fachada imponente e detalhes góticos, é um símbolo da devoção religiosa e da rica história da comunidade local.",
+                "The Church of Carmo, famous for its imposing facade and Gothic details, is a symbol of religious devotion and the rich history of the local community.",
+                "La Iglesia del Carmo, famosa por su imponente fachada y detalles góticos, es un símbolo de la devoción religiosa y de la rica historia de la comunidad local.",
+                "卡尔莫教堂以其宏伟的外立面和哥特式细节而闻名，是宗教虔诚和当地社区丰富历史的象征。"
+            ],
             "images": ["../../assets/img/igrejas/1.jpg"],
             "linkMapa": "XCAPLXFCfHhEGq8c9"
         },
@@ -53,7 +73,12 @@
                 -8.0101,
                 -34.8572
             ],
-            "descricao": "A Igreja do Rosário dos Homens Pretos é um importante local de culto e memória, celebrando a fé e resistência da comunidade afro-brasileira.",
+            "descricao": [
+                "A Igreja do Rosário dos Homens Pretos é um importante local de culto e memória, celebrando a fé e resistência da comunidade afro-brasileira.",
+                "The Church of Rosário dos Homens Pretos is an important place of worship and memory, celebrating the faith and resistance of the Afro-Brazilian community.",
+                "La Iglesia del Rosario de los Hombres Negros es un lugar importante de culto y memoria, celebrando la fe y la resistencia de la comunidad afro-brasileña.",
+                "黑人民玫瑰教堂是一个重要的崇拜和纪念场所，庆祝非裔巴西社区的信仰和抵抗精神。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaHomemPreto.jpg"],
             "linkMapa": "tNJFB1jPBNAd6GaM7"
         },
@@ -64,7 +89,12 @@
                 -8.0107,
                 -34.8507
             ],
-            "descricao": "A Igreja da Misericórdia, conhecida por seu interior deslumbrante e arquitetura colonial, é um ponto de peregrinação e reflexão espiritual.",
+            "descricao": [
+                "A Igreja da Misericórdia, conhecida por seu interior deslumbrante e arquitetura colonial, é um ponto de peregrinação e reflexão espiritual.",
+                "The Church of Misericórdia, known for its stunning interior and colonial architecture, is a place of pilgrimage and spiritual reflection.",
+                "La Iglesia de la Misericordia, conocida por su deslumbrante interior y arquitectura colonial, es un lugar de peregrinación y reflexión espiritual.",
+                "仁慈教堂以其令人惊叹的内部和殖民地建筑而闻名，是朝圣和精神反思的圣地。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaMisericordia.jpg"],
             "linkMapa": "ojesK9ZQjd8Sccjc6"
         },
@@ -75,7 +105,12 @@
                 -8.0132,
                 -34.8518
             ],
-            "descricao": "A Igreja de Nossa Senhora da Graça, um santuário de tranquilidade e fé, encanta visitantes com sua simplicidade e beleza serena.",
+            "descricao": [
+                "A Igreja de Nossa Senhora da Graça, um santuário de tranquilidade e fé, encanta visitantes com sua simplicidade e beleza serena.",
+                "The Church of Our Lady of Grace, a sanctuary of tranquility and faith, enchants visitors with its simplicity and serene beauty.",
+                "La Iglesia de Nuestra Señora de la Gracia, un santuario de tranquilidad y fe, encanta a los visitantes con su simplicidad y belleza serena.",
+                "圣母恩典教堂，作为一个宁静与信仰的圣地，以其简约和宁静的美丽吸引着游客。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaGraca.jpg"],
             "linkMapa": "vAfQYNVwBLGxENEr9"
         },
@@ -86,7 +121,12 @@
                 -8.0089,
                 -34.8553
             ],
-            "descricao": "Construída em 1540, é a igreja mais antiga de Olinda, com belos altares e uma vista panorâmica da cidade.",
+            "descricao": [
+                "Construída em 1540, é a igreja mais antiga de Olinda, com belos altares e uma vista panorâmica da cidade.",
+                "Built in 1540, it is the oldest church in Olinda, with beautiful altars and a panoramic view of the city.",
+                "Construida en 1540, es la iglesia más antigua de Olinda, con hermosos altares y una vista panorámica de la ciudad.",
+                "建于1540年，是奥林达最古老的教堂，拥有美丽的祭坛和城市的全景。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaSe.jpg"],
             "linkMapa": "CHQUEaVDGB3CLzT4A"
         },
@@ -97,7 +137,12 @@
                 -8.0062,
                 -34.8528
             ],
-            "descricao": "Fundada em 1581, esta igreja destaca-se por sua arquitetura barroca e detalhes ornamentais ricos.",
+            "descricao": [
+                "Fundada em 1581, esta igreja destaca-se por sua arquitetura barroca e detalhes ornamentais ricos.",
+                "Founded in 1581, this church stands out for its baroque architecture and rich ornamental details.",
+                "Fundada en 1581, esta iglesia se destaca por su arquitectura barroca y ricos detalles ornamentales.",
+                "成立于1581年，这座教堂以其巴洛克风格的建筑和丰富的装饰细节而闻名。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaBatista.jpg"],
             "linkMapa": "cKnjfxq2a6ai6PL86"
         },
@@ -108,7 +153,12 @@
                 -8.0077,
                 -34.8543
             ],
-            "descricao": "Pequena e charmosa, com origem no século XVII, possui altares de estilo rococó e azulejos portugueses.",
+            "descricao": [
+                "Pequena e charmosa, com origem no século XVII, possui altares de estilo rococó e azulejos portugueses.",
+                "Small and charming, with origins in the 17th century, it features rococo-style altars and Portuguese tiles.",
+                "Pequeña y encantadora, con origen en el siglo XVII, tiene altares de estilo rococó y azulejos portugueses.",
+                "小巧迷人，起源于17世纪，拥有洛可可风格的祭坛和葡萄牙瓷砖。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaConceicao.jpg"],
             "linkMapa": "Z59FBqra6R4WBP7Z9"
         },
@@ -119,7 +169,12 @@
                 -8.0085,
                 -34.8556
             ],
-            "descricao": "Data do século XVIII, destaca-se por sua fachada simples e o altar em estilo neoclássico.",
+            "descricao": [
+                "Data do século XVIII, destaca-se por sua fachada simples e o altar em estilo neoclássico.",
+                "Dating from the 18th century, it stands out for its simple facade and neoclassical-style altar.",
+                "Data del siglo XVIII, se destaca por su fachada simple y el altar en estilo neoclásico.",
+                "可追溯到18世纪，以其简洁的外立面和新古典主义风格的祭坛而闻名。"
+            ],
             "images": ["../../assets/img/igrejas/boaHora.jpg"],
             "linkMapa": "GGegGKUdrSZcZr4V6"
         },
@@ -130,7 +185,12 @@
                 -8.0080,
                 -34.8564
             ],
-            "descricao": "Fundada em 1599, possui altares de madeira talhada e belos painéis de azulejos.",
+            "descricao": [
+                "Fundada em 1599, possui altares de madeira talhada e belos painéis de azulejos.",
+                "Founded in 1599, it features carved wooden altars and beautiful tile panels.",
+                "Fundada en 1599, posee altares de madera tallada y hermosos paneles de azulejos.",
+                "成立于1599年，拥有雕刻木祭坛和美丽的瓷砖面板。"
+            ],
             "images": ["../../assets/img/igrejas/IgrejaNeves.jpg"],
             "linkMapa": "C8NWYUagW7cBAb7V9"
         },
@@ -141,7 +201,12 @@
                 -8.0082,
                 -34.8559
             ],
-            "descricao": "Pequena capela do século XVIII, famosa por suas festas religiosas e simplicidade.",
+            "descricao": [
+                "Pequena capela do século XVIII, famosa por suas festas religiosas e simplicidade.",
+                "Small 18th-century chapel, famous for its religious festivals and simplicity.",
+                "Pequeña capilla del siglo XVIII, famosa por sus fiestas religiosas y simplicidad.",
+                "18世纪的小教堂，以其宗教节庆和简朴著称。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaGuadalupe.jpg"],
             "linkMapa": "tswVyycheAQVhfTh7"
         },
@@ -152,7 +217,12 @@
                 -8.0094,
                 -34.8552
             ],
-            "descricao": "Construída em 1665, possui estilo barroco e um impressionante retábulo dourado.",
+            "descricao": [
+            "Construída em 1665, possui estilo barroco e um impressionante retábulo dourado.",
+            "Built in 1665, it features baroque style and an impressive golden altarpiece.",
+            "Construida en 1665, tiene estilo barroco y un impresionante retablo dorado.",
+            "建于1665年，具有巴洛克风格和令人印象深刻的金色祭坛。"
+        ],
             "images": ["../../assets/img/igrejas/igrejaPedro.jpg"],
             "linkMapa": "Tuup4C9Gv1gyh8EK9"
         },
@@ -163,7 +233,12 @@
                 -8.0087,
                 -34.8557
             ],
-            "descricao": "Data do século XVII, destacando-se pelo altar-mor e capelas laterais bem ornamentadas.",
+            "descricao": [
+                "Data do século XVII, destacando-se pelo altar-mor e capelas laterais bem ornamentadas.",
+                "Dating from the 17th century, it stands out for its main altar and well-decorated side chapels.",
+                "Data del siglo XVII, destacándose por su altar mayor y capillas laterales bien ornamentadas.",
+                "可追溯到17世纪，以其主祭坛和装饰精美的侧堂而闻名。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaSebastiao.jpg"],
             "linkMapa": "yBHk3aiPJ3QFc3Ng6"
         },
@@ -174,7 +249,12 @@
                 -8.0068,
                 -34.8529
             ],
-            "descricao": "Pequena capela do século XVIII, conhecida por sua fachada simples e interior acolhedor.",
+            "descricao": [
+                "Pequena capela do século XVIII, conhecida por sua fachada simples e interior acolhedor.",
+                "Small 18th-century chapel, known for its simple facade and cozy interior.",
+                "Pequeña capilla del siglo XVIII, conocida por su fachada simple y su interior acogedor.",
+                "18世纪的小教堂，以其简洁的外立面和温馨的内部而闻名。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaSantana.jpg"],
             "linkMapa": "zekPDpy3MEbxxPcs8"
         },
@@ -185,7 +265,12 @@
                 -8.0079,
                 -34.8533
             ],
-            "descricao": "Construída no século XVII, possui um belo altar-mor e é famosa por sua festa anual.",
+            "descricao": [
+                "Construída no século XVII, possui um belo altar-mor e é famosa por sua festa anual.",
+                "Built in the 17th century, it features a beautiful main altar and is famous for its annual festival.",
+                "Construida en el siglo XVII, tiene un hermoso altar mayor y es famosa por su fiesta anual.",
+                "建于17世纪，拥有美丽的主祭坛，并因其每年举行的节庆而闻名。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaBomSucesso.jpg"],
             "linkMapa": "4ZqhGHWa2HB7UNZJA"
         },
@@ -196,7 +281,12 @@
                 -8.0084,
                 -34.8555
             ],
-            "descricao": "Data do século XVIII, pequena e simples, com um ambiente tranquilo e histórico.",
+            "descricao": [
+                "Data do século XVIII, pequena e simples, com um ambiente tranquilo e histórico.",
+                "Dating from the 18th century, small and simple, with a peaceful and historic atmosphere.",
+                "Data del siglo XVIII, pequeña y sencilla, con un ambiente tranquilo e histórico.",
+                "可追溯到18世纪，小巧简单，拥有宁静而历史悠久的氛围。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaRoque.jpg"],
             "linkMapa": "cVsJh94MeKvzKMuL6"
         },
@@ -207,7 +297,12 @@
                 -8.0061,
                 -34.8541
             ],
-            "descricao": "Possui um altar barroco e é um dos marcos religiosos mais antigos da cidade.",
+            "descricao": [
+                "Possui um altar barroco e é um dos marcos religiosos mais antigos da cidade.",
+                "It features a baroque altar and is one of the oldest religious landmarks in the city.",
+                "Posee un altar barroco y es uno de los hitos religiosos más antiguos de la ciudad.",
+                "拥有巴洛克风格的祭坛，是这座城市最古老的宗教地标之一。"
+            ],
             "images": ["../../assets/img/igrejas/igrejaDivino.jpg"],
             "linkMapa": "hFuFC5JDD9j2aSEU9"
         }
@@ -217,7 +312,12 @@
             "id": "1",
             "name": "Biblioteca Pública de Olinda",
             "coordinates": [-7.988049, -34.846773],
-            "descricao": "Criada por Decreto Imperial em 1830, foi a primeira biblioteca pública de Pernambuco. Inicialmente, funcionava no Convento de São Francisco e hoje está na Av. Liberdade. Abriga um acervo histórico e ocupa uma das construções mais antigas da cidade.",
+            "descricao": [
+                "Criada por Decreto Imperial em 1830, foi a primeira biblioteca pública de Pernambuco. Inicialmente, funcionava no Convento de São Francisco e hoje está na Av. Liberdade. Abriga um acervo histórico e ocupa uma das construções mais antigas da cidade.",
+                "Created by Imperial Decree in 1830, it was the first public library in Pernambuco. Initially, it operated in the Convento de São Francisco and is now located on Av. Liberdade. It houses a historical collection and occupies one of the oldest buildings in the city.",
+                "Creada por Decreto Imperial en 1830, fue la primera biblioteca pública de Pernambuco. Inicialmente, funcionaba en el Convento de São Francisco y hoy está en la Av. Liberdade. Alberga una colección histórica y ocupa uno de los edificios más antiguos de la ciudad.",
+                "由帝国法令于1830年创立，是佩尔南布科州的第一家公共图书馆。最初，它位于圣弗朗西斯科修道院，现位于自由大道。它拥有一个历史收藏，并占据着这座城市最古老的建筑之一。"
+            ],
             "images": ["../../assets/img/monumentos/biblioteca_publica_olinda.jpg"],
             "linkMapa": "eXkMCR7HuoGySoNTA"
         },
@@ -225,7 +325,12 @@
             "id": "2",
             "name": "Caixa D'Água e Elevador Panorâmico",
             "coordinates": [-7.992044, -34.851073],
-            "descricao": "Construída em 1934, a Caixa D'Água é um marco arquitetônico moderno e conta com um elevador panorâmico que proporciona uma vista de 360º das cidades de Olinda e Recife.",
+            "descricao": [
+                "Construída em 1934, a Caixa D'Água é um marco arquitetônico moderno e conta com um elevador panorâmico que proporciona uma vista de 360º das cidades de Olinda e Recife.",
+                "Built in 1934, the Caixa D'Água is a modern architectural landmark and features a panoramic elevator that offers a 360º view of the cities of Olinda and Recife.",
+                "Construida en 1934, la Caixa D'Água es un hito arquitectónico moderno y cuenta con un ascensor panorámico que ofrece una vista de 360º de las ciudades de Olinda y Recife.",
+                "建于1934年，水箱是一个现代建筑地标，并设有一个全景电梯，提供奥林达和累西腓市区360º的视野。"
+            ],
             "images": ["../../assets/img/monumentos/caixa_dagua_alto_se.jpg"],
             "linkMapa": "XioxNVkxTpopG2QD7"
         },
@@ -241,7 +346,12 @@
             "id": "4",
             "name": "Centro de Educação Musical de Olinda (CEMO)",
             "coordinates": [-7.992508, -34.854514],
-            "descricao": "O CEMO está localizado em um casarão do século XIX, antigo lar do Barão de Tacaruna. Hoje é uma escola municipal de música em Olinda.",
+            "descricao": [
+                "O CEMO está localizado em um casarão do século XIX, antigo lar do Barão de Tacaruna. Hoje é uma escola municipal de música em Olinda.",
+                "The CEMO is located in a 19th-century mansion, once the home of the Baron of Tacaruna. It is now a municipal music school in Olinda.",
+                "El CEMO está ubicado en una mansión del siglo XIX, antigua residencia del Barón de Tacaruna. Hoy es una escuela municipal de música en Olinda.",
+                "CEMO位于一座19世纪的宅邸，曾是塔卡鲁纳男爵的故居。如今，它是奥林达的一个市立音乐学校。"
+            ],
             "images": ["../../assets/img/monumentos/cemo.jpg"],
             "linkMapa": "KbpjW3tiRekr55Yj6"
         },
@@ -249,7 +359,12 @@
             "id": "5",
             "name": "Coreto da Praça da Preguiça",
             "coordinates": [-7.988320, -34.846330],
-            "descricao": "Coreto de ferro fundido de origem escocesa, datado de 1914, utilizado para eventos e apresentações musicais ao ar livre.",
+            "descricao": [
+                "Coreto de ferro fundido de origem escocesa, datado de 1914, utilizado para eventos e apresentações musicais ao ar livre.",
+                "Cast iron bandstand of Scottish origin, dated 1914, used for outdoor events and musical performances.",
+                "Kiosco de hierro fundido de origen escocés, fechado en 1914, utilizado para eventos y presentaciones musicales al aire libre.",
+                "源自苏格兰的铸铁凉亭，建于1914年，用于户外活动和音乐表演。"
+            ],
             "images": ["../../assets/img/monumentos/coreto_preguica.jpg"],
             "linkMapa": "i44zUGYXCZhKetG46"
         },
