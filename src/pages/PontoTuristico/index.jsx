@@ -9,7 +9,7 @@ import { TbBrandGoogleMaps } from "react-icons/tb";
 
 function PontoTuristico() {
   const { pagina, id } = useParams();
-  const { dados, estado, mensagem } = useContext(AppContext);
+  const { dados, estado, mensagem, urlBase } = useContext(AppContext);
 
   const speakText = () => {
     if ('speechSynthesis' in window) {
@@ -31,7 +31,7 @@ function PontoTuristico() {
         <Container className="py-2">
           <Row className="responsivo">
             <Col sm={12} lg={8}>
-              <Slideshow imagens={dados[pagina][id - 1].images} />
+              <Slideshow imagens={urlBase+dados[pagina][id - 1].images} />
             </Col>
             <Col sm={12} lg={4}>
               <h3 className="mt-2 text-center">

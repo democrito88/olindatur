@@ -4,10 +4,11 @@ import useFetch from '../hooks/useFetch';
 export const AppContext = createContext();
 
 export const AppProvider = ({ children }) => {
-  const {dados, estado, mensagem} = useFetch("https://democrito88.github.io/olindatur/json/database.json");
+  const urlBase = "https://democrito88.github.io/olindatur/";
+  const {dados, estado, mensagem} = useFetch(`${urlBase}json/database.json`);
 
   return (
-    <AppContext.Provider value={{ dados, estado, mensagem }}>
+    <AppContext.Provider value={{ dados, estado, mensagem, urlBase }}>
       {children}
     </AppContext.Provider>
   );

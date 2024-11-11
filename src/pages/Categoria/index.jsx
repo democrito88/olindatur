@@ -8,7 +8,7 @@ import Cabecalho from "../../components/Cabecalho";
 
 export default function Categoria() {
     const { pagina } = useParams();
-    const { dados, estado, mensagem } = useContext(AppContext);
+    const { dados, estado, mensagem, urlBase } = useContext(AppContext);
 
     return (
 
@@ -25,7 +25,7 @@ export default function Categoria() {
                                     id={objeto.id}
                                     name={objeto.name}
                                     descricao={objeto.descricao}
-                                    img={objeto?.images[0]}
+                                    img={urlBase+objeto?.images[0]}
                                     mapa={objeto.linkMapa}
                                     categoria={pagina}
                                 />
