@@ -5,11 +5,11 @@ import { useContext } from "react";
 import { AppContext } from "../../context/AppContext";
 
 function Home() {
-    const { dados, estado, mensagem, urlBase } = useContext(AppContext);
+    const { dados, estado, mensagem } = useContext(AppContext);
 
     return (
         <>
-            <Cabecalho />
+            <Cabecalho urlBase={urlBase}/>
             <div className="container principal">
                 <div className="row d-flex align-items-center flex-wrap mt-2 mb-2">
                     {/* Se estiver carregando, exibe "Carregando..." */}
@@ -20,7 +20,7 @@ function Home() {
                         Object.keys(dados)?.map((estado) => (
                             <div key={estado} className="col-lg-3 col-md-4 col-sm-6 mb-4 ">
                                 <a href={`/${estado}`}>
-                                    <div className="botao-categoria" style={{ backgroundImage: `url(${urlBase}${dados[estado][0]?.images[0]})` }}>
+                                    <div className="botao-categoria" style={{ backgroundImage: `url(${dados[estado][0]?.images[0]})` }}>
                                         <div className="botao-categoria-painel">
                                             <h4 className="botao-categoria-titulo capitalize">
                                                 {estado}

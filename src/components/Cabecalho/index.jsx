@@ -1,6 +1,6 @@
 import "./Cabecalho.css";
 
-export default function Cabecalho(){
+export default function Cabecalho({urlBase}){
     return(
         <header className="header">
             <div className="titulo-banner-painel ">
