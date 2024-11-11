@@ -4,8 +4,6 @@ import App from './App.jsx'
 import VLibras from "react-vlibras";
 import { AppProvider } from './context/AppContext.jsx';
 
-
-
 createRoot(document.getElementById('root')).render(
   <>
     <AppProvider>

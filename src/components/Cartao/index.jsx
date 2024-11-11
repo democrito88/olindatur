@@ -21,7 +21,11 @@ function Cartao(props) {
     return (
         <>
             <Card border="0" className="mt-5 card-uniform ">
-                <Card.Img src={props.img} className="img-uniform " />
+                <Card.Img 
+                src={`../src/assets/img/${props.img}`} 
+                className="img-uniform " 
+                
+                />
                 <Card.Body className="mt-2">
                     <Card.Title className='text-center'>{props.name}</Card.Title>
                     <Card.Text className="mt-2 " id="descricao-text">

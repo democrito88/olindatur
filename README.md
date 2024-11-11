@@ -1,8 +1,13 @@
-# React + Vite
+# ![](/src/assets/img/favicon.ico) Olindatur
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Version](https://img.shields.io/badge/v.1.1.0-FDEE21?style=for-the-badge)
 
-Currently, two official plugins are available:
+Font-end application for a tourism purpose page of Olinda, a city in Brazil.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Authors
+- [Demócrito d'Anunciação](https://github.com/democrito88)
+- [Luiz Ferreira](https://github.com/luizfernando1176)
