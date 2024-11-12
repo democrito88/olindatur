@@ -24,7 +24,7 @@ export default function Categoria() {
                                 <Cartao
                                     id={objeto.id}
                                     name={objeto.name}
-                                    descricao={objeto.descricao}
+                                    descricao={objeto.descricao[0]}
                                     img={objeto?.images[0]}
                                     mapa={objeto.linkMapa}
                                     categoria={pagina}
