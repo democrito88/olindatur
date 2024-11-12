@@ -14,7 +14,7 @@ function App() {
   return (
     <>
       <Navegacao />
-      <BrowserRouter>
+      <BrowserRouter basename="/olindatur">
         <Routes>
           <Route element={<Home />} path="/" />
           <Route element={<Categoria />} path="/:pagina" />
