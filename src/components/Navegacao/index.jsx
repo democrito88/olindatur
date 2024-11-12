@@ -33,17 +33,17 @@ export default function Navegacao() {
           </Nav>
         </Navbar.Collapse>
         <Nav>
-          <Nav.Link onClick={() => changeLanguage('pt')}>
-            Português
+          <Nav.Link onClick={() => changeLanguage('pt')} style={{ fontSize: '35px' }}>
+            🇧🇷
           </Nav.Link>
-          <Nav.Link onClick={() => changeLanguage('en')}>
-            English
+          <Nav.Link onClick={() => changeLanguage('en')} style={{ fontSize: '35px' }}>
+            🏴󠁧󠁢󠁥󠁮󠁧󠁿
           </Nav.Link>
-          <Nav.Link onClick={() => changeLanguage('es')}>
-            Español
+          <Nav.Link onClick={() => changeLanguage('es')} style={{ fontSize: '35px' }}>
+            🇪🇸
           </Nav.Link>
-          <Nav.Link onClick={() => changeLanguage('cn')}>
-            中文
+          <Nav.Link onClick={() => changeLanguage('cn')} style={{ fontSize: '35px' }}>
+            🇨🇳
           </Nav.Link>
         </Nav>
       </Container>
