@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import "./Rodape.css"
 import { IoLogoYoutube } from "react-icons/io";
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { SiInstagram } from "react-icons/si";
+import {AppContext} from "../../context/AppContext";
 
 function Rodape() {
+    const {t} = useContext(AppContext);
     return (
         <footer className="rodape mt-4">
             <div className="container">
@@ -33,7 +35,7 @@ function Rodape() {
                     </div>
                 </div>
             </div>
-            <p><b>Prefeitura Municipal de Olinda - Todos os direitos reservados.</b></p>
+            <p><b>Prefeitura Municipal de Olinda - {t('copyright')}.</b></p>
         </footer>
     );
 }

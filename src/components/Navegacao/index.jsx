@@ -1,9 +1,13 @@
-import { useContext } from "react";
+import { useContext, useState } from "react";
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
 import { AppContext } from "../../context/AppContext";
 
 export default function Navegacao() {
-  const { dados, estado, mensagem } = useContext(AppContext);
+  const { dados, estado, mensagem, t, i18n } = useContext(AppContext);
+
+  const changeLanguage = (lang) => {
+    i18n.changeLanguage(lang);
+  };
 
   return (
     <Navbar expand="lg" className="bg-body-tertiary capitalize">
@@ -15,7 +19,7 @@ export default function Navegacao() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <NavDropdown title="Conheça" id="basic-nav-dropdown">
+            <NavDropdown title={t('dropdown-menu')} id="basic-nav-dropdown">
               {estado === 0 || estado === 1 ? (
                 <p>{mensagem}</p>
               ) : (
@@ -28,6 +32,20 @@ export default function Navegacao() {
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
+        <Nav>
+          <Nav.Link onClick={() => changeLanguage('pt')}>
+            Português
+          </Nav.Link>
+          <Nav.Link onClick={() => changeLanguage('en')}>
+            English
+          </Nav.Link>
+          <Nav.Link onClick={() => changeLanguage('es')}>
+            Español
+          </Nav.Link>
+          <Nav.Link onClick={() => changeLanguage('cn')}>
+            中文
+          </Nav.Link>
+        </Nav>
       </Container>
     </Navbar>
   );
