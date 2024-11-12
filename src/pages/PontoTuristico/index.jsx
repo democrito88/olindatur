@@ -14,7 +14,7 @@ function PontoTuristico() {
   const speakText = () => {
     if ('speechSynthesis' in window) {
         const utterance = new SpeechSynthesisUtterance(dados[pagina][id - 1].name+". "+dados[pagina][id - 1].descricao);
-        utterance.lang = 'pt-BR';
+        utterance.lang = 'pt';
         utterance.pitch = 1;
         utterance.rate = 1;
         window.speechSynthesis.speak(utterance);

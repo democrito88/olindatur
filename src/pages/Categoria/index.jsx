@@ -8,8 +8,9 @@ import Cabecalho from "../../components/Cabecalho";
 
 export default function Categoria() {
     const { pagina } = useParams();
-    const { dados, estado, mensagem } = useContext(AppContext);
-
+    const { dados, estado, mensagem, i18n } = useContext(AppContext);
+    const currentLanguage = i18n.language;
+    console.log(currentLanguage);
     return (
 
         <>
@@ -24,7 +25,7 @@ export default function Categoria() {
                                 <Cartao
                                     id={objeto.id}
                                     name={objeto.name}
-                                    descricao={objeto.descricao[0]}
+                                    descricao={objeto.descricao[currentLanguage]}
                                     img={objeto?.images[0]}
                                     mapa={objeto.linkMapa}
                                     categoria={pagina}
