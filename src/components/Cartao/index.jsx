@@ -22,7 +22,7 @@ function Cartao(props) {
         <>
             <Card border="0" className="mt-5 card-uniform ">
                 <Card.Img 
-                src={`/img/${props.img}`} 
+                src={`${props.img}`} 
                 className="img-uniform " 
                 
                 />
