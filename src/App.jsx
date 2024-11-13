@@ -1,6 +1,6 @@
 // App.js
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Rodape from "./components/Rodape";
@@ -14,14 +14,14 @@ function App() {
   return (
     <>
       <Navegacao />
-      <BrowserRouter>
+      <HashRouter basename="/olindatur">
         <Routes>
           <Route element={<Home />} path="/" />
           <Route element={<Categoria />} path="/:pagina" />
           <Route element={<PontoTuristico />} path="/:pagina/:id" />
-          <Route element={<NotFound />} path="*" />
+          <Route element={<NotFound />} path="/*" />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
       <Rodape />
     </>
   );

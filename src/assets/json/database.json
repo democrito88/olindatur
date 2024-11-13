@@ -14,7 +14,7 @@
                 "cn": "圣弗朗西斯科·德巴尔巴略堡建于17世纪，旨在保护奥林达市免受入侵。堡垒位于战略位置，可俯瞰大海和海岸的全景。其遗迹至今仍可参观，让人深入了解葡萄牙殖民历史。"
             },
             "images": [
-                "../../assets/img/fortes/forte_sao_francisco.jpg"
+                "img/fortes/forte_sao_francisco.jpg"
             ],
             "linkMapa": "2wrftcqXwfF2Mmgn6"
         }
@@ -34,7 +34,7 @@
                 "cn": "圣本托教堂，作为一个历史和宗教的地标，以其宏伟的建筑和丰富的装饰而闻名，反映了该地区的文化和精神遗产。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSaoBento.jpg"
+                "img/igrejas/igrejaSaoBento.jpg"
             ],
             "linkMapa": "zPYsvk7tdbzBMRYG6"
         },
@@ -52,7 +52,7 @@
                 "cn": "圣弗朗西斯科教堂，以其巴洛克风格，是一座建筑宝藏，以其艺术之美和历史重要性吸引游客。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSaoFrancisco.jpeg"
+                "img/igrejas/igrejaSaoFrancisco.jpeg"
             ],
             "linkMapa": "1ZKMEfXCB4wdFpyKA"
         },
@@ -70,7 +70,7 @@
                 "cn": "卡尔莫教堂以其宏伟的外立面和哥特式细节而闻名，是宗教虔诚和当地社区丰富历史的象征。"
             },
             "images": [
-                "../../assets/img/igrejas/1.jpg"
+                "img/igrejas/1.jpg"
             ],
             "linkMapa": "XCAPLXFCfHhEGq8c9"
         },
@@ -88,7 +88,7 @@
                 "cn": "黑人民玫瑰教堂是一个重要的崇拜和纪念场所，庆祝非裔巴西社区的信仰和抵抗精神。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaHomemPreto.jpg"
+                "img/igrejas/igrejaHomemPreto.jpg"
             ],
             "linkMapa": "tNJFB1jPBNAd6GaM7"
         },
@@ -106,7 +106,7 @@
                 "cn": "仁慈教堂以其令人惊叹的内部和殖民地建筑而闻名，是朝圣和精神反思的圣地。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaMisericordia.jpg"
+                "img/igrejas/igrejaMisericordia.jpg"
             ],
             "linkMapa": "ojesK9ZQjd8Sccjc6"
         },
@@ -124,7 +124,7 @@
                 "cn": "圣母恩典教堂，作为一个宁静与信仰的圣地，以其简约和宁静的美丽吸引着游客。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaGraca.jpg"
+                "img/igrejas/igrejaGraca.jpg"
             ],
             "linkMapa": "vAfQYNVwBLGxENEr9"
         },
@@ -142,7 +142,7 @@
                 "cn": "建于1540年，是奥林达最古老的教堂，拥有美丽的祭坛和城市的全景。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSe.jpg"
+                "img/igrejas/igrejaSe.jpg"
             ],
             "linkMapa": "CHQUEaVDGB3CLzT4A"
         },
@@ -160,7 +160,7 @@
                 "cn": "成立于1581年，这座教堂以其巴洛克风格的建筑和丰富的装饰细节而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaBatista.jpg"
+                "img/igrejas/igrejaBatista.jpg"
             ],
             "linkMapa": "cKnjfxq2a6ai6PL86"
         },
@@ -178,7 +178,7 @@
                 "cn": "小巧迷人，起源于17世纪，拥有洛可可风格的祭坛和葡萄牙瓷砖。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaConceicao.jpg"
+                "img/igrejas/igrejaConceicao.jpg"
             ],
             "linkMapa": "Z59FBqra6R4WBP7Z9"
         },
@@ -196,7 +196,7 @@
                 "cn": "可追溯到18世纪，以其简洁的外立面和新古典主义风格的祭坛而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/boaHora.jpg"
+                "img/igrejas/boaHora.jpg"
             ],
             "linkMapa": "GGegGKUdrSZcZr4V6"
         },
@@ -214,7 +214,7 @@
                 "cn": "成立于1599年，拥有雕刻木祭坛和美丽的瓷砖面板。"
             },
             "images": [
-                "../../assets/img/igrejas/IgrejaNeves.jpg"
+                "img/igrejas/IgrejaNeves.jpg"
             ],
             "linkMapa": "C8NWYUagW7cBAb7V9"
         },
@@ -232,7 +232,7 @@
                 "cn": "18世纪的小教堂，以其宗教节庆和简朴著称。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaGuadalupe.jpg"
+                "img/igrejas/igrejaGuadalupe.jpg"
             ],
             "linkMapa": "tswVyycheAQVhfTh7"
         },
@@ -250,7 +250,7 @@
                 "cn": "建于1665年，具有巴洛克风格和令人印象深刻的金色祭坛。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaPedro.jpg"
+                "img/igrejas/igrejaPedro.jpg"
             ],
             "linkMapa": "Tuup4C9Gv1gyh8EK9"
         },
@@ -268,7 +268,7 @@
                 "cn": "可追溯到17世纪，以其主祭坛和装饰精美的侧堂而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSebastiao.jpg"
+                "img/igrejas/igrejaSebastiao.jpg"
             ],
             "linkMapa": "yBHk3aiPJ3QFc3Ng6"
         },
@@ -286,7 +286,7 @@
                 "cn": "18世纪的小教堂，以其简洁的外立面和温馨的内部而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSantana.jpg"
+                "img/igrejas/igrejaSantana.jpg"
             ],
             "linkMapa": "zekPDpy3MEbxxPcs8"
         },
@@ -304,7 +304,7 @@
                 "cn": "建于17世纪，拥有美丽的主祭坛，并因其每年举行的节庆而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaBomSucesso.jpg"
+                "img/igrejas/igrejaBomSucesso.jpg"
             ],
             "linkMapa": "4ZqhGHWa2HB7UNZJA"
         },
@@ -322,7 +322,7 @@
                 "可追溯到18世纪，小巧简单，拥有宁静而历史悠久的氛围。"
             ],
             "images": [
-                "../../assets/img/igrejas/igrejaRoque.jpg"
+                "img/igrejas/igrejaRoque.jpg"
             ],
             "linkMapa": "cVsJh94MeKvzKMuL6"
         },
@@ -340,7 +340,7 @@
                 "cn": "拥有巴洛克风格的祭坛，是这座城市最古老的宗教地标之一。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaDivino.jpg"
+                "img/igrejas/igrejaDivino.jpg"
             ],
             "linkMapa": "hFuFC5JDD9j2aSEU9"
         }
@@ -360,7 +360,7 @@
                 "cn": "由帝国法令于1830年创立，是佩尔南布科州的第一家公共图书馆。最初，它位于圣弗朗西斯科修道院，现位于自由大道。它拥有一个历史收藏，并占据着这座城市最古老的建筑之一。"
             },
             "images": [
-                "../../assets/img/monumentos/biblioteca_publica_olinda.jpg"
+                "img/monumentos/biblioteca_publica_olinda.jpg"
             ],
             "linkMapa": "eXkMCR7HuoGySoNTA"
         },
@@ -378,7 +378,7 @@
                 "cn": "建于1934年，水箱是一个现代建筑地标，并设有一个全景电梯，提供奥林达和累西腓市区360º的视野。"
             },
             "images": [
-                "../../assets/img/monumentos/caixa_dagua_alto_se.jpg"
+                "img/monumentos/caixa_dagua_alto_se.jpg"
             ],
             "linkMapa": "XioxNVkxTpopG2QD7"
         },
@@ -396,7 +396,7 @@
                 "cn": "这座历史悠久的宅邸曾属于若昂·费尔南德斯·维埃拉，他是17世纪反抗荷兰人斗争中的重要人物。"
             },
             "images": [
-                "../../assets/img/monumentos/casa_joao_fernandes.jpg"
+                "img/monumentos/casa_joao_fernandes.jpg"
             ],
             "linkMapa": "sjZd8VgQ1ackrq2K8"
         },
@@ -414,7 +414,7 @@
                 "cn": "CEMO位于一座19世纪的宅邸，曾是塔卡鲁纳男爵的故居。如今，它是奥林达的一个市立音乐学校。"
             },
             "images": [
-                "../../assets/img/monumentos/cemo.jpg"
+                "img/monumentos/cemo.jpg"
             ],
             "linkMapa": "KbpjW3tiRekr55Yj6"
         },
@@ -432,7 +432,7 @@
                 "cn": "源自苏格兰的铸铁凉亭，建于1914年，用于户外活动和音乐表演。"
             },
             "images": [
-                "../../assets/img/monumentos/coreto_preguica.jpg"
+                "img/monumentos/coreto_preguica.jpg"
             ],
             "linkMapa": "i44zUGYXCZhKetG46"
         },
@@ -450,7 +450,7 @@
                 "cn": "灯塔最初建在蒙特內格羅堡垒上，后于1941年迁至塞拉皮昂山。可在12英里外看到，是该市的旅游地标之一。"
             },
             "images": [
-                "../../assets/img/monumentos/farol_olinda.jpg"
+                "img/monumentos/farol_olinda.jpg"
             ],
             "linkMapa": "urLWDETrwWyYt23b9"
         },
@@ -468,7 +468,7 @@
                 "cn": "在19世纪，马尚邦巴通过一条蒸汽火车线路将奥林达与其他地区连接起来。如今，该地点是商业和住宅的所在地。"
             },
             "images": [
-                "../../assets/img/monumentos/maxambomba.jpg"
+                "img/monumentos/maxambomba.jpg"
             ],
             "linkMapa": "BdJVGuaW4QsLoBxy6"
         },
@@ -486,7 +486,7 @@
                 "cn": "曾经是阿莫林糖果厂，该市场被改建用于文化活动，设有剧院和展览空间。"
             },
             "images": [
-                "../../assets/img/monumentos/mercado_eufrasio_barbosa.jpg"
+                "img/monumentos/mercado_eufrasio_barbosa.jpg"
             ],
             "linkMapa": "fz4zLU7ci57k6T389"
         },
@@ -504,7 +504,7 @@
                 "cn": "建于17世纪，是巴西殖民建筑的典范，现作为手工艺品市场使用。"
             },
             "images": [
-                "../../assets/img/monumentos/mercado_ribeira.jpg"
+                "img/monumentos/mercado_ribeira.jpg"
             ],
             "linkMapa": "J4n48xLP5ai2wd737"
         },
@@ -522,7 +522,7 @@
                 "cn": "建于19世纪80年代的阿尔托达塞，曾用于天文和气象研究。如今，它是用于观星和科学教育的开放空间。"
             },
             "images": [
-                "../../assets/img/monumentos/observatorio.jpg"
+                "img/monumentos/observatorio.jpg"
             ],
             "linkMapa": "3wWFCDkC9anJD6VMA"
         },
@@ -540,7 +540,7 @@
                 "cn": "奥林达市政厅所在地，该宫殿在17世纪曾是巴西总督的官邸，拥有丰富的政治和建筑历史。"
             },
             "images": [
-                "../../assets/img/monumentos/palacio_governadores.jpg"
+                "img/monumentos/palacio_governadores.jpg"
             ],
             "linkMapa": "xRUrAndVsEmz5JYn6"
         },
@@ -558,7 +558,7 @@
                 "cn": "1710年，巴西首次宣布共和制的地方。该建筑在19世纪陷入废墟。"
             },
             "images": [
-                "../../assets/img/monumentos/ruinas_senado.jpg"
+                "img/monumentos/ruinas_senado.jpg"
             ],
             "linkMapa": "ehFanMYD1UnpsjLt6"
         },
@@ -576,7 +576,7 @@
                 "cn": "带有阿拉伯建筑元素的17世纪旧宅，是伯南布哥殖民时期保存最完好的建筑之一。"
             },
             "images": [
-                "../../assets/img/monumentos/sobrado_mourisco_amparo.jpg"
+                "img/monumentos/sobrado_mourisco_amparo.jpg"
             ],
             "linkMapa": "ZVGrzcjQbB2qyQWD6"
         },
@@ -594,7 +594,7 @@
                 "cn": "这座宅邸于1859年接待了佩德罗二世皇帝，具有阿拉伯风格的建筑特色。"
             },
             "images": [
-                "../../assets/img/monumentos/sobrado_mourisco_sao_pedro.jpg"
+                "img/monumentos/sobrado_mourisco_sao_pedro.jpg"
             ],
             "linkMapa": "uU8Pr1XQhTZDEVNf8"
         },
@@ -612,7 +612,7 @@
                 "cn": "建于16世纪，比卡是为奥林达居民服务的历史古井。"
             },
             "images": [
-                "../../assets/img/monumentos/bica_sao_pedro.jpg"
+                "img/monumentos/bica_sao_pedro.jpg"
             ],
             "linkMapa": "E915DxPAdCr9F3E28"
         },
@@ -630,7 +630,7 @@
                 "cn": "16世纪的Fontes山谷遗迹，其正面装饰着石制水罐和城市的徽章。"
             },
             "images": [
-                "../../assets/img/monumentos/bica_rosario.jpg"
+                "img/monumentos/bica_rosario.jpg"
             ],
             "linkMapa": "vMZwQKfPx1aP6A899"
         },
@@ -648,7 +648,7 @@
                 "cn": "这座历史喷泉建于1602年，也被称为塔巴廷加喷泉。多年来，它曾多次被毁并重建。"
             },
             "images": [
-                "../../assets/img/monumentos/bica_quatro_cantos.jpg"
+                "img/monumentos/bica_quatro_cantos.jpg"
             ],
             "linkMapa": "aFJFRTevN4otGoce7"
         }
@@ -665,7 +665,7 @@
                 "cn": "这座建筑建于1765年，最初用作阿尔朱贝或教会监狱，关押宗教裁判所的囚犯。对面建起了圣佩德罗·阿德温库拉教堂。阿尔朱贝和教堂组成的建筑群于1966年由巴西国家历史和艺术遗产研究所（IPHAN）修复并列为遗产。如今，这里设有一座博物馆，收藏了4000多件不同技法和风格的作品，其中包括波尔蒂纳里、西塞罗·迪亚斯和迪·卡瓦尔坎蒂等著名艺术家的作品。"
             },
             "images": [
-                "../../assets/img/museus/mac.jpg"
+                "img/museus/mac.jpg"
             ],
             "linkMapa": ""
         },
@@ -680,7 +680,7 @@
                 "cn": "MASPE 于 1977 年开业，位于前奥林达主教宫内。它的藏品包括 16 世纪的古代学术图像、流行的神圣艺术品和崇拜物品。正面有古老的主教徽章和联合国教科文组织的牌匾，宣布奥林达为人类历史纪念碑。"
             },
             "images": [
-                "../../assets/img/museus/maspe.jpg"
+                "img/museus/maspe.jpg"
             ],
             "linkMapa": ""
         },
@@ -695,7 +695,7 @@
                 "cn": "木偶博物馆成立于1994年，收藏了1200多件木偶大师的作品，展现了民间人物形象。它是拉丁美洲首个致力于民间木偶的博物馆，其中一些作品可追溯到18世纪。"
             },
             "images": [
-                "../../assets/img/museus/manulengo.jpg"
+                "img/museus/manulengo.jpg"
             ],
             "linkMapa": ""
         },
@@ -710,7 +710,7 @@
                 "cn": "奥林达地区博物馆建于 18 世纪，成立于 1935 年，收藏了 217 件历史文物，如家具、面板、图像和奥林达参议院的徽章。"
             },
             "images": [
-                "../../assets/img/museus/mro.jpg"
+                "img/museus/mro.jpg"
             ],
             "linkMapa": ""
         }
