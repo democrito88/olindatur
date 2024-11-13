@@ -9,7 +9,8 @@ import { TbBrandGoogleMaps } from "react-icons/tb";
 
 function PontoTuristico() {
   const { pagina, id } = useParams();
-  const { dados, estado, mensagem } = useContext(AppContext);
+  const { dados, estado, mensagem, i18n } = useContext(AppContext);
+  const currentLanguage = i18n.language;
 
   const speakText = () => {
     if ('speechSynthesis' in window) {
@@ -37,7 +38,7 @@ function PontoTuristico() {
               <h3 className="mt-2 text-center">
                 {dados[pagina][id - 1].name}
               </h3>
-              <p>{dados[pagina][id - 1].descricao}</p>
+              <p>{dados[pagina][id - 1].descricao[currentLanguage]}</p>
               <div className="d-flex justify-content-start mt-3">
                 <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
                 <a href={`https://maps.app.goo.gl/${dados[pagina][id - 1].linkMapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>

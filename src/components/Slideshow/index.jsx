@@ -70,13 +70,13 @@ export default function Slideshow({imagens}){
                     <Row>
                         {imagens.map((imagem, index) => 
                             <Col key={index}>
-                                <img className="demo cursor" width={'100%'} src={`img/${imagem}`} onClick={() => currentSlide(1)} />
+                                <img className="demo cursor" width={'100%'} src={`${imagem}`} onClick={() => currentSlide(1)} />
                             </Col>
                         )}
                     </Row>
                 </>
             :
-                <img width={'100%'} src={`img/${imagens[0]}`}/>
+                <img width={'100%'} src={`${imagens[0]}`}/>
             }
         </div>
     );
