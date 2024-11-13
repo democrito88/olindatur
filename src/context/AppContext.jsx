@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next';
 export const AppContext = createContext();
 
 export const AppProvider = ({ children }) => {
-  const {dados, estado, mensagem} = useFetch(`/json/database.json`);
+  const {dados, estado, mensagem} = useFetch(`https://mocki.io/v1/cf9ee34d-bc1c-4e33-b2bc-6c73c4eb8068`);
   const { t, i18n } = useTranslation();
   
   return (
