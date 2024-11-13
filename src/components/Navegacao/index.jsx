@@ -13,7 +13,7 @@ export default function Navegacao() {
     <Navbar expand="lg" className="bg-body-tertiary capitalize">
       <Container>
         <Navbar.Brand href="/" className="d-flex flex-row align-items-baseline">
-          <img src="../src/assets/img/favicon.png" width={20} />
+          <img src="/favicon.png" width={20} />
           OlindaTur
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />

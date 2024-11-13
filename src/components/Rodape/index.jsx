@@ -13,10 +13,10 @@ function Rodape() {
             <div className="container">
                 <div className="row mt-3 d-flex flex-row align-itens-baseline" >
                     <div className="col-sm">
-                        <img src={'../src/assets/img/brasao.png'} width={'200px'} className='left' />
+                        <img src={'/brasao.png'} width={'200px'} className='left' />
                     </div>
                     <div className="col-sm ">
-                        <img src={"../src/assets/img/fSemFundo.png"} width="50px" alt="Logo Olindatur" /><b>Olindatur &copy;</b>
+                        <img src={"/fSemFundo.png"} width="50px" alt="Logo Olindatur" /><b>Olindatur &copy;</b>
                     </div>
                     <div className="col-sm link-social">
                         <a href="#">
