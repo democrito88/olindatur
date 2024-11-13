@@ -9,5 +9,5 @@ export default defineConfig({
     alias: {
       'react-vlibras': '/node_modules/react-vlibras/dist/index.js'
     }
-  }
+  },
 })
