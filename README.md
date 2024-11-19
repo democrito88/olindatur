@@ -8,8 +8,10 @@
 
 Font-end application for a tourism purpose page of Olinda, a city in Brazil.
 
-### Gerar conteiner
-- ```docker build -t olindatur```
+### Gerar container
+
+Com o terminal apontando para a raiz do projeto, digite estes comandos:
+- ```docker build -t olindatur .```
 - ```docker run -p 8080:8080 -d olindatur```
 
 ### Authors
