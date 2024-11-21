@@ -3,6 +3,7 @@ export const lightTheme = {
     text: "#000000",
     navbarBackground: "#f8f9fa",
     navbarText: "#000000",
+    rodape:"#000000"
   };
   
   export const darkTheme = {

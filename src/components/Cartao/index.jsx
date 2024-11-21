@@ -3,9 +3,16 @@ import { Button, Card } from 'react-bootstrap';
 import { TbBrandGoogleMaps } from 'react-icons/tb';
 import { FaVolumeUp } from "react-icons/fa";
 import './Cartao.css';
+import { Link } from 'react-router-dom';
 
 
 function Cartao(props) {
+    const comprimentoMaximo = 100;
+    const texto = props.descricao.pt.length > comprimentoMaximo ? 
+        props.descricao.pt.slice(0, comprimentoMaximo)+"..."
+        :
+        props.descricao.pt;
+
     const speakText = () => {
         if ('speechSynthesis' in window) {
             const utterance = new SpeechSynthesisUtterance(props.descricao);
@@ -18,8 +25,10 @@ function Cartao(props) {
         }
     };
 
+    console.log(props.descricao);
+
     return (
-        <>
+        <Link to={`/${props.categoria}/${props.id}`}>
             <Card border="0" className="mt-5 card-uniform ">
                 <Card.Img 
                 src={`../src/assets/img/${props.img}`} 
@@ -30,11 +39,6 @@ function Cartao(props) {
                     <Card.Title className='text-center'>{props.name}</Card.Title>
                     <Card.Text className="mt-2 " id="descricao-text">
                         {props.descricao}
-                        <Card.Link 
-                        href={`/${props.categoria}/${props.id}`}
-                        className='saiba-mais'>
-                            Saiba mais...
-                        </Card.Link>
                     </Card.Text>
                     <Card.Footer>
                         <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
@@ -44,7 +48,7 @@ function Cartao(props) {
                     </Card.Footer>
                 </Card.Body>
             </Card>
-        </>
+        </Link>
     );
 }
 

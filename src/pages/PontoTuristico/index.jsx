@@ -37,7 +37,7 @@ function PontoTuristico() {
               <h3 className="mt-2 text-center">
                 {dados[pagina][id - 1].name}
               </h3>
-              <p>{dados[pagina][id - 1].descricao}</p>
+              <p>{dados[pagina][id - 1].descricao.pt}</p>
               <div className="d-flex justify-content-start mt-3">
                 <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
                 <a href={`https://maps.app.goo.gl/${dados[pagina][id - 1].linkMapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
