@@ -5,6 +5,13 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   //base: '/olindatur/',
   plugins: [react()],
+  /*/Adicionar isto para funcionar no docker
+  server: {
+    host: true,
+    strictPort: true,
+    port: 8080
+  },
+  //fim*/
   resolve: {
     alias: {
       'react-vlibras': '/node_modules/react-vlibras/dist/index.js'
