@@ -14,7 +14,7 @@
                 "cn": "圣弗朗西斯科·德巴尔巴略堡建于17世纪，旨在保护奥林达市免受入侵。堡垒位于战略位置，可俯瞰大海和海岸的全景。其遗迹至今仍可参观，让人深入了解葡萄牙殖民历史。"
             },
             "images": [
-                "../../assets/img/fortes/forte_sao_francisco.jpg"
+                "../src/assets/img/fortes/forte_sao_francisco.jpg"
             ],
             "linkMapa": "2wrftcqXwfF2Mmgn6"
         }
@@ -34,7 +34,7 @@
                 "cn": "圣本托教堂，作为一个历史和宗教的地标，以其宏伟的建筑和丰富的装饰而闻名，反映了该地区的文化和精神遗产。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSaoBento.jpg"
+                "../src/assets/img/igrejas/igrejaSaoBento.jpg"
             ],
             "linkMapa": "zPYsvk7tdbzBMRYG6"
         },
@@ -52,7 +52,7 @@
                 "cn": "圣弗朗西斯科教堂，以其巴洛克风格，是一座建筑宝藏，以其艺术之美和历史重要性吸引游客。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSaoFrancisco.jpeg"
+                "../src/assets/img/igrejas/igrejaSaoFrancisco.jpeg"
             ],
             "linkMapa": "1ZKMEfXCB4wdFpyKA"
         },
@@ -70,7 +70,7 @@
                 "cn": "卡尔莫教堂以其宏伟的外立面和哥特式细节而闻名，是宗教虔诚和当地社区丰富历史的象征。"
             },
             "images": [
-                "../../assets/img/igrejas/1.jpg"
+                "../src/assets/img/igrejas/1.jpg"
             ],
             "linkMapa": "XCAPLXFCfHhEGq8c9"
         },
@@ -88,7 +88,7 @@
                 "cn": "黑人民玫瑰教堂是一个重要的崇拜和纪念场所，庆祝非裔巴西社区的信仰和抵抗精神。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaHomemPreto.jpg"
+                "../src/assets/img/igrejas/igrejaHomemPreto.jpg"
             ],
             "linkMapa": "tNJFB1jPBNAd6GaM7"
         },
@@ -106,7 +106,7 @@
                 "cn": "仁慈教堂以其令人惊叹的内部和殖民地建筑而闻名，是朝圣和精神反思的圣地。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaMisericordia.jpg"
+                "../src/assets/img/igrejas/igrejaMisericordia.jpg"
             ],
             "linkMapa": "ojesK9ZQjd8Sccjc6"
         },
@@ -124,7 +124,7 @@
                 "cn": "圣母恩典教堂，作为一个宁静与信仰的圣地，以其简约和宁静的美丽吸引着游客。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaGraca.jpg"
+                "../src/assets/img/igrejas/igrejaGraca.jpg"
             ],
             "linkMapa": "vAfQYNVwBLGxENEr9"
         },
@@ -142,7 +142,7 @@
                 "cn": "建于1540年，是奥林达最古老的教堂，拥有美丽的祭坛和城市的全景。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSe.jpg"
+                "../src/assets/img/igrejas/igrejaSe.jpg"
             ],
             "linkMapa": "CHQUEaVDGB3CLzT4A"
         },
@@ -160,7 +160,7 @@
                 "cn": "成立于1581年，这座教堂以其巴洛克风格的建筑和丰富的装饰细节而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaBatista.jpg"
+                "../src/assets/img/igrejas/igrejaBatista.jpg"
             ],
             "linkMapa": "cKnjfxq2a6ai6PL86"
         },
@@ -178,7 +178,7 @@
                 "cn": "小巧迷人，起源于17世纪，拥有洛可可风格的祭坛和葡萄牙瓷砖。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaConceicao.jpg"
+                "../src/assets/img/igrejas/igrejaConceicao.jpg"
             ],
             "linkMapa": "Z59FBqra6R4WBP7Z9"
         },
@@ -196,7 +196,7 @@
                 "cn": "可追溯到18世纪，以其简洁的外立面和新古典主义风格的祭坛而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/boaHora.jpg"
+                "../src/assets/img/igrejas/boaHora.jpg"
             ],
             "linkMapa": "GGegGKUdrSZcZr4V6"
         },
@@ -214,7 +214,7 @@
                 "cn": "成立于1599年，拥有雕刻木祭坛和美丽的瓷砖面板。"
             },
             "images": [
-                "../../assets/img/igrejas/IgrejaNeves.jpg"
+                "../src/assets/img/igrejas/IgrejaNeves.jpg"
             ],
             "linkMapa": "C8NWYUagW7cBAb7V9"
         },
@@ -232,7 +232,7 @@
                 "cn": "18世纪的小教堂，以其宗教节庆和简朴著称。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaGuadalupe.jpg"
+                "../src/assets/img/igrejas/igrejaGuadalupe.jpg"
             ],
             "linkMapa": "tswVyycheAQVhfTh7"
         },
@@ -250,7 +250,7 @@
                 "cn": "建于1665年，具有巴洛克风格和令人印象深刻的金色祭坛。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaPedro.jpg"
+                "../src/assets/img/igrejas/igrejaPedro.jpg"
             ],
             "linkMapa": "Tuup4C9Gv1gyh8EK9"
         },
@@ -268,7 +268,7 @@
                 "cn": "可追溯到17世纪，以其主祭坛和装饰精美的侧堂而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSebastiao.jpg"
+                "../src/assets/img/igrejas/igrejaSebastiao.jpg"
             ],
             "linkMapa": "yBHk3aiPJ3QFc3Ng6"
         },
@@ -286,7 +286,7 @@
                 "cn": "18世纪的小教堂，以其简洁的外立面和温馨的内部而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaSantana.jpg"
+                "../src/assets/img/igrejas/igrejaSantana.jpg"
             ],
             "linkMapa": "zekPDpy3MEbxxPcs8"
         },
@@ -304,7 +304,7 @@
                 "cn": "建于17世纪，拥有美丽的主祭坛，并因其每年举行的节庆而闻名。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaBomSucesso.jpg"
+                "../src/assets/img/igrejas/igrejaBomSucesso.jpg"
             ],
             "linkMapa": "4ZqhGHWa2HB7UNZJA"
         },
@@ -322,7 +322,7 @@
                 "可追溯到18世纪，小巧简单，拥有宁静而历史悠久的氛围。"
             ],
             "images": [
-                "../../assets/img/igrejas/igrejaRoque.jpg"
+                "../src/assets/img/igrejas/igrejaRoque.jpg"
             ],
             "linkMapa": "cVsJh94MeKvzKMuL6"
         },
@@ -340,7 +340,7 @@
                 "cn": "拥有巴洛克风格的祭坛，是这座城市最古老的宗教地标之一。"
             },
             "images": [
-                "../../assets/img/igrejas/igrejaDivino.jpg"
+                "../src/assets/img/igrejas/igrejaDivino.jpg"
             ],
             "linkMapa": "hFuFC5JDD9j2aSEU9"
         }
@@ -360,7 +360,7 @@
                 "cn": "由帝国法令于1830年创立，是佩尔南布科州的第一家公共图书馆。最初，它位于圣弗朗西斯科修道院，现位于自由大道。它拥有一个历史收藏，并占据着这座城市最古老的建筑之一。"
             },
             "images": [
-                "../../assets/img/monumentos/biblioteca_publica_olinda.jpg"
+                "../src/assets/img/monumentos/biblioteca_publica_olinda.jpg"
             ],
             "linkMapa": "eXkMCR7HuoGySoNTA"
         },
@@ -378,7 +378,7 @@
                 "cn": "建于1934年，水箱是一个现代建筑地标，并设有一个全景电梯，提供奥林达和累西腓市区360º的视野。"
             },
             "images": [
-                "../../assets/img/monumentos/caixa_dagua_alto_se.jpg"
+                "../src/assets/img/monumentos/caixa_dagua_alto_se.jpg"
             ],
             "linkMapa": "XioxNVkxTpopG2QD7"
         },
@@ -396,7 +396,7 @@
                 "cn": "这座历史悠久的宅邸曾属于若昂·费尔南德斯·维埃拉，他是17世纪反抗荷兰人斗争中的重要人物。"
             },
             "images": [
-                "../../assets/img/monumentos/casa_joao_fernandes.jpg"
+                "../src/assets/img/monumentos/casa_joao_fernandes.jpg"
             ],
             "linkMapa": "sjZd8VgQ1ackrq2K8"
         },
@@ -414,7 +414,7 @@
                 "cn": "CEMO位于一座19世纪的宅邸，曾是塔卡鲁纳男爵的故居。如今，它是奥林达的一个市立音乐学校。"
             },
             "images": [
-                "../../assets/img/monumentos/cemo.jpg"
+                "../src/assets/img/monumentos/cemo.jpg"
             ],
             "linkMapa": "KbpjW3tiRekr55Yj6"
         },
@@ -432,7 +432,7 @@
                 "cn": "源自苏格兰的铸铁凉亭，建于1914年，用于户外活动和音乐表演。"
             },
             "images": [
-                "../../assets/img/monumentos/coreto_preguica.jpg"
+                "../src/assets/img/monumentos/coreto_preguica.jpg"
             ],
             "linkMapa": "i44zUGYXCZhKetG46"
         },
@@ -450,7 +450,7 @@
                 "cn": "灯塔最初建在蒙特內格羅堡垒上，后于1941年迁至塞拉皮昂山。可在12英里外看到，是该市的旅游地标之一。"
             },
             "images": [
-                "../../assets/img/monumentos/farol_olinda.jpg"
+                "../src/assets/img/monumentos/farol_olinda.jpg"
             ],
             "linkMapa": "urLWDETrwWyYt23b9"
         },
@@ -468,7 +468,7 @@
                 "cn": "在19世纪，马尚邦巴通过一条蒸汽火车线路将奥林达与其他地区连接起来。如今，该地点是商业和住宅的所在地。"
             },
             "images": [
-                "../../assets/img/monumentos/maxambomba.jpg"
+                "../src/assets/img/monumentos/maxambomba.jpg"
             ],
             "linkMapa": "BdJVGuaW4QsLoBxy6"
         },
@@ -486,7 +486,7 @@
                 "cn": "曾经是阿莫林糖果厂，该市场被改建用于文化活动，设有剧院和展览空间。"
             },
             "images": [
-                "../../assets/img/monumentos/mercado_eufrasio_barbosa.jpg"
+                "../src/assets/img/monumentos/mercado_eufrasio_barbosa.jpg"
             ],
             "linkMapa": "fz4zLU7ci57k6T389"
         },
@@ -504,7 +504,7 @@
                 "cn": "建于17世纪，是巴西殖民建筑的典范，现作为手工艺品市场使用。"
             },
             "images": [
-                "../../assets/img/monumentos/mercado_ribeira.jpg"
+                "../src/assets/img/monumentos/mercado_ribeira.jpg"
             ],
             "linkMapa": "J4n48xLP5ai2wd737"
         },
@@ -522,7 +522,7 @@
                 "cn": "建于19世纪80年代的阿尔托达塞，曾用于天文和气象研究。如今，它是用于观星和科学教育的开放空间。"
             },
             "images": [
-                "../../assets/img/monumentos/observatorio.jpg"
+                "../src/assets/img/monumentos/observatorio.jpg"
             ],
             "linkMapa": "3wWFCDkC9anJD6VMA"
         },
@@ -540,7 +540,7 @@
                 "cn": "奥林达市政厅所在地，该宫殿在17世纪曾是巴西总督的官邸，拥有丰富的政治和建筑历史。"
             },
             "images": [
-                "../../assets/img/monumentos/palacio_governadores.jpg"
+                "../src/assets/img/monumentos/palacio_governadores.jpg"
             ],
             "linkMapa": "xRUrAndVsEmz5JYn6"
         },
@@ -558,7 +558,7 @@
                 "cn": "1710年，巴西首次宣布共和制的地方。该建筑在19世纪陷入废墟。"
             },
             "images": [
-                "../../assets/img/monumentos/ruinas_senado.jpg"
+                "../src/assets/img/monumentos/ruinas_senado.jpg"
             ],
             "linkMapa": "ehFanMYD1UnpsjLt6"
         },
@@ -576,7 +576,7 @@
                 "cn": "带有阿拉伯建筑元素的17世纪旧宅，是伯南布哥殖民时期保存最完好的建筑之一。"
             },
             "images": [
-                "../../assets/img/monumentos/sobrado_mourisco_amparo.jpg"
+                "../src/assets/img/monumentos/sobrado_mourisco_amparo.jpg"
             ],
             "linkMapa": "ZVGrzcjQbB2qyQWD6"
         },
@@ -594,7 +594,7 @@
                 "cn": "这座宅邸于1859年接待了佩德罗二世皇帝，具有阿拉伯风格的建筑特色。"
             },
             "images": [
-                "../../assets/img/monumentos/sobrado_mourisco_sao_pedro.jpg"
+                "../src/assets/img/monumentos/sobrado_mourisco_sao_pedro.jpg"
             ],
             "linkMapa": "uU8Pr1XQhTZDEVNf8"
         },
@@ -612,7 +612,7 @@
                 "cn": "建于16世纪，比卡是为奥林达居民服务的历史古井。"
             },
             "images": [
-                "../../assets/img/monumentos/bica_sao_pedro.jpg"
+                "../src/assets/img/monumentos/bica_sao_pedro.jpg"
             ],
             "linkMapa": "E915DxPAdCr9F3E28"
         },
@@ -630,7 +630,7 @@
                 "cn": "16世纪的Fontes山谷遗迹，其正面装饰着石制水罐和城市的徽章。"
             },
             "images": [
-                "../../assets/img/monumentos/bica_rosario.jpg"
+                "../src/assets/img/monumentos/bica_rosario.jpg"
             ],
             "linkMapa": "vMZwQKfPx1aP6A899"
         },
@@ -648,7 +648,7 @@
                 "cn": "这座历史喷泉建于1602年，也被称为塔巴廷加喷泉。多年来，它曾多次被毁并重建。"
             },
             "images": [
-                "../../assets/img/monumentos/bica_quatro_cantos.jpg"
+                "../src/assets/img/monumentos/bica_quatro_cantos.jpg"
             ],
             "linkMapa": "aFJFRTevN4otGoce7"
         }
@@ -665,7 +665,7 @@
                 "cn": "这座建筑建于1765年，最初用作阿尔朱贝或教会监狱，关押宗教裁判所的囚犯。对面建起了圣佩德罗·阿德温库拉教堂。阿尔朱贝和教堂组成的建筑群于1966年由巴西国家历史和艺术遗产研究所（IPHAN）修复并列为遗产。如今，这里设有一座博物馆，收藏了4000多件不同技法和风格的作品，其中包括波尔蒂纳里、西塞罗·迪亚斯和迪·卡瓦尔坎蒂等著名艺术家的作品。"
             },
             "images": [
-                "../../assets/img/museus/mac.jpg"
+                "../src/assets/img/museus/mac.jpg"
             ],
             "linkMapa": ""
         },
@@ -680,7 +680,7 @@
                 "cn": "MASPE 于 1977 年开业，位于前奥林达主教宫内。它的藏品包括 16 世纪的古代学术图像、流行的神圣艺术品和崇拜物品。正面有古老的主教徽章和联合国教科文组织的牌匾，宣布奥林达为人类历史纪念碑。"
             },
             "images": [
-                "../../assets/img/museus/maspe.jpg"
+                "../src/assets/img/museus/maspe.jpg"
             ],
             "linkMapa": ""
         },
@@ -695,7 +695,7 @@
                 "cn": "木偶博物馆成立于1994年，收藏了1200多件木偶大师的作品，展现了民间人物形象。它是拉丁美洲首个致力于民间木偶的博物馆，其中一些作品可追溯到18世纪。"
             },
             "images": [
-                "../../assets/img/museus/manulengo.jpg"
+                "../src/assets/img/museus/manulengo.jpg"
             ],
             "linkMapa": ""
         },
@@ -710,7 +710,184 @@
                 "cn": "奥林达地区博物馆建于 18 世纪，成立于 1935 年，收藏了 217 件历史文物，如家具、面板、图像和奥林达参议院的徽章。"
             },
             "images": [
-                "../../assets/img/museus/mro.jpg"
+                "../src/assets/img/museus/mro.jpg"
+            ],
+            "linkMapa": ""
+        }
+    ],
+    "praias":[
+        {
+            "id": "1",
+            "name": "Praia do Farol",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Localizada em Bairro Novo, é um ponto turístico de Olinda.",
+                "en": "Located in Bairro Novo, it is a tourist spot in Olinda.",
+                "es": "Ubicado en Bairro Novo, es una atracción turística de Olinda.",
+                "cn": "位于Bairro Novo，是奥林达的一个旅游景点。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7c/46/d0/pe.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/64/5d/fc/bela-praia.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/12/14/b9/praia-do-farol.jpg?w=900&h=500&s=1"
+
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "2",
+            "name": "Praia do Carmo",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "É um local para caminhar, ver o por do sol ou terminar uma tarde.",
+                "en": "It's a place to walk, watch the sunset or end an afternoon.",
+                "es": "Es un lugar para caminar, ver el atardecer o terminar una tarde.",
+                "cn": "这是一个散步、观看日落或结束一个下午的地方。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/73/ff/2f/photo1jpg.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/55/47/70/praia-do-carmo-olinda.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4b/c9/8b/praia-do-carmo-2-km-do.jpg?w=100&h=-1&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "3",
+            "name": "Praia da Santa",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Localiza-se no limite entre Olinda e Paulista e tem uma das maiores imagens do amanhecer do litoral nordestino.",
+                "en": "It is located on the border between Olinda and Paulista and has one of the greatest images of the dawn on the northeast coast.",
+                "es": "Está ubicado en el límite entre Olinda y Paulista y tiene una de las mayores imágenes del amanecer en la costa nororiental.",
+                "cn": "它位于奥林达和保利斯塔之间的边界，拥有东北海岸最美丽的黎明图像之一。"
+            },
+            "images": [
+                "https://i.ytimg.com/vi/g3-6QO9PUoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGmxYwPLw3aCOBQBwI6LXNXS8I8w",
+                "https://i.ytimg.com/vi/CmnGDCJkUB4/maxresdefault.jpg"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "4",
+            "name": "Praia do Quartel",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Possui diversas opções de lazer. No local existem muitas opções de barracas, restaurantes de praia, estacionamento e diversas opções para quem gosta de praticar esportes (vôlei, futvôlei, caiaque e entre outros).",
+                "en": "It has several leisure options. There are many stalls, beach restaurants, parking and several options for those who enjoy playing sports (volleyball, footvolley, kayaking and others).",
+                "es": "Tiene varias opciones de ocio. En el lugar hay muchas opciones de puestos, restaurantes de playa, estacionamiento y varias opciones para quienes gustan de practicar deportes (voleibol, futvoleibol, kayak y otros).",
+                "cn": "它有多种休闲选择。现场有许多摊位、海滩餐厅、停车场，还为喜欢运动的客人提供多种选择（排球、五人制排球、皮划艇等）。"
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMTcdpIMkYcphL_066XeWS1ZcfiwI3jD6T4sCa2=s1600",
+                "https://lh5.googleusercontent.com/p/AF1QipMr4-49vJya2zXPqhsKZw8qJTimD4PiFYLNv2t-=s1600"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "5",
+            "name": "Praia dos Milagres",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Os 500m de extensão podem ser aproveitados para contemplar os casarões localizados à beira mar.",
+                "en": "The 500m of extension can be used to contemplate the mansions located on the seafront.",
+                "es": "Los 500 m de longitud permiten admirar las mansiones situadas junto al mar.",
+                "cn": "500m的长度可以欣赏位于海边的豪宅。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2f/14/ce/praia-dos-milagres-olinda.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d4/e8/06/playa-y-no-mucho-mas.jpg?w=900&h=500&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "6",
+            "name": "Praia de Rio Doce",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Praia simples de grande litoral, é conhecida por seu visual mais rústico e por sua tranquilidade. Não costuma receber muitas visitas de turistas, sendo normalmente frequentada por moradores da região e pescadores.  Conta com uma larga faixa de areia dourada e batida, o mar é calmo, propício para a prática de esportes como caiaque e pesca esportiva. No verão é comum ver vários jovens jogando futebol e vôlei nessa praia, aproveitando ao máximo um dia de férias. Com diversos prédios na orla e comércios, o lugar conta com boa infraestrutura em suas proximidades, mas o visitante pode levar alimentos e bebidas e fazer um pic-nic em família ou com os amigos. Durante o entardecer, fazer uma caminhada à beira-mar é uma boa dica.",
+                "en": "A simple beach with a large coastline, it is known for its rustic look and tranquility. It does not usually receive many tourists, and is usually frequented by local residents and fishermen. It has a wide strip of golden, hard-packed sand, and the sea is calm, ideal for sports such as kayaking and sport fishing. In the summer, it is common to see many young people playing soccer and volleyball on this beach, making the most of a day of vacation. With several buildings on the shore and shops, the place has good infrastructure nearby, but visitors can bring food and drinks and have a picnic with family or friends. During the evening, taking a walk along the seafront is a good tip.",
+                "es": "Playa sencilla y de gran litoral, destaca por su aspecto más rústico y su tranquilidad. No suele recibir muchas visitas de turistas, y suele ser frecuentado por vecinos y pescadores. Tiene una amplia franja de arena dorada y rugosa, el mar es tranquilo, apto para la práctica de deportes como kayak y pesca deportiva. En verano es habitual ver a varios jóvenes jugando al fútbol y al voleibol en esta playa, aprovechando un día de vacaciones. Con varios edificios frente al mar y tiendas, el lugar cuenta con buena infraestructura cercana, pero los visitantes pueden traer comida y bebida y hacer un picnic con familiares o amigos. Por la noche, dar un paseo junto al mar es un buen consejo.",
+                "cn": "这是一个拥有广阔海岸线的简单海滩，以其更质朴的外观和宁​​静而闻名。它通常不会接待太多游客，通常是当地居民和渔民经常光顾。 这里有宽阔的金色沙滩，沙质粗糙，海面平静，适合练习皮划艇和游钓等运动。夏天的时候，经常可以看到几个年轻人在海滩上踢足球、打排球，充分享受一天的假期。海滨有几座建筑物和商店，附近基础设施良好，但游客可以携带食物和饮料，与家人或朋友一起野餐。晚上，去海边散步是个不错的选择。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/83/fb/31/caption.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e9/2c/0c/perfect-day-for-coconut.jpg?w=900&h=500&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "7",
+            "name": "Praia de Casa Caiada",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Praia tranquila de mediana extensão, é conhecida como uma das mais frequentadas do município, por conta de sua proximidade com o centro da cidade. Costuma receber um bom número de turistas durante a alta temporada, que aproveitam para relaxar, tomar um refrescante banho de mar e repor as energias. Com diversos prédios de alto padrão na orla, o calçadão costuma ficar repleto de pessoas andando ao entardecer. Essa praia conta com uma boa faixa de areia dourada e grossa, o mar é calmo, de águas transparentes, propício para o banho e prática de esportes náuticos, como caiaque e jet ski. É uma boa opção para um agradável dia na praia, seja com a família ou com os amigoos. Com boa infraestrutura, não faltam pousadas, hotéis, bares e restaurantes próximos.",
+                "en": "This quiet, medium-sized beach is known as one of the most popular in the city due to its proximity to the city center. It usually receives a good number of tourists during the high season, who take the opportunity to relax, take a refreshing dip in the sea and recharge their batteries. With several high-end buildings on the shore, the boardwalk is usually full of people walking at dusk. This beach has a good stretch of thick, golden sand, and the sea is calm and clear, perfect for swimming and water sports, such as kayaking and jet skiing. It is a good option for a pleasant day at the beach, whether with family or friends. With good infrastructure, there is no shortage of inns, hotels, bars and restaurants nearby.",
+                "es": "Playa tranquila y de longitud media, es conocida como una de las más frecuentadas del municipio, por su cercanía al centro de la ciudad. Suele recibir un buen número de turistas durante la temporada alta, que aprovechan para relajarse, darse un refrescante baño en el mar y reponer energías. Con varios edificios de lujo en el paseo marítimo, el paseo marítimo suele estar lleno de gente caminando al anochecer. Esta playa tiene una buena extensión de arena gruesa y dorada, el mar es tranquilo, de aguas cristalinas, aptas para el baño y la práctica de deportes acuáticos, como kayak y motos de agua. Es una buena opción para pasar un agradable día de playa, ya sea en familia o con amigos. Con buena infraestructura, no faltan posadas, hoteles, bares y restaurantes cercanos.",
+                "cn": "安静的海滩，中等长度，由于靠近市中心，被称为该市最常去的海滩之一。旺季时这里通常会接待大量游客，游客们趁此机会放松身心，在海里畅游，补充体力。海滨长廊上有几栋高档建筑，黄昏时长廊上通常挤满了散步的人。这个海滩有大片厚厚的金色沙滩，海面平静，海水清澈，适合游泳和水上运动，如皮划艇和水上摩托艇。无论是与家人还是朋友一起在海滩度过愉快的一天，这里都是不错的选择。基础设施良好，附近不乏客栈、酒店、酒吧和餐馆。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/10/03/c3/praia-casa-caiada.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/66/21/41/popular.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2f/18/d5/praia-de-casa-caiada.jpg?w=900&h=500&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "8",
+            "name": "Praia de Bairro Novo",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Conhecida como uma das praias mais famosas da cidade, costuma receber um bom número de turistas durante a alta temporada. Ideal para todos os públicos, seus visitantes são variados, desde jovens a idosos. Famílias e grupos de amigos movimentam o local, principalmente durante o verão e feriados. Essa praia é uma boa opção para os que preferem lugares mais agitados, e não está procurando um lugar calmo para relaxar. Tomar um refrescante banho de mar e bater papo na areia é o que mais acontece. Conta com uma boa faixa de areia dourada, o mar é calmo, de águas transparentes, muito propício para o banho, inclusive para crianças e idosos. O lugar é cercado por pedras, que acabam dividindo a praia. Com infraestrutura próxima, é uma boa opção para um dia divertido na praia.",
+                "en": "Known as one of the city's most famous beaches, it usually receives a good number of tourists during the high season. Ideal for all types of people, its visitors range from young to old. Families and groups of friends flock to the place, especially during the summer and holidays. This beach is a good option for those who prefer livelier places, and are not looking for a quiet place to relax. Taking a refreshing dip in the sea and chatting on the sand is what happens most. It has a good stretch of golden sand, the sea is calm, with clear waters, very suitable for swimming, even for children and the elderly. The place is surrounded by rocks, which end up dividing the beach. With nearby infrastructure, it is a good option for a fun day at the beach.",
+                "es": "Conocida como una de las playas más famosas de la ciudad, suele recibir un buen número de turistas durante la temporada alta. Ideal para todos los públicos, sus visitantes son variados, desde jóvenes hasta personas mayores. Familias y grupos de amigos acuden al lugar, especialmente durante el verano y las vacaciones. Esta playa es una buena opción para quienes prefieren lugares más concurridos y no buscan un lugar tranquilo para relajarse. Darse un refrescante baño y charlar en la arena es lo que más ocurre. Tiene una buena extensión de arena dorada, el mar es tranquilo, con aguas transparentes, muy aptas para el baño, incluso para niños y personas mayores. El lugar está rodeado de rocas, que terminan dividiendo la playa. Con infraestructura cercana, es una buena opción para pasar un divertido día de playa.",
+                "cn": "它被称为该市最著名的海滩之一，在旺季通常会接待大量游客。适合所有观众，参观者多种多样，从年轻人到老年人。家人和朋友成群结队涌向这个地方，尤其是在夏季和假期期间。对于那些喜欢热闹的地方而不是寻找安静的放松场所的人来说，这个海滩是一个不错的选择。最常发生的事情是畅游一番，在沙滩上聊天。这里有很好的金色沙滩，海水平静，海水清澈，非常适合游泳，包括儿童和老人。这个地方周围都是岩石，这些岩石最终将海滩分开。附近有基础设施，是在海滩度过愉快一天的好选择。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2f/03/f1/praia-do-bairro-novo.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f9/9e/79/fica-em-frente-ao-restaurante.jpg?w=100&h=-1&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "9",
+            "name": "Praia Del Chifre",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "A praia, com 700m de extensão, é freqüentada pelos surfistas da cidade. Embora tenha muitos arrecifes, as condições ideais com grandes ondas para o surf atraem os praticantes do esporte.",
+                "en": "The beach, which is 700m long, is popular with surfers from the city. Although it has many reefs, the ideal conditions with big waves for surfing attract surfers.",
+                "es": "A praia, com 700m de extensão, é freqüentada pelos surfistas da cidade. Embora tenha muitos arrecifes, as condições ideais com grandes ondas para o surf atraem os praticantes do esporte.",
+                "cn": "海滩长 700m，是城市冲浪者经常光顾的地方。虽然这里有很多珊瑚礁，但其理想的冲浪条件和大浪吸引了冲浪者。"
+            },
+            "images": [
+                "https://curiosamente.diariodepernambuco.com.br/wp-content/uploads/2016/01/largurainteira_delchifre.jpg",
+                "https://cdn.folhape.com.br/upload/dn_arquivo/2023/03/whatsapp-image-2023-03-19-at-142522.jpeg"
             ],
             "linkMapa": ""
         }

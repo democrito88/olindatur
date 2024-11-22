@@ -60,7 +60,7 @@ export default function Slideshow({imagens}){
                     {
                         imagens.map((imagem, index) => 
                             <div key={index} className="mySlides">
-                                <div className="numbertext">{`${index + 1} de ${imagem.length}`}</div>
+                                <div className="numbertext">{`${index + 1} de ${imagens.length}`}</div>
                                 <img src={imagem} width={'100%'} />
                             </div>
                         )
@@ -70,7 +70,7 @@ export default function Slideshow({imagens}){
                     <Row>
                         {imagens.map((imagem, index) => 
                             <Col key={index}>
-                                <img className="demo cursor" width={'100%'} src={`../../assets/img/${imagem}`} onClick={() => currentSlide(1)} />
+                                <img className="demo cursor" width={'100%'} src={`${imagem}`} onClick={() => currentSlide(1)} />
                             </Col>
                         )}
                     </Row>

@@ -38,16 +38,16 @@ function Rodape() {
             <b>Olindatur &copy;</b>
           </div>
           <div className="col-sm text-center link-social">
-            <IconeEstilizado href="#">
+            {/*<IconeEstilizado href="#">
               <IoLogoYoutube size={'35px'}/>
             </IconeEstilizado>
             <IconeEstilizado href="#">
+              <FaXTwitter size={'35px'} />
+            </IconeEstilizado>*/}
+            <IconeEstilizado href="https://www.facebook.com/prefeituradeolinda">
               <FaFacebookSquare size={'35px'} />
             </IconeEstilizado>
-            <IconeEstilizado href="#">
-              <FaXTwitter size={'35px'} />
-            </IconeEstilizado>
-            <IconeEstilizado href="#">
+            <IconeEstilizado href="https://www.instagram.com/pref_olinda/">
               <SiInstagram size={'35px'} />
             </IconeEstilizado>
           </div>

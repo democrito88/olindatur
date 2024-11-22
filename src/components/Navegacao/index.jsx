@@ -34,9 +34,9 @@ export default function Navegacao() {
                 <p>{mensagem}</p>
               ) : (
                 Object.keys(dados).map((propriedade) => (
-                  <Navbar.Item key={propriedade} href={`/${propriedade}`}>
+                  <NavDropdown.Item key={propriedade} href={`/${propriedade}`}>
                     {propriedade}
-                  </Navbar.Item>
+                  </NavDropdown.Item>
                 ))
               )}
             </NavDropdown>
@@ -55,7 +55,7 @@ export default function Navegacao() {
           <Nav.Link onClick={() => changeLanguage("cn")} style={{ fontSize: "24px" }}>
             🇨🇳
           </Nav.Link>
-          <Nav.Link onClick={toggleTheme} style={{ fontSize: "25px" }}>
+          <Nav.Link onClick={toggleTheme} style={{ fontSize: "20px" }}>
             🌙
           </Nav.Link>
         </Nav>
