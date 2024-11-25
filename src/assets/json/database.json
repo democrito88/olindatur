@@ -718,50 +718,7 @@
             "linkMapa": ""
         }
     ],
-    "carnaval": [
-        {
-            "id": "1",
-            "name": "O homem da meia-noite",
-            "descricao": {
-                "pt": "O bloco foi criado em 2 de fevereiro de 1931 pelo pintor de paredes Luciano Anacleto de Queiroz, Benedito Bernardino da Silva, o carpinteiro Sebastião da Silva, os encadernadores Cosme José dos Santos e Heliodoro Pereira da Silva, e o sapateiro Manoel Joaquim dos Santos (Neco Monstro). Seu hino, tanto a letra quanto a música, são de autoria do mestre Bernardino da Silva. Surgiu como uma dissidência da Troça Carnavalesca Mista Cariri Olindense por não participarem da chapa oficial da diretoria do Cariri. Para desbancar o Cariri, que até então abria o carnaval de Olinda, o Homem saiu na meia noite do sábado de Zé Pereira e o domingo de rei Momo. Desde então o bloco abre o carnaval de Olinda, e, tendo reconciliado-se com o Cariri Olindense, entrega-lhe as chaves da cidade após o seu desfile horas depois.",
-                "en": "The bloco was created on February 2, 1931, by wall painter Luciano Anacleto de Queiroz, Benedito Bernardino da Silva, carpenter Sebastião da Silva, bookbinders Cosme José dos Santos and Heliodoro Pereira da Silva, and shoemaker Manoel Joaquim dos Santos (Neco Monstro). Its anthem, both the lyrics and music, were written by master Bernardino da Silva. It originated as a dissidence from the Mista Cariri Olindense Carnival Troop for not participating in the official Cariri board elections. To challenge Cariri, which had previously opened the carnival of Olinda, the Homem da Meia Noite paraded at midnight on Zé Pereira Saturday and on King Momo Sunday. Since then, it has opened the carnival in Olinda, and after reconciling with Cariri Olindense, it hands over the keys to the city after its parade a few hours later.",
-                "es": "El bloque fue creado el 2 de febrero de 1931 por el pintor de paredes Luciano Anacleto de Queiroz, Benedito Bernardino da Silva, el carpintero Sebastião da Silva, los encuadernadores Cosme José dos Santos y Heliodoro Pereira da Silva, y el zapatero Manoel Joaquim dos Santos (Neco Monstro). Su himno, tanto la letra como la música, fueron escritos por el maestro Bernardino da Silva. Surgió como una disidencia de la Troça Carnavalesca Mista Cariri Olindense por no participar en las elecciones de la junta oficial del Cariri. Para desafiar al Cariri, que hasta entonces abría el carnaval de Olinda, el Homem da Meia Noite desfiló a medianoche el sábado de Zé Pereira y el domingo de Rey Momo. Desde entonces, abre el carnaval de Olinda, y tras reconciliarse con el Cariri Olindense, entrega las llaves de la ciudad después de su desfile unas horas después.",
-                "cn": "该街头乐队于1931年2月2日由壁画画家Luciano Anacleto de Queiroz、Benedito Bernardino da Silva、木匠Sebastião da Silva、书籍装帧师Cosme José dos Santos和Heliodoro Pereira da Silva以及鞋匠Manoel Joaquim dos Santos（Neco Monstro）创建。它的国歌（包括歌词和音乐）是由大师Bernardino da Silva创作的。最初，该街头乐队作为来自奥林达卡里里狂欢团的分支而诞生，原因是未能参与卡里里董事会的选举。为了挑战之前一直开幕奥林达狂欢节的卡里里乐队，Homem da Meia Noite选择在Zé Pereira的星期六午夜和国王莫莫的星期天进行游行。从那时起，它便成为奥林达狂欢节的开幕乐队，并在与卡里里乐队和解后，将市长的钥匙交给了他们，几小时后完成游行。"
-            },
-            "images": [
-                "https://images02.brasildefato.com.br/a64ca24433a13aeb96137de5436c9378.webp"
-            ],
-            "linkMapa": "2GomCdngnVbaifPEA"
-        },
-        {
-            "id": "2",
-            "name": "Ceroula de Olinda",
-            "descricao": {
-                "pt": "A Troça Carnavalesca Ceroula de Olinda é uma agremiação carnavalesca sediada na cidade de Olinda, em Pernambuco, no Brasil. Foi fundada em 5 de janeiro de 1962 por cinco foliões, a saber, Antonio Aurélio Sales (Cabela), Arthur Ferreira, Gilvan Gonçalves, Lúcio, Jamones Góes e Lucilo Araújo.",
-                "en": "The Troça Carnavalesca Ceroula de Olinda is a carnival group based in the city of Olinda, Pernambuco, Brazil. It was founded on January 5, 1962, by five revelers, namely, Antonio Aurélio Sales (Cabela), Arthur Ferreira, Gilvan Gonçalves, Lúcio, Jamones Góes, and Lucilo Araújo.",
-                "es": "La Troça Carnavalesca Ceroula de Olinda es un grupo carnavalesco con sede en la ciudad de Olinda, en Pernambuco, Brasil. Fue fundada el 5 de enero de 1962 por cinco foliantes, a saber, Antonio Aurélio Sales (Cabela), Arthur Ferreira, Gilvan Gonçalves, Lúcio, Jamones Góes y Lucilo Araújo.",
-                "cn": "奥林达的Carnavalesca Ceroula队是一支位于巴西伯南布哥州奥林达市的狂欢队。它于1962年1月5日由五名狂欢者创立，分别是Antonio Aurélio Sales（Cabela）、Arthur Ferreira、Gilvan Gonçalves、Lúcio、Jamones Góes和Lucilo Araújo。"
-            },
-            "images": [
-                "https://cdn.brasildefato.com.br/media/2d5f7bf92beafb671e945d6494125d3c.jpg"
-            ],
-            "linkMapa": "V6L6yb4U7gLSN7K37"
-        },
-        {
-            "id": "3",
-            "name": "Pitombeira dos Quatro Cantos",
-            "descricao": {
-                "pt": "A Troça Carnavalesca Mista Pitombeira dos Quatro Cantos é uma agremiação carnavalesca sediada na cidade de Olinda, em Pernambuco, no Brasil. Foi fundada em 17 de fevereiro de 1947 por foliões dos bairros do Amparo e dos Quatro Cantos, é uma das mais famosas no carnaval pernambucano, em especial no de Olinda, tendo um hino entre os mais cantados no carnaval.",
-                "en": "The Troça Carnavalesca Mista Pitombeira dos Quatro Cantos is a carnival group based in the city of Olinda, Pernambuco, Brazil. It was founded on February 17, 1947, by revelers from the Amparo and Quatro Cantos neighborhoods, and is one of the most famous in the Pernambuco carnival, especially in Olinda, with a hymn among the most sung during the carnival.",
-                "es": "La Troça Carnavalesca Mista Pitombeira dos Quatro Cantos es un grupo carnavalesco con sede en la ciudad de Olinda, en Pernambuco, Brasil. Fue fundada el 17 de febrero de 1947 por foliantes de los barrios de Amparo y Quatro Cantos, y es una de las más famosas en el carnaval pernambucano, especialmente en el de Olinda, con un himno entre los más cantados en el carnaval.",
-                "cn": "Pitombeira dos Quatro Cantos混合狂欢队是位于巴西伯南布哥州奥林达市的狂欢队。它于1947年2月17日由来自Amparo和Quatro Cantos社区的狂欢者创立，是伯南布哥州狂欢节中最著名的队伍之一，特别是在奥林达，其歌曲是狂欢节中最常唱的歌曲之一。"
-            },
-            "images": [
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pitombeira_-_Carnaval_2010.jpg/1920px-Pitombeira_-_Carnaval_2010.jpg"
-            ],
-            "linkMapa": "uhmpSpcSwesaPBhT7"
-        }
-    ],
+   
     "praias": [
         {
             "id": "1",
