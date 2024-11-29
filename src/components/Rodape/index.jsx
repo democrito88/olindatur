@@ -28,6 +28,7 @@ const IconeEstilizado = styled.a`
 function Rodape() {
   const { t } = useContext(AppContext);
 
+
   return (
     <Footer className="rodape mt-4">
       <div className="container">

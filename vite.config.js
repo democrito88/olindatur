@@ -12,9 +12,10 @@ export default defineConfig({
     port: 80
   },
   //fim*/
+
   resolve: {
     alias: {
       'react-vlibras': '/node_modules/react-vlibras/dist/index.js'
     }
-  }
+  },
 })

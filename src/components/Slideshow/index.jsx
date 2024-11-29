@@ -76,7 +76,7 @@ export default function Slideshow({imagens}){
                     </Row>
                 </>
             :
-                <img width={'100%'} src={imagens[0]}/>
+                <img width={'100%'} src={`${imagens[0]}`}/>
             }
         </div>
     );

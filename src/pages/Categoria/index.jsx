@@ -10,7 +10,7 @@ export default function Categoria() {
     const { pagina } = useParams();
     const { dados, estado, mensagem, i18n } = useContext(AppContext);
     const currentLanguage = i18n.language;
-    console.log(currentLanguage);
+    
     return (
 
         <>

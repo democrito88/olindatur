@@ -25,9 +25,6 @@ const useFetch = (url) => {
             setMensagem("Os dados não puderam ser carregados. Tente novamente mais tarde.");
             setEstado(1);
         })
-        .finally(() => {
-            console.log(dados);
-        })
         
     }, []);
 

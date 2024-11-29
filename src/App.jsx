@@ -24,7 +24,7 @@ function App() {
           <Route element={<Home />} path="/" />
           <Route element={<Categoria />} path="/:pagina" />
           <Route element={<PontoTuristico />} path="/:pagina/:id" />
-          <Route element={<NotFound />} path="*" />
+          <Route element={<NotFound />} path="/*" />
         </Routes>
         <Rodape />
       </BrowserRouter>

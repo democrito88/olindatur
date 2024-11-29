@@ -1,0 +1,20 @@
+{
+    "fotos": [
+        {
+            "url": "https://via.placeholder.com/300x200?text=Imagem+1",
+            "descricao": "Forte de São Francisco do Barbalho"
+        },
+        {
+            "url": "https://via.placeholder.com/300x200?text=Imagem+2",
+            "descricao": "Forte de São Francisco do Barbalho"
+        },
+        {
+            "url": "https://via.placeholder.com/300x200?text=Imagem+3",
+            "descricao": "Forte de São Francisco do Barbalho"
+        },
+        {
+            "url": "https://via.placeholder.com/300x200?text=Imagem+4",
+            "descricao": "Forte de São Francisco do Barbalho"
+        }
+    ]
+}
