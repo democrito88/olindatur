@@ -2,16 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="/assets/favicon-D3trXoyN.ico" />
+    <link rel="icon" type="image/png" href="favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>OlindaTur</title>
     
-    <script type="module" crossorigin src="/assets/index-CPZ-VjIf.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-Co5evHfj.css">
+    <script type="module" crossorigin src="/assets/index-CtKqcKHS.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Bpacjiac.css">
   </head>
   <body>
      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
     <div id="root"></div>
-    
+    
+    <script>
+      (() => {
+        const redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
   </body>
 </html>
