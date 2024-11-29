@@ -3,9 +3,9 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/',
+  //base: '/',
   plugins: [react()],
-  /*/Adicionar isto para funcionar no docker*/
+  /*/Adicionar isto para funcionar no docker
   server: {
     host: true,
     strictPort: true,
