@@ -5,6 +5,8 @@ import { FaXTwitter } from "react-icons/fa6";
 import { SiInstagram } from "react-icons/si";
 import { AppContext } from "../../context/AppContext";
 import styled from "styled-components";
+import brasao from '../../assets/img/brasao.png';
+import sombrinhaSemFundo from "../../assets/img/fSemFundo.png";
 
 // Componente de Rodapé com Styled Components
 const Footer = styled.footer`
@@ -31,10 +33,10 @@ function Rodape() {
       <div className="container">
         <div className="row mt-3 d-flex flex-row align-items-baseline justify-content-center">
           <div className="col-sm">
-            <img src={'../src/assets/img/brasao.png'} width={'200px'} className='left' />
+            <img src={brasao} width={'200px'} className='left' />
           </div>
           <div className="col-sm text-center">
-            <img src={"../src/assets/img/fSemFundo.png"} width="50px" alt="Logo Olindatur" />
+            <img src={sombrinhaSemFundo} width="50px" alt="Logo Olindatur" />
             <b>Olindatur &copy;</b>
           </div>
           <div className="col-sm text-center link-social">

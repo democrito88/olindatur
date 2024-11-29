@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
 import { AppContext } from "../../context/AppContext";
+import logo from "../../assets/img/favicon.png";
 import styled from "styled-components";
 
 const StyledNavbar = styled(Navbar, NavDropdown)`
@@ -21,28 +22,25 @@ export default function Navegacao() {
 
   return (
     <StyledNavbar expand="lg" className="capitalize">
-      <Container>
-        <TextoNavBar href="/" className="d-flex flex-row align-items-baseline">
-          <img src="../src/assets/img/favicon.png" width={20} />
-          OlindaTur
-        </TextoNavBar>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="me-auto">
-            <NavDropdown title={t("dropdown-menu")} id="basic-nav-dropdown">
-              {estado === 0 || estado === 1 ? (
-                <p>{mensagem}</p>
-              ) : (
-                Object.keys(dados).map((propriedade) => (
-                  <NavDropdown.Item key={propriedade} href={`/${propriedade}`}>
-                    {propriedade}
-                  </NavDropdown.Item>
-                ))
-              )}
-            </NavDropdown>
-          </Nav>
-        </Navbar.Collapse>
-        <Nav>
+      <Container className="d-flex flex-row justify-content-between">
+        <div className="d-flex flex-row justify-content-center gap-4 align-items-center">
+          <TextoNavBar href="/" className="d-flex flex-row align-items-baseline">
+            <img src={logo} width={20} />
+            OlindaTur
+          </TextoNavBar>
+          <NavDropdown title={t("dropdown-menu")} id="basic-nav-dropdown">
+            {estado === 0 || estado === 1 ? (
+              <p>{mensagem}</p>
+            ) : (
+              Object.keys(dados).map((propriedade) => (
+                <NavDropdown.Item key={propriedade} href={`/${propriedade}`}>
+                  {propriedade}
+                </NavDropdown.Item>
+              ))
+            )}
+          </NavDropdown>
+        </div>
+        <Nav className="d-flex flex-row justify-content-center gap-3">
           <Nav.Link onClick={() => changeLanguage("pt")} style={{ fontSize: "24px" }}>
             🇧🇷
           </Nav.Link>
