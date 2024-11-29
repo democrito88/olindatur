@@ -1,11 +1,18 @@
 import React from 'react';
-import { Button, Card } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 import { TbBrandGoogleMaps } from 'react-icons/tb';
 import { FaVolumeUp } from "react-icons/fa";
 import './Cartao.css';
+import { Link } from 'react-router-dom';
 
 
 function Cartao(props) {
+    const comprimentoMaximo = 140;
+    const texto = (props?.descricao?.length > comprimentoMaximo) ? 
+        props?.descricao?.slice(0, comprimentoMaximo)+"..."
+        :
+        props?.descricao;
+
     const speakText = () => {
         if ('speechSynthesis' in window) {
             const utterance = new SpeechSynthesisUtterance(props.descricao);
@@ -19,24 +26,19 @@ function Cartao(props) {
     };
 
     return (
-        <>
+        <Link to={`/${props.categoria}/${props.id}`}>
             <Card border="0" className="mt-5 card-uniform ">
                 <Card.Img 
                 src={`${props.img}`} 
                 className="img-uniform " 
                 
                 />
-                <Card.Body className="mt-2">
+                <Card.Body className="mt-2 p-0">
                     <Card.Title className='text-center'>{props.name}</Card.Title>
-                    <Card.Text className="mt-2 " id="descricao-text">
-                        {props.descricao}
-                        <Card.Link 
-                        href={`/${props.categoria}/${props.id}`}
-                        className='saiba-mais'>
-                            Saiba mais...
-                        </Card.Link>
+                    <Card.Text className="p-2 " id="descricao-text">
+                        {texto}
                     </Card.Text>
-                    <Card.Footer>
+                    <Card.Footer style={{marginTop: '6em'}}>
                         <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
                         <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
                             <TbBrandGoogleMaps size={40} />
@@ -44,7 +46,7 @@ function Cartao(props) {
                     </Card.Footer>
                 </Card.Body>
             </Card>
-        </>
+        </Link>
     );
 }
 

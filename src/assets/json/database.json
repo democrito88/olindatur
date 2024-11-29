@@ -14,10 +14,7 @@
                 "cn": "圣弗朗西斯科·德巴尔巴略堡建于17世纪，旨在保护奥林达市免受入侵。堡垒位于战略位置，可俯瞰大海和海岸的全景。其遗迹至今仍可参观，让人深入了解葡萄牙殖民历史。"
             },
             "images": [
-                "https://i.ibb.co/FB40ZRc/forte-sao-francisco.jpg",
-                "https://github.com/democrito88.png",
-                "https://github.com/luizfernando1176.png",
-                "https://github.com/peas.png"
+                "https://i.ibb.co/FB40ZRc/forte-sao-francisco.jpg"
             ],
             "linkMapa": "2wrftcqXwfF2Mmgn6"
         }
@@ -718,45 +715,180 @@
             "linkMapa": ""
         }
     ],
-   
-    "praias": [
+    "praias":[
         {
             "id": "1",
             "name": "Praia do Farol",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
             "descricao": {
-                "pt": "A praia do Farol é um belo ponto turístico de Olinda e localiza-se em Bairro Novo. O mar é calmo e a água é morna, ideal para quem vai com criança.",
-                "en": "Farol Beach is a beautiful tourist spot in Olinda, located in Bairro Novo. The sea is calm, and the water is warm, ideal for those with children.",
-                "es": "La playa del Farol es un hermoso lugar turístico en Olinda y se encuentra en Bairro Novo. El mar es tranquilo y el agua es templada, ideal para quienes van con niños.",
-                "cn": "Farol海滩是奥林达的一个美丽旅游景点，位于Bairro Novo。海面平静，水温适宜，适合带着孩子的人。"
+                "pt": "Localizada em Bairro Novo, é um ponto turístico de Olinda.",
+                "en": "Located in Bairro Novo, it is a tourist spot in Olinda.",
+                "es": "Ubicado en Bairro Novo, es una atracción turística de Olinda.",
+                "cn": "位于Bairro Novo，是奥林达的一个旅游景点。"
             },
             "images": [
-                "https://www.gov.br/turismo/pt-br/assuntos/noticias/a-luz-do-sol-na-praia-do-farol-em-olinda-pe/19-09-2022_foto_semana_pernambuco.jpg/@@images/e69fd387-1584-49d4-ab9a-2ef0cf404a28.jpeg"
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7c/46/d0/pe.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/64/5d/fc/bela-praia.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/12/14/b9/praia-do-farol.jpg?w=900&h=500&s=1"
+
             ],
-            "linkMapa": "#",
-            "bares": [
-                {
-                    "id": "1",
-                    "name": "Bar do Farol",
-                    "descricao": {
-                        "pt": "O Bar do Farol oferece uma vista incrível para o mar e é um ótimo lugar para relaxar enquanto aproveita um drinque.",
-                        "en": "Bar do Farol offers an amazing view of the sea and is a great place to relax while enjoying a drink.",
-                        "es": "El Bar do Farol ofrece una increíble vista al mar y es un excelente lugar para relajarse mientras disfruta de una bebida.",
-                        "cn": "Farol酒吧提供令人惊叹的海景，是放松身心并享受饮品的绝佳场所。"
-                    },
-                    "linkMapa": "#"
-                },
-                {
-                    "id": "2",
-                    "name": "Bar do Sol",
-                    "descricao": {
-                        "pt": "O Bar do Sol é perfeito para quem deseja tomar uma cerveja gelada com os amigos enquanto observa o pôr do sol.",
-                        "en": "Bar do Sol is perfect for those who want to enjoy a cold beer with friends while watching the sunset.",
-                        "es": "El Bar do Sol es perfecto para aquellos que desean disfrutar de una cerveza fría con amigos mientras observan el atardecer.",
-                        "cn": "Sol酒吧是那些想要在观看日落时与朋友一起喝冷啤酒的理想场所。"
-                    },
-                    "linkMapa": "#"
-                }
-            ]
+            "linkMapa": ""
+        },
+        {
+            "id": "2",
+            "name": "Praia do Carmo",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "É um local para caminhar, ver o por do sol ou terminar uma tarde.",
+                "en": "It's a place to walk, watch the sunset or end an afternoon.",
+                "es": "Es un lugar para caminar, ver el atardecer o terminar una tarde.",
+                "cn": "这是一个散步、观看日落或结束一个下午的地方。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/73/ff/2f/photo1jpg.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/55/47/70/praia-do-carmo-olinda.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4b/c9/8b/praia-do-carmo-2-km-do.jpg?w=100&h=-1&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "3",
+            "name": "Praia da Santa",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Localiza-se no limite entre Olinda e Paulista e tem uma das maiores imagens do amanhecer do litoral nordestino.",
+                "en": "It is located on the border between Olinda and Paulista and has one of the greatest images of the dawn on the northeast coast.",
+                "es": "Está ubicado en el límite entre Olinda y Paulista y tiene una de las mayores imágenes del amanecer en la costa nororiental.",
+                "cn": "它位于奥林达和保利斯塔之间的边界，拥有东北海岸最美丽的黎明图像之一。"
+            },
+            "images": [
+                "https://i.ytimg.com/vi/g3-6QO9PUoM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGmxYwPLw3aCOBQBwI6LXNXS8I8w",
+                "https://i.ytimg.com/vi/CmnGDCJkUB4/maxresdefault.jpg"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "4",
+            "name": "Praia do Quartel",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Possui diversas opções de lazer. No local existem muitas opções de barracas, restaurantes de praia, estacionamento e diversas opções para quem gosta de praticar esportes (vôlei, futvôlei, caiaque e entre outros).",
+                "en": "It has several leisure options. There are many stalls, beach restaurants, parking and several options for those who enjoy playing sports (volleyball, footvolley, kayaking and others).",
+                "es": "Tiene varias opciones de ocio. En el lugar hay muchas opciones de puestos, restaurantes de playa, estacionamiento y varias opciones para quienes gustan de practicar deportes (voleibol, futvoleibol, kayak y otros).",
+                "cn": "它有多种休闲选择。现场有许多摊位、海滩餐厅、停车场，还为喜欢运动的客人提供多种选择（排球、五人制排球、皮划艇等）。"
+            },
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMTcdpIMkYcphL_066XeWS1ZcfiwI3jD6T4sCa2=s1600",
+                "https://lh5.googleusercontent.com/p/AF1QipMr4-49vJya2zXPqhsKZw8qJTimD4PiFYLNv2t-=s1600"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "5",
+            "name": "Praia dos Milagres",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Os 500m de extensão podem ser aproveitados para contemplar os casarões localizados à beira mar.",
+                "en": "The 500m of extension can be used to contemplate the mansions located on the seafront.",
+                "es": "Los 500 m de longitud permiten admirar las mansiones situadas junto al mar.",
+                "cn": "500m的长度可以欣赏位于海边的豪宅。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2f/14/ce/praia-dos-milagres-olinda.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d4/e8/06/playa-y-no-mucho-mas.jpg?w=900&h=500&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "6",
+            "name": "Praia de Rio Doce",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Praia simples de grande litoral, é conhecida por seu visual mais rústico e por sua tranquilidade. Não costuma receber muitas visitas de turistas, sendo normalmente frequentada por moradores da região e pescadores.  Conta com uma larga faixa de areia dourada e batida, o mar é calmo, propício para a prática de esportes como caiaque e pesca esportiva. No verão é comum ver vários jovens jogando futebol e vôlei nessa praia, aproveitando ao máximo um dia de férias. Com diversos prédios na orla e comércios, o lugar conta com boa infraestrutura em suas proximidades, mas o visitante pode levar alimentos e bebidas e fazer um pic-nic em família ou com os amigos. Durante o entardecer, fazer uma caminhada à beira-mar é uma boa dica.",
+                "en": "A simple beach with a large coastline, it is known for its rustic look and tranquility. It does not usually receive many tourists, and is usually frequented by local residents and fishermen. It has a wide strip of golden, hard-packed sand, and the sea is calm, ideal for sports such as kayaking and sport fishing. In the summer, it is common to see many young people playing soccer and volleyball on this beach, making the most of a day of vacation. With several buildings on the shore and shops, the place has good infrastructure nearby, but visitors can bring food and drinks and have a picnic with family or friends. During the evening, taking a walk along the seafront is a good tip.",
+                "es": "Playa sencilla y de gran litoral, destaca por su aspecto más rústico y su tranquilidad. No suele recibir muchas visitas de turistas, y suele ser frecuentado por vecinos y pescadores. Tiene una amplia franja de arena dorada y rugosa, el mar es tranquilo, apto para la práctica de deportes como kayak y pesca deportiva. En verano es habitual ver a varios jóvenes jugando al fútbol y al voleibol en esta playa, aprovechando un día de vacaciones. Con varios edificios frente al mar y tiendas, el lugar cuenta con buena infraestructura cercana, pero los visitantes pueden traer comida y bebida y hacer un picnic con familiares o amigos. Por la noche, dar un paseo junto al mar es un buen consejo.",
+                "cn": "这是一个拥有广阔海岸线的简单海滩，以其更质朴的外观和宁​​静而闻名。它通常不会接待太多游客，通常是当地居民和渔民经常光顾。 这里有宽阔的金色沙滩，沙质粗糙，海面平静，适合练习皮划艇和游钓等运动。夏天的时候，经常可以看到几个年轻人在海滩上踢足球、打排球，充分享受一天的假期。海滨有几座建筑物和商店，附近基础设施良好，但游客可以携带食物和饮料，与家人或朋友一起野餐。晚上，去海边散步是个不错的选择。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/83/fb/31/caption.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/e9/2c/0c/perfect-day-for-coconut.jpg?w=900&h=500&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "7",
+            "name": "Praia de Casa Caiada",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Praia tranquila de mediana extensão, é conhecida como uma das mais frequentadas do município, por conta de sua proximidade com o centro da cidade. Costuma receber um bom número de turistas durante a alta temporada, que aproveitam para relaxar, tomar um refrescante banho de mar e repor as energias. Com diversos prédios de alto padrão na orla, o calçadão costuma ficar repleto de pessoas andando ao entardecer. Essa praia conta com uma boa faixa de areia dourada e grossa, o mar é calmo, de águas transparentes, propício para o banho e prática de esportes náuticos, como caiaque e jet ski. É uma boa opção para um agradável dia na praia, seja com a família ou com os amigoos. Com boa infraestrutura, não faltam pousadas, hotéis, bares e restaurantes próximos.",
+                "en": "This quiet, medium-sized beach is known as one of the most popular in the city due to its proximity to the city center. It usually receives a good number of tourists during the high season, who take the opportunity to relax, take a refreshing dip in the sea and recharge their batteries. With several high-end buildings on the shore, the boardwalk is usually full of people walking at dusk. This beach has a good stretch of thick, golden sand, and the sea is calm and clear, perfect for swimming and water sports, such as kayaking and jet skiing. It is a good option for a pleasant day at the beach, whether with family or friends. With good infrastructure, there is no shortage of inns, hotels, bars and restaurants nearby.",
+                "es": "Playa tranquila y de longitud media, es conocida como una de las más frecuentadas del municipio, por su cercanía al centro de la ciudad. Suele recibir un buen número de turistas durante la temporada alta, que aprovechan para relajarse, darse un refrescante baño en el mar y reponer energías. Con varios edificios de lujo en el paseo marítimo, el paseo marítimo suele estar lleno de gente caminando al anochecer. Esta playa tiene una buena extensión de arena gruesa y dorada, el mar es tranquilo, de aguas cristalinas, aptas para el baño y la práctica de deportes acuáticos, como kayak y motos de agua. Es una buena opción para pasar un agradable día de playa, ya sea en familia o con amigos. Con buena infraestructura, no faltan posadas, hoteles, bares y restaurantes cercanos.",
+                "cn": "安静的海滩，中等长度，由于靠近市中心，被称为该市最常去的海滩之一。旺季时这里通常会接待大量游客，游客们趁此机会放松身心，在海里畅游，补充体力。海滨长廊上有几栋高档建筑，黄昏时长廊上通常挤满了散步的人。这个海滩有大片厚厚的金色沙滩，海面平静，海水清澈，适合游泳和水上运动，如皮划艇和水上摩托艇。无论是与家人还是朋友一起在海滩度过愉快的一天，这里都是不错的选择。基础设施良好，附近不乏客栈、酒店、酒吧和餐馆。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/10/03/c3/praia-casa-caiada.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/66/21/41/popular.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2f/18/d5/praia-de-casa-caiada.jpg?w=900&h=500&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "8",
+            "name": "Praia de Bairro Novo",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "Conhecida como uma das praias mais famosas da cidade, costuma receber um bom número de turistas durante a alta temporada. Ideal para todos os públicos, seus visitantes são variados, desde jovens a idosos. Famílias e grupos de amigos movimentam o local, principalmente durante o verão e feriados. Essa praia é uma boa opção para os que preferem lugares mais agitados, e não está procurando um lugar calmo para relaxar. Tomar um refrescante banho de mar e bater papo na areia é o que mais acontece. Conta com uma boa faixa de areia dourada, o mar é calmo, de águas transparentes, muito propício para o banho, inclusive para crianças e idosos. O lugar é cercado por pedras, que acabam dividindo a praia. Com infraestrutura próxima, é uma boa opção para um dia divertido na praia.",
+                "en": "Known as one of the city's most famous beaches, it usually receives a good number of tourists during the high season. Ideal for all types of people, its visitors range from young to old. Families and groups of friends flock to the place, especially during the summer and holidays. This beach is a good option for those who prefer livelier places, and are not looking for a quiet place to relax. Taking a refreshing dip in the sea and chatting on the sand is what happens most. It has a good stretch of golden sand, the sea is calm, with clear waters, very suitable for swimming, even for children and the elderly. The place is surrounded by rocks, which end up dividing the beach. With nearby infrastructure, it is a good option for a fun day at the beach.",
+                "es": "Conocida como una de las playas más famosas de la ciudad, suele recibir un buen número de turistas durante la temporada alta. Ideal para todos los públicos, sus visitantes son variados, desde jóvenes hasta personas mayores. Familias y grupos de amigos acuden al lugar, especialmente durante el verano y las vacaciones. Esta playa es una buena opción para quienes prefieren lugares más concurridos y no buscan un lugar tranquilo para relajarse. Darse un refrescante baño y charlar en la arena es lo que más ocurre. Tiene una buena extensión de arena dorada, el mar es tranquilo, con aguas transparentes, muy aptas para el baño, incluso para niños y personas mayores. El lugar está rodeado de rocas, que terminan dividiendo la playa. Con infraestructura cercana, es una buena opción para pasar un divertido día de playa.",
+                "cn": "它被称为该市最著名的海滩之一，在旺季通常会接待大量游客。适合所有观众，参观者多种多样，从年轻人到老年人。家人和朋友成群结队涌向这个地方，尤其是在夏季和假期期间。对于那些喜欢热闹的地方而不是寻找安静的放松场所的人来说，这个海滩是一个不错的选择。最常发生的事情是畅游一番，在沙滩上聊天。这里有很好的金色沙滩，海水平静，海水清澈，非常适合游泳，包括儿童和老人。这个地方周围都是岩石，这些岩石最终将海滩分开。附近有基础设施，是在海滩度过愉快一天的好选择。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/2f/03/f1/praia-do-bairro-novo.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/f9/9e/79/fica-em-frente-ao-restaurante.jpg?w=100&h=-1&s=1"
+            ],
+            "linkMapa": ""
+        },
+        {
+            "id": "9",
+            "name": "Praia Del Chifre",
+            "coordinates": [
+                -8.0082,
+                -34.878483
+            ],
+            "descricao": {
+                "pt": "A praia, com 700m de extensão, é freqüentada pelos surfistas da cidade. Embora tenha muitos arrecifes, as condições ideais com grandes ondas para o surf atraem os praticantes do esporte.",
+                "en": "The beach, which is 700m long, is popular with surfers from the city. Although it has many reefs, the ideal conditions with big waves for surfing attract surfers.",
+                "es": "A praia, com 700m de extensão, é freqüentada pelos surfistas da cidade. Embora tenha muitos arrecifes, as condições ideais com grandes ondas para o surf atraem os praticantes do esporte.",
+                "cn": "海滩长 700m，是城市冲浪者经常光顾的地方。虽然这里有很多珊瑚礁，但其理想的冲浪条件和大浪吸引了冲浪者。"
+            },
+            "images": [
+                "https://curiosamente.diariodepernambuco.com.br/wp-content/uploads/2016/01/largurainteira_delchifre.jpg",
+                "https://cdn.folhape.com.br/upload/dn_arquivo/2023/03/whatsapp-image-2023-03-19-at-142522.jpeg"
+            ],
+            "linkMapa": ""
         }
     ]
-}

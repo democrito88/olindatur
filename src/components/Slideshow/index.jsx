@@ -60,7 +60,7 @@ export default function Slideshow({imagens}){
                     {
                         imagens.map((imagem, index) => 
                             <div key={index} className="mySlides">
-                                <div className="numbertext">{`${index + 1} de ${imagem.length}`}</div>
+                                <div className="numbertext">{`${index + 1} de ${imagens.length}`}</div>
                                 <img src={imagem} width={'100%'} />
                             </div>
                         )
