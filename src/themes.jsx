@@ -11,6 +11,7 @@ export const lightTheme = {
     text: "#ffffff",
     navbarBackground: "#343a40",
     navbarText: "#ffffff",
-    rodape:"#343a40"
+    rodape:"#343a40",
+    a:'#fff'
   };
   
