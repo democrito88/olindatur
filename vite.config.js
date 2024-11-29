@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/olindatur/',
   plugins: [react()],
+  //base: "/olindatur/",
   /*/Adicionar isto para funcionar no docker
   server: {
     host: true,
