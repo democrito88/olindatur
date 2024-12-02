@@ -38,13 +38,13 @@ function Cartao(props) {
                     <Card.Text className="p-2 " id="descricao-text">
                         {texto}
                     </Card.Text>
-                    <Card.Footer style={{marginTop: '6em'}}>
-                        <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
-                        <a href={`https://maps.app.goo.gl/${props.mapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
-                            <TbBrandGoogleMaps size={40} />
-                        </a>
-                    </Card.Footer>
                 </Card.Body>
+                <Card.Footer style={{marginTop: '6em'}}>
+                    <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
+                    <button onClick={() => location(`https://maps.app.goo.gl/${props.mapa}`)} rel="noopener noreferrer" className='link-mapa'>
+                        <TbBrandGoogleMaps size={40} />
+                    </button>
+                </Card.Footer>
             </Card>
         </Link>
     );
