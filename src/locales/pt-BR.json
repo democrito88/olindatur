@@ -1,6 +1,12 @@
 {
     "dropdown-menu": "Conheça",
-    "cathegories": "",
+    "cathegories": {
+        "fortes":"fortes", 
+        "igrejas":"igrejas", 
+        "monumentos":"monumentos", 
+        "museus":"museus",
+        "praias": "praias"
+    },
     "banner": "Todas as cores, muitos carnavais, uma cidade",
     "banner-sub": "Venha ver o que te espera em Olinda!",
     "copyright":"Todos os direitos reservados",

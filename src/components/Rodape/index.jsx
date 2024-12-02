@@ -21,10 +21,10 @@ function Rodape() {
           </div>
           <div className="col-sm text-center link-social">
             <a href="https://www.facebook.com/prefeituradeolinda">
-              <FaFacebookSquare size={'35px'} />
+              <FaFacebookSquare size={'35px'} color='black' />
             </a>
             <a href="https://www.instagram.com/pref_olinda/">
-              <SiInstagram size={'35px'} />
+              <SiInstagram size={'35px'} color='black' />
             </a>
           </div>
         </div>

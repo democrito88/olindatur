@@ -28,22 +28,23 @@ function Cartao(props) {
     return (
         <Link to={`/${props.categoria}/${props.id}`}>
             <Card border="0" className="mt-5 card-uniform ">
-                <Card.Img 
-                src={`${props.img}`} 
-                className="img-uniform " 
-                
-                />
-                <Card.Body className="mt-2 p-0">
-                    <Card.Title className='text-center'>{props.name}</Card.Title>
-                    <Card.Text className="p-2 " id="descricao-text">
-                        {texto}
-                    </Card.Text>
-                </Card.Body>
+                    <Card.Img 
+                    src={`${props.img}`} 
+                    className="img-uniform "
+                    />
+                    <Card.Body className="mt-2 p-0">
+                        <Card.Title className='text-center'>
+                            {props.name}
+                        </Card.Title>
+                        <Card.Text className="p-2 " id="descricao-text">
+                            {texto}
+                        </Card.Text>
+                    </Card.Body>
                 <Card.Footer style={{marginTop: '6em'}}>
                     <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
-                    <button onClick={() => location(`https://maps.app.goo.gl/${props.mapa}`)} rel="noopener noreferrer" className='link-mapa'>
+                    <a href={`https://maps.app.goo.gl/${props.mapa}`} rel="noopener noreferrer" className='link-mapa'>
                         <TbBrandGoogleMaps size={40} />
-                    </button>
+                    </a>
                 </Card.Footer>
             </Card>
         </Link>

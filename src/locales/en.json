@@ -1,6 +1,12 @@
 {
     "dropdown-menu": "Find out",
-    "cathegories": "",
+    "cathegories": {
+        "fortes":"forts", 
+        "igrejas":"churches", 
+        "monumentos":"monuments", 
+        "museus":"museums",
+        "praias":"beaches"
+    },
     "banner": "Colorful, festive, in just one city",
     "banner-sub":"Find out what’s waiting for you in Olinda",
     "copyright":"All rights reserved",

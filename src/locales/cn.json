@@ -1,6 +1,12 @@
 {
     "dropdown-menu": "了解",
-    "cathegories": "",
+    "cathegories": {
+        "fortes":"堡垒", 
+        "igrejas":"教堂", 
+        "monumentos":"纪念碑", 
+        "museus":"博物馆",
+        "praias":"海滩"
+    },
     "banner": "所有的颜色，众多嘉年华，一座城市",
     "banner-sub": "来看看奥林达能为你提供什么吧！",
     "copyright": "版权所有",

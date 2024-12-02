@@ -25,7 +25,7 @@ export default function Navegacao() {
             ) : (
               Object.keys(dados).map((propriedade) => (
                 <NavDropdown.Item key={propriedade} href={`/olindatur/${propriedade}`}>
-                  {propriedade}
+                  {t(`cathegories.${propriedade}`)}
                 </NavDropdown.Item>
               ))
             )}

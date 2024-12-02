@@ -8,10 +8,8 @@ import "./App.css";
 import Categoria from "./pages/Categoria";
 import PontoTuristico from "./pages/PontoTuristico";
 import Navegacao from "./components/Navegacao";
-import { AppContext } from "./context/AppContext";
 
 function App() {
-  const { theme } = useContext(AppContext);
 
   return (
       <>

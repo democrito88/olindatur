@@ -5,21 +5,22 @@ import { AppContext } from "../../context/AppContext";
 import { Link } from "react-router-dom";
 
 function CategoriaBotao({ categoria, imagem }) {
+    const { t } = useContext(AppContext);
     const imagemBackground = imagem || "https://placehold.co/400"; // Substitua com o caminho da imagem padrão.
 
     return (
-        <Link to={`/${categoria}`}>
-            <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-4">
+        <div className="col-lg-3 col-md-4 col-sm-6 col-xs-12 mb-4">
+            <Link to={`/${categoria}`}>
                 <div
                     className="botao-categoria"
                     style={{ backgroundImage: `url(${imagemBackground})` }}
                     >
                     <div className="botao-categoria-painel">
-                        <h4 className="botao-categoria-titulo capitalize">{categoria}</h4>
+                        <h4 className="botao-categoria-titulo capitalize">{t(`cathegories.${categoria}`)}</h4>
                     </div>
                 </div>
-            </div>
-        </Link>
+            </Link>
+        </div>
     );
 }
 
@@ -48,7 +49,7 @@ function Home() {
         <>
             <Cabecalho />
             <div className="container principal">
-                <div className="row d-flex align-items-center flex-wrap mt-2 mb-2">
+                <div className="row d-flex flex-row flex-wrap mt-2 mb-2">
                     {renderConteudo()}
                 </div>
             </div>

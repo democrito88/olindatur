@@ -1,6 +1,12 @@
 {
     "dropdown-menu": "Conozca",
-    "cathegories": "",
+    "cathegories": {
+        "fortes":"fuertes", 
+        "igrejas":"iglesias", 
+        "monumentos":"monumentos", 
+        "museus":"museos",
+        "praias":"playas"
+    },
     "banner": "Todos los colores, muchos carnavales, una ciudad",
     "banner-sub": "¡Descubre lo que Olinda tiene para ofrecerte!",
     "copyright": "Todos los derechos reservados",

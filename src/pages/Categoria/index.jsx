@@ -5,6 +5,7 @@ import Cartao from "../../components/Cartao";
 import { useContext } from "react";
 import { AppContext } from "../../context/AppContext";
 import Cabecalho from "../../components/Cabecalho";
+import BotaoVoltar from "../../components/BotaoVoltar";
 
 export default function Categoria() {
     const { pagina } = useParams();
@@ -12,10 +13,10 @@ export default function Categoria() {
     const currentLanguage = i18n.language;
     
     return (
-
         <>
             <Cabecalho />
             <Container className="mt-4 ">
+                <BotaoVoltar />
                 <Row>
                     {estado === 0 || estado === 1 ?
                         <p>{mensagem}</p>
