@@ -9,6 +9,7 @@ export default function Navegacao() {
 
   const changeLanguage = (lang) => {
     i18n.changeLanguage(lang);
+    localStorage.setItem('lang', lang);
   };
 
   return (
