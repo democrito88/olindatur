@@ -5,7 +5,10 @@
         "igrejas":"iglesias", 
         "monumentos":"monumentos", 
         "museus":"museos",
-        "praias":"playas"
+        "praias":"playas",
+        "mercados": "mercados",
+        "praças": "cuadrícula",
+        "visite": "visita"
     },
     "banner": "Todos los colores, muchos carnavales, una ciudad",
     "banner-sub": "¡Descubre lo que Olinda tiene para ofrecerte!",

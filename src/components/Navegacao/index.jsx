@@ -16,16 +16,21 @@ export default function Navegacao() {
     <Navbar expand="lg" className="capitalize">
       <Container className="d-flex flex-row justify-content-between">
         <div className="d-flex flex-row justify-content-center gap-4 align-items-center">
-          <Link to="/" className="d-flex flex-row align-items-baseline text-dark">
+          <Link to="/" className="d-flex flex-row align-items-center text-dark text-decoration-none">
             <img src={logo} width={20} />
-            OlindaTur
+            <p className="fs-4 mb-1">OlindaTur</p>
           </Link>
           <NavDropdown title={t("dropdown-menu")} id="basic-nav-dropdown">
             {estado === 0 || estado === 1 ? (
               <p>{mensagem}</p>
             ) : (
               Object.keys(dados).map((propriedade) => (
-                <NavDropdown.Item key={propriedade} href={`/olindatur/${propriedade}`}>
+                <NavDropdown.Item
+                  as={Link}
+                  to={`${propriedade}`}
+                  key={propriedade}
+                  className="text-dark"
+                >
                   {t(`cathegories.${propriedade}`)}
                 </NavDropdown.Item>
               ))
