@@ -384,24 +384,6 @@
         },
         {
             "id": "3",
-            "name": "Casa de João Fernandes Vieira",
-            "coordinates": [
-                -7.993144,
-                -34.851314
-            ],
-            "descricao": {
-                "pt": "Este sobrado histórico pertenceu a João Fernandes Vieira, figura importante na luta contra os holandeses no século XVII.",
-                "en": "This historic manor belonged to João Fernandes Vieira, an important figure in the fight against the Dutch in the 17th century.",
-                "es": "Esta casa histórica perteneció a João Fernandes Vieira, una figura importante en la lucha contra los holandeses en el siglo XVII.",
-                "cn": "这座历史悠久的宅邸曾属于若昂·费尔南德斯·维埃拉，他是17世纪反抗荷兰人斗争中的重要人物。"
-            },
-            "images": [
-                "https://i.ibb.co/0M8trYP/casa-joao-fernandes.jpg"
-            ],
-            "linkMapa": "sjZd8VgQ1ackrq2K8"
-        },
-        {
-            "id": "4",
             "name": "Centro de Educação Musical de Olinda (CEMO)",
             "coordinates": [
                 -7.992508,
@@ -419,7 +401,7 @@
             "linkMapa": "KbpjW3tiRekr55Yj6"
         },
         {
-            "id": "5",
+            "id": "4",
             "name": "Coreto da Praça da Preguiça",
             "coordinates": [
                 -7.988320,
@@ -437,7 +419,7 @@
             "linkMapa": "i44zUGYXCZhKetG46"
         },
         {
-            "id": "6",
+            "id": "5",
             "name": "Farol de Olinda",
             "coordinates": [
                 -7.987566,
@@ -455,61 +437,7 @@
             "linkMapa": "urLWDETrwWyYt23b9"
         },
         {
-            "id": "7",
-            "name": "Conjunto da Maxambomba",
-            "coordinates": [
-                -7.990380,
-                -34.847210
-            ],
-            "descricao": {
-                "pt": "No século XIX, a Maxambomba conectava Olinda a outras áreas com uma linha de trem a vapor. O local abriga hoje comércios e residências.",
-                "en": "In the 19th century, the Maxambomba connected Olinda to other areas with a steam train line. Today, the site houses businesses and residences.",
-                "es": "En el siglo XIX, la Maxambomba conectaba Olinda con otras áreas mediante una línea de tren a vapor. Hoy en día, el lugar alberga comercios y residencias.",
-                "cn": "在19世纪，马尚邦巴通过一条蒸汽火车线路将奥林达与其他地区连接起来。如今，该地点是商业和住宅的所在地。"
-            },
-            "images": [
-                "https://i.ibb.co/r7NRYkm/maxambomba.jpg"
-            ],
-            "linkMapa": "BdJVGuaW4QsLoBxy6"
-        },
-        {
-            "id": "8",
-            "name": "Mercado Eufrásio Barbosa",
-            "coordinates": [
-                -7.989010,
-                -34.847580
-            ],
-            "descricao": {
-                "pt": "Antiga fábrica de doces Amorim, o mercado foi adaptado para eventos culturais, com teatro e espaço para exposições.",
-                "en": "Formerly the Amorim candy factory, the market was adapted for cultural events, with a theater and exhibition space.",
-                "es": "Antigua fábrica de dulces Amorim, el mercado fue adaptado para eventos culturales, con teatro y espacio para exposiciones.",
-                "cn": "曾经是阿莫林糖果厂，该市场被改建用于文化活动，设有剧院和展览空间。"
-            },
-            "images": [
-                "https://i.ibb.co/9r0jSTZ/mercado-eufrasio-barbosa.jpg"
-            ],
-            "linkMapa": "fz4zLU7ci57k6T389"
-        },
-        {
-            "id": "9",
-            "name": "Mercado da Ribeira",
-            "coordinates": [
-                -7.991128,
-                -34.851307
-            ],
-            "descricao": {
-                "pt": "Construído no século XVII, é um exemplo da arquitetura colonial brasileira e funciona como mercado de artesanato.",
-                "en": "Built in the 17th century, it is an example of Brazilian colonial architecture and functions as a handicraft market.",
-                "es": "Construido en el siglo XVII, es un ejemplo de la arquitectura colonial brasileña y funciona como mercado de artesanías.",
-                "cn": "建于17世纪，是巴西殖民建筑的典范，现作为手工艺品市场使用。"
-            },
-            "images": [
-                "https://i.ibb.co/pzrKMGG/mercado-ribeira.jpg"
-            ],
-            "linkMapa": "J4n48xLP5ai2wd737"
-        },
-        {
-            "id": "10",
+            "id": "6",
             "name": "Observatório Astronômico",
             "coordinates": [
                 -7.992044,
@@ -527,7 +455,7 @@
             "linkMapa": "3wWFCDkC9anJD6VMA"
         },
         {
-            "id": "11",
+            "id": "7",
             "name": "Palácio dos Governadores",
             "coordinates": [
                 -7.992899,
@@ -545,7 +473,7 @@
             "linkMapa": "xRUrAndVsEmz5JYn6"
         },
         {
-            "id": "12",
+            "id": "8",
             "name": "Ruínas do Senado",
             "coordinates": [
                 -7.991170,
@@ -563,7 +491,7 @@
             "linkMapa": "ehFanMYD1UnpsjLt6"
         },
         {
-            "id": "13",
+            "id": "9",
             "name": "Sobrado Mourisco da Rua do Amparo",
             "coordinates": [
                 -7.991510,
@@ -581,7 +509,7 @@
             "linkMapa": "ZVGrzcjQbB2qyQWD6"
         },
         {
-            "id": "14",
+            "id": "10",
             "name": "Sobrado Mourisco da Praça de São Pedro",
             "coordinates": [
                 -7.992710,
@@ -599,7 +527,7 @@
             "linkMapa": "uU8Pr1XQhTZDEVNf8"
         },
         {
-            "id": "15",
+            "id": "11",
             "name": "Bica de São Pedro",
             "coordinates": [
                 -7.992620,
@@ -617,7 +545,7 @@
             "linkMapa": "E915DxPAdCr9F3E28"
         },
         {
-            "id": "16",
+            "id": "12",
             "name": "Bica do Rosário",
             "coordinates": [
                 -7.993410,
@@ -635,7 +563,7 @@
             "linkMapa": "vMZwQKfPx1aP6A899"
         },
         {
-            "id": "17",
+            "id": "13",
             "name": "Bica dos Quatro Cantos",
             "coordinates": [
                 -7.992870,
@@ -891,5 +819,203 @@
             ],
             "linkMapa": ""
         }
+    ],
+    "mercados":[
+        {
+            "id": "1",
+            "name": "Conjunto da Maxambomba",
+            "coordinates": [
+                -7.990380,
+                -34.847210
+            ],
+            "descricao": {
+                "pt": "No século XIX, a Maxambomba conectava Olinda a outras áreas com uma linha de trem a vapor. O local abriga hoje comércios e residências.",
+                "en": "In the 19th century, the Maxambomba connected Olinda to other areas with a steam train line. Today, the site houses businesses and residences.",
+                "es": "En el siglo XIX, la Maxambomba conectaba Olinda con otras áreas mediante una línea de tren a vapor. Hoy en día, el lugar alberga comercios y residencias.",
+                "cn": "在19世纪，马尚邦巴通过一条蒸汽火车线路将奥林达与其他地区连接起来。如今，该地点是商业和住宅的所在地。"
+            },
+            "images": [
+                "https://i.ibb.co/r7NRYkm/maxambomba.jpg"
+            ],
+            "linkMapa": "BdJVGuaW4QsLoBxy6"
+        },
+        {
+            "id": "2",
+            "name": "Mercado Eufrásio Barbosa",
+            "coordinates": [
+                -7.989010,
+                -34.847580
+            ],
+            "descricao": {
+                "pt": "Antiga fábrica de doces Amorim, o mercado foi adaptado para eventos culturais, com teatro e espaço para exposições.",
+                "en": "Formerly the Amorim candy factory, the market was adapted for cultural events, with a theater and exhibition space.",
+                "es": "Antigua fábrica de dulces Amorim, el mercado fue adaptado para eventos culturales, con teatro y espacio para exposiciones.",
+                "cn": "曾经是阿莫林糖果厂，该市场被改建用于文化活动，设有剧院和展览空间。"
+            },
+            "images": [
+                "https://i.ibb.co/9r0jSTZ/mercado-eufrasio-barbosa.jpg"
+            ],
+            "linkMapa": "fz4zLU7ci57k6T389"
+        },
+        {
+            "id": "3",
+            "name": "Mercado da Ribeira",
+            "coordinates": [
+                -7.991128,
+                -34.851307
+            ],
+            "descricao": {
+                "pt": "Construído no século XVII, é um exemplo da arquitetura colonial brasileira e funciona como mercado de artesanato.",
+                "en": "Built in the 17th century, it is an example of Brazilian colonial architecture and functions as a handicraft market.",
+                "es": "Construido en el siglo XVII, es un ejemplo de la arquitectura colonial brasileña y funciona como mercado de artesanías.",
+                "cn": "建于17世纪，是巴西殖民建筑的典范，现作为手工艺品市场使用。"
+            },
+            "images": [
+                "https://i.ibb.co/pzrKMGG/mercado-ribeira.jpg"
+            ],
+            "linkMapa": "J4n48xLP5ai2wd737"
+        }
+    ],
+    "praças":[
+        {
+            "id": "3",
+            "name": "Casa de João Fernandes Vieira",
+            "coordinates": [
+                -7.993144,
+                -34.851314
+            ],
+            "descricao": {
+                "pt": "Este sobrado histórico pertenceu a João Fernandes Vieira, figura importante na luta contra os holandeses no século XVII.",
+                "en": "This historic manor belonged to João Fernandes Vieira, an important figure in the fight against the Dutch in the 17th century.",
+                "es": "Esta casa histórica perteneció a João Fernandes Vieira, una figura importante en la lucha contra los holandeses en el siglo XVII.",
+                "cn": "这座历史悠久的宅邸曾属于若昂·费尔南德斯·维埃拉，他是17世纪反抗荷兰人斗争中的重要人物。"
+            },
+            "images": [
+                "https://i.ibb.co/0M8trYP/casa-joao-fernandes.jpg"
+            ],
+            "linkMapa": "sjZd8VgQ1ackrq2K8"
+        }
+    ],
+    "visite":[
+        {
+            "id": "1",
+            "name": "Casa de Alceu Valença",
+            "coordinates": [
+                -8.01776,
+                -34.85224
+            ],
+            "descricao": {
+                "pt": "A Casa de Alceu Valença em Olinda, Pernambuco é um verdadeiro refúgio cultural e um pedacinho da história da música brasileira. Localizada na encantadora cidade de Olinda, Patrimônio Mundial da Humanidade, essa casa não é apenas o lar do icônico cantor e compositor Alceu Valença, mas também um espaço que reflete sua profunda ligação com as raízes da música nordestina. A casa, que mistura arquitetura colonial com elementos contemporâneos, oferece aos visitantes uma verdadeira imersão no universo criativo de Valença. Além de ser um ponto de celebração da música e da cultura local, com exposições e shows intimistas, a casa proporciona uma vista deslumbrante para o mar e para as ladeiras históricas de Olinda. Para os turistas, é uma oportunidade única de explorar um dos maiores nomes da música brasileira e vivenciar o ambiente que inspirou suas canções, em um dos destinos mais encantadores do Nordeste.",
+                "en": "Alceu Valença's House in Olinda, Pernambuco, is a true cultural haven and a piece of Brazilian music history. Located in the charming city of Olinda, a UNESCO World Heritage Site, this house is not only the home of the iconic singer and songwriter Alceu Valença but also a space that reflects his deep connection to the roots of Northeastern music. The house, blending colonial architecture with contemporary elements, offers visitors a true immersion into Valença's creative universe. In addition to being a celebration of local music and culture, with exhibitions and intimate shows, the house provides a breathtaking view of the sea and the historic hills of Olinda. For tourists, it’s a unique opportunity to explore one of Brazil's greatest music icons and experience the environment that inspired his songs, all in one of the most enchanting destinations in the Northeast.",
+                "es": "La Casa de Alceu Valença en Olinda, Pernambuco, es un verdadero refugio cultural y una parte de la historia de la música brasileña. Ubicada en la encantadora ciudad de Olinda, Patrimonio de la Humanidad, esta casa no solo es el hogar del icónico cantante y compositor Alceu Valença, sino también un espacio que refleja su profunda conexión con las raíces de la música del noreste de Brasil. La casa, que combina arquitectura colonial con elementos contemporáneos, ofrece a los visitantes una verdadera inmersión en el universo creativo de Valença. Además de ser un punto de celebración de la música y la cultura local, con exposiciones y conciertos íntimos, la casa ofrece una vista impresionante del mar y de las históricas colinas de Olinda. Para los turistas, es una oportunidad única de explorar a uno de los más grandes íconos de la música brasileña y vivir el ambiente que inspiró sus canciones, todo en uno de los destinos más encantadores del noreste.",
+                "cn": " 阿尔修·瓦伦萨（Alceu Valença）位于佩尔南布哥州奥林达的故居是一个真正的文化避风港，也是巴西音乐历史的一部分。 这座房子位于迷人的奥林达市，那里是联合国教科文组织世界遗产，这里不仅是标志性歌手和词曲作者阿尔修·瓦伦萨的家，也是一个反映他与东北部音乐根源深刻联系的空间。 这座房子将殖民地建筑与现代元素相结合，为游客提供了一个深入瓦伦萨创作世界的机会。 除了作为当地音乐和文化的庆典，展示和小型音乐会外，这座房子还提供了奥林达海岸和历史街区的迷人景色。 对于游客来说，这是一个独特的机会，探索巴西最伟大的音乐偶像之一，并体验激发他歌曲灵感的环境，所有这一切都在东北部最迷人的目的地之一。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/56/ad/58/photo0jpg.jpg?w=1000&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/71/de/06/historica.jpg?w=1000&h=-1&s=1"
+
+            ],
+            "linkMapa": "4dReu4Aeo2vWQqa36"
+        },
+        {
+            "id": "2",
+            "name": "Alto da Sé",
+            "coordinates": [
+                -8.01398,
+                -34.84970
+            ],
+            "descricao": {
+                "pt": "O Alto da Sé é um dos pontos mais icônicos de Olinda, oferecendo uma vista panorâmica deslumbrante da cidade e do mar. No topo, destaca-se a Catedral da Sé, uma das igrejas mais antigas e imponentes de Pernambuco, com sua arquitetura colonial e grande importância histórica. Próxima à catedral, está a Caixa d’Água, um antigo reservatório de água que também serve como um marco na paisagem da cidade. Além disso, o Alto da Sé é famoso pelas tapioqueiras, mulheres que vendem deliciosas tapiocas nas ruas, oferecendo uma experiência autêntica da culinária local, com sabores que encantam turistas e moradores.",
+                "en": "The Alto da Sé is one of the most iconic spots in Olinda, offering a breathtaking panoramic view of the city and the sea. At the top, stands the Sé Cathedral, one of the oldest and most impressive churches in Pernambuco, with its colonial architecture and great historical significance. Nearby is the Caixa d'Água, an old water reservoir that also serves as a landmark in the city's landscape. Additionally, Alto da Sé is famous for the tapioca vendors, women who sell delicious tapiocas on the streets, providing an authentic taste of local cuisine that delights both tourists and locals.",
+                "es": "El Alto de la Sé es uno de los lugares más emblemáticos de Olinda, ofreciendo una vista panorámica impresionante de la ciudad y el mar. En la cima se encuentra la Catedral de la Sé, una de las iglesias más antiguas e imponentes de Pernambuco, con su arquitectura colonial y gran importancia histórica. Cerca de la catedral, está la Caja de Agua, un antiguo reservorio de agua que también sirve como un hito en el paisaje de la ciudad. Además, el Alto de la Sé es famoso por las vendedoras de tapioca, mujeres que venden deliciosas tapiocas en las calles, ofreciendo una experiencia auténtica de la cocina local que encanta tanto a turistas como a locales.",
+                "cn": "塞山（Alto da Sé）是奥林达最具标志性的景点之一，提供了城市和大海的壮丽全景。 山顶上矗立着圣母大教堂（Sé Cathedral），这是佩尔南布哥州最古老且最宏伟的教堂之一，具有殖民地建筑风格和重要的历史意义。 附近是水箱（Caixa d'Água），一个古老的水库，也是城市景观中的一个地标。 此外，塞山以**卖塔皮欧卡的小贩（tapioqueiras）**而闻名，这些女性在街头售卖美味的塔皮欧卡，为游客和当地人提供了正宗的本地美食体验。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/04/50/67/igreja-da-se-do-salvador.jpg?w=900&h=500&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/50/3d/4c/lindo-predio.jpg?w=1200&h=-1&s=1",
+                "https://www.diariodepernambuco.com.br/staticimpresso/app/da_impresso_130686904244/2014/06/22/91772/20140621234941168146u.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-s/0e/3d/cb/38/20170115-144256-largejpg.jpg"
+
+            ],
+            "linkMapa": "nRkC7G5V3BDcFCcu9"
+        },
+        {
+            "id": "3",
+            "name": "Centro Cultural Casa da Rabeca do Brasil",
+            "coordinates": [
+                -7.97879,
+                -34.86454
+            ],
+            "descricao": {
+                "pt": "O Centro Cultural Casa da Rabeca do Brasil, localizado em Olinda, é um importante espaço de preservação e difusão da cultura popular nordestina. Focado principalmente na rabeca, um instrumento musical tradicional do Nordeste, a casa oferece ao público uma verdadeira imersão no mundo da música e dança regional. O centro promove apresentações ao vivo, oficinas de música e dança, e exposições que celebram as tradições culturais de Pernambuco. Além disso, é um ponto de encontro para artistas e visitantes que desejam conhecer de perto a rica herança cultural da região. O ambiente acolhedor e cheio de história faz da Casa da Rabeca um local imperdível para quem quer vivenciar a essência da música popular brasileira.",
+                "en": "The Centro Cultural Casa da Rabeca do Brasil, located in Olinda, is an important space for preserving and promoting Northeastern popular culture. Primarily focused on the rabeca, a traditional musical instrument from the Northeast, the house offers the public a true immersion into the world of regional music and dance. The center hosts live performances, music and dance workshops, and exhibitions that celebrate the cultural traditions of Pernambuco. Additionally, it is a meeting point for artists and visitors who want to learn more about the rich cultural heritage of the region. With its welcoming atmosphere and deep historical roots, Casa da Rabeca is a must-visit for those wanting to experience the essence of Brazilian popular music.",
+                "es": "El Centro Cultural Casa da Rabeca do Brasil, ubicado en Olinda, es un espacio importante para la preservación y promoción de la cultura popular del noreste de Brasil. Centrado principalmente en la rabeca, un instrumento musical tradicional del noreste, la casa ofrece al público una verdadera inmersión en el mundo de la música y la danza regional. El centro organiza presentaciones en vivo, talleres de música y danza, y exposiciones que celebran las tradiciones culturales de Pernambuco. Además, es un punto de encuentro para artistas y visitantes que desean conocer más sobre la rica herencia cultural de la región. Con su ambiente acogedor y lleno de historia, la Casa da Rabeca es un lugar imprescindible para aquellos que desean vivir la esencia de la música popular brasileña.",
+                "cn": "巴西拉贝卡文化中心（Centro Cultural Casa da Rabeca do Brasil）位于奥林达，是一个重要的空间，用于保护和传播东北地区的民间文化。 这个中心主要专注于拉贝卡（rabeca），一种传统的东北乐器，为公众提供了一个真正沉浸在区域音乐和舞蹈世界的机会。 该中心举办现场表演、音乐和舞蹈工作坊，并展示庆祝佩尔南布哥州文化传统的展览。 此外，它还是艺术家和游客的聚集地，想要深入了解该地区丰富的文化遗产。 温馨的氛围和深厚的历史根基使拉贝卡之家成为那些希望体验巴西流行音乐精髓的游客不可错过的地方。"
+            },
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKJfJ5ljtVsivdtyEZq4Ol8a4yOwTwJNf30A&s",
+                "https://cdn.folhape.com.br/img/pc/780/780/dn_arquivo/2023/02/whatsapp-image-2023-02-20-at-103201.jpeg?c=1",
+                "https://revistaogrito.com/wp-content/uploads/2024/02/Screenshot_20240207_084003_Instagram.jpg"
+            ],
+            "linkMapa": "HQb8pBcPbt93UTD19"
+        },
+        {
+            "id": "4",
+            "name": "Quatro Cantos",
+            "coordinates": [
+                -8.01473,
+                -34.85280
+            ],
+            "descricao": {
+                "pt": "O Quatro Cantos de Olinda é um dos locais mais emblemáticos e charmosos da cidade, conhecido por sua intensa movimentação e a vibrante atmosfera cultural. Localizado no coração do centro histórico de Olinda, esse ponto de encontro é rodeado por casarões coloniais, igrejas históricas e ladeiras que formam o cenário perfeito para quem quer explorar o melhor da cidade. O nome Quatro Cantos vem da interseção de quatro ruas, e é um lugar onde artistas, músicos e turistas se encontram para vivenciar a cultura local. No entorno, é possível apreciar o melhor da gastronomia regional, com destaque para as tradicionais tapiocas e os doces típicos, além de arte popular e manifestações culturais. O local é ideal para quem busca uma experiência autêntica da Olinda colonial e sua rica herança cultural.",
+                "en": "The Quatro Cantos de Olinda is one of the most iconic and charming spots in the city, known for its lively atmosphere and cultural vibrancy. Located in the heart of Olinda's historic center, this meeting point is surrounded by colonial mansions, historic churches, and winding streets that form the perfect backdrop for anyone looking to explore the city. The name Quatro Cantos comes from the intersection of four streets, and it's a place where artists, musicians, and tourists come together to experience the local culture. Around the square, you can enjoy the best of regional cuisine, including traditional tapiocas and typical sweets, as well as folk art and cultural expressions. It's an ideal spot for those seeking an authentic experience of colonial Olinda and its rich cultural heritage.",
+                "es": "El Quatro Cantos de Olinda es uno de los lugares más emblemáticos y encantadores de la ciudad, conocido por su ambiente vibrante y su intensa vida cultural. Ubicado en el corazón del centro histórico de Olinda, este punto de encuentro está rodeado de mansiones coloniales, iglesias históricas y callejones que forman el escenario perfecto para quienes desean explorar lo mejor de la ciudad. El nombre Quatro Cantos proviene de la intersección de cuatro calles, y es un lugar donde artistas, músicos y turistas se reúnen para vivir la cultura local. Alrededor de la plaza, se pueden disfrutar lo mejor de la gastronomía regional, con especialidades como las tradicionales tapiocas y dulces típicos, además de arte popular y expresiones culturales. Es el lugar ideal para quienes buscan una experiencia auténtica del Olinda colonial y su rica herencia cultural.",
+                "cn": "奥林达四角（Quatro Cantos de Olinda）是这座城市最具代表性和迷人的地方之一，以其热闹的氛围和丰富的文化活力而闻名。 这个地点位于奥林达历史中心的心脏地带，四周是殖民风格的豪宅、历史悠久的教堂和蜿蜒的小街，构成了完美的背景，适合那些想要探索这座城市的人。 四角这个名字源自四条街道的交汇点，这里是艺术家、音乐家和游客聚集的地方，大家一同体验当地的文化。 在广场周围，游客可以品尝到最正宗的地方美食，包括传统的塔皮欧卡（tapioca）和当地特色甜点，以及民间艺术和文化表现。 这是体验奥林达殖民地风貌和其丰富文化遗产的理想之地。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a1/90/31/photo1jpg.jpg?w=1000&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/18/92/88/quatro-cantos.jpg?w=1000&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/18/92/4f/quatro-cantos.jpg?w=1000&h=-1&s=1"
+            ],
+            "linkMapa": "4BbyNRLeKpgQFeJ97"
+        },
+        {
+           "id": "5",
+            "name": "Casa dos Bonecos Gigantes e Mirins de Olinda",
+            "coordinates": [
+                -8.01301,
+                -34.85088
+            ],
+            "descricao": {
+                "pt": "A Casa dos Bonecos Gigantes e Mirins de Olinda é um espaço único que celebra uma das tradições mais emblemáticas de Pernambuco: os bonecos gigantes. Localizada no centro histórico de Olinda, a casa é dedicada à preservação e exposição desses incríveis personagens que fazem parte do carnaval e da cultura popular local. Os bonecos gigantes e mirins são figuras coloridas e de tamanhos impressionantes, que desfilam pelas ruas durante as festividades, representando figuras famosas, personagens folclóricos e figuras históricas. Na Casa dos Bonecos, os visitantes podem conhecer a história por trás dessa arte, ver de perto os bonecos, participar de oficinas e até mesmo aprender a criar suas próprias versões. O lugar é um verdadeiro mergulho na cultura carnavalesca e na tradição lúdica de Olinda, oferecendo uma experiência divertida e educativa para todas as idades.",
+                "en": "The Casa dos Bonecos Gigantes e Mirins de Olinda is a unique space that celebrates one of Pernambuco’s most iconic traditions: the giant puppets. Located in the historic center of Olinda, the house is dedicated to preserving and showcasing these incredible characters that are a vital part of the local carnival and popular culture. The giant and mirim puppets are colorful, oversized figures that parade through the streets during festivals, representing famous personalities, folklore characters, and historical figures. At the Casa dos Bonecos, visitors can learn about the history behind this art, get up close to the puppets, participate in workshops, and even learn how to create their own versions. The place is a true immersion into Olinda’s carnival culture and playful traditions, offering a fun and educational experience for all ages.",
+                "es": "La Casa de los Muñecos Gigantes y Mirines de Olinda es un espacio único que celebra una de las tradiciones más emblemáticas de Pernambuco: los muñecos gigantes. Ubicada en el centro histórico de Olinda, la casa está dedicada a la preservación y exhibición de estos increíbles personajes que son una parte fundamental del carnaval y la cultura popular local. Los muñecos gigantes y mirines son figuras coloridas y de gran tamaño que desfilan por las calles durante las festividades, representando personalidades famosas, personajes folklóricos y figuras históricas. En la Casa de los Muñecos, los visitantes pueden conocer la historia de este arte, ver los muñecos de cerca, participar en talleres y hasta aprender a crear sus propias versiones. El lugar es una verdadera inmersión en la cultura carnavalesca y en las tradiciones lúdicas de Olinda, ofreciendo una experiencia divertida y educativa para todas las edades.",
+                "cn": "**奥林达巨型木偶与小木偶之家（Casa dos Bonecos Gigantes e Mirins de Olinda）**是一个独特的空间，庆祝佩尔南布哥州最具代表性的传统之一：巨型木偶。 该地点位于奥林达的历史中心，致力于保护和展示这些不可思议的角色，它们是当地狂欢节和民间文化的重要组成部分。 巨型木偶和小木偶是色彩鲜艳、尺寸巨大的人物，它们在节庆期间游行，代表着著名人物、民间传说角色和历史人物。 在巨型木偶之家，游客可以了解这种艺术的历史，近距离欣赏木偶，参与工作坊，甚至学习如何制作自己的木偶。 这是一个真正沉浸在奥林达狂欢文化和传统游戏中的地方，提供了一个适合所有年龄段的有趣和教育体验。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/9d/b7/ec/caption.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4e/b0/81/embaixada-dos-bonecos.jpg?w=900&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/28/be/c7/casa-dos-bonecos-gigantes.jpg?w=800&h=-1&s=1"
+            ],
+            "linkMapa": "gwpLJcRZRYnHxWnBA"
+        },
+        {
+            "id": "6",
+            "name": "Casa de João Fernandes Vieira",
+            "coordinates": [
+                -7.993144,
+                -34.851314
+            ],
+            "descricao": {
+                "pt": "Este sobrado histórico pertenceu a João Fernandes Vieira, figura importante na luta contra os holandeses no século XVII.",
+                "en": "This historic manor belonged to João Fernandes Vieira, an important figure in the fight against the Dutch in the 17th century.",
+                "es": "Esta casa histórica perteneció a João Fernandes Vieira, una figura importante en la lucha contra los holandeses en el siglo XVII.",
+                "cn": "这座历史悠久的宅邸曾属于若昂·费尔南德斯·维埃拉，他是17世纪反抗荷兰人斗争中的重要人物。"
+            },
+            "images": [
+                "https://i.ibb.co/0M8trYP/casa-joao-fernandes.jpg"
+            ],
+            "linkMapa": "sjZd8VgQ1ackrq2K8"
+        }    
     ]
 }
