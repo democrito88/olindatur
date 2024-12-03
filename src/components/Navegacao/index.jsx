@@ -2,39 +2,31 @@ import { useContext } from "react";
 import { Container, Navbar, Nav, NavDropdown } from "react-bootstrap";
 import { AppContext } from "../../context/AppContext";
 import logo from "../../assets/img/favicon.png";
-import styled from "styled-components";
-
-const StyledNavbar = styled(Navbar, NavDropdown)`
-  background-color: ${({ theme }) => theme.navbarBackground} !important;
-  color: ${({ theme }) => theme.navbarText};
-`;
-
-const TextoNavBar = styled(Navbar.Brand)`
-  color: ${({ theme }) => theme.navbarText};
-`;
+import { Link } from "react-router-dom";
 
 export default function Navegacao() {
-  const { dados, estado, mensagem, t, i18n, toggleTheme } = useContext(AppContext);
+  const { dados, estado, mensagem, t, i18n } = useContext(AppContext);
 
   const changeLanguage = (lang) => {
     i18n.changeLanguage(lang);
+    localStorage.setItem('lang', lang);
   };
 
   return (
-    <StyledNavbar expand="lg" className="capitalize">
+    <Navbar expand="lg" className="capitalize">
       <Container className="d-flex flex-row justify-content-between">
         <div className="d-flex flex-row justify-content-center gap-4 align-items-center">
-          <TextoNavBar href="/" className="d-flex flex-row align-items-baseline">
+          <Link to="/" className="d-flex flex-row align-items-baseline text-dark">
             <img src={logo} width={20} />
             OlindaTur
-          </TextoNavBar>
+          </Link>
           <NavDropdown title={t("dropdown-menu")} id="basic-nav-dropdown">
             {estado === 0 || estado === 1 ? (
               <p>{mensagem}</p>
             ) : (
               Object.keys(dados).map((propriedade) => (
-                <NavDropdown.Item key={propriedade} href={`/${propriedade}`}>
-                  {propriedade}
+                <NavDropdown.Item key={propriedade} href={`/olindatur/${propriedade}`}>
+                  {t(`cathegories.${propriedade}`)}
                 </NavDropdown.Item>
               ))
             )}
@@ -53,11 +45,8 @@ export default function Navegacao() {
           <Nav.Link onClick={() => changeLanguage("cn")} style={{ fontSize: "24px" }}>
             🇨🇳
           </Nav.Link>
-          <Nav.Link onClick={toggleTheme} style={{ fontSize: "20px" }}>
-            🌙
-          </Nav.Link>
         </Nav>
       </Container>
-    </StyledNavbar>
+    </Navbar>
   );
 }

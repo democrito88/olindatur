@@ -21,8 +21,7 @@
     "react-i18next": "^15.1.1",
     "react-icons": "^5.3.0",
     "react-router-dom": "^6.27.0",
-    "react-vlibras": "^2.3.4",
-    "styled-components": "^6.1.13"
+    "react-vlibras": "^2.3.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",

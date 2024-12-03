@@ -1,11 +1,11 @@
 import { useContext } from "react";
 import { useParams } from "react-router-dom";
 import { AppContext } from "../../context/AppContext";
-import { useEffect } from "react";
 import { Card, Col, Container, Row } from "react-bootstrap";
 import Slideshow from "../../components/Slideshow";
 import { FaVolumeUp } from "react-icons/fa";
 import { TbBrandGoogleMaps } from "react-icons/tb";
+import BotaoVoltar from "../../components/BotaoVoltar";
 
 function PontoTuristico() {
   const { pagina, id } = useParams();
@@ -33,6 +33,7 @@ function PontoTuristico() {
         <p>{mensagem}</p>
       ) : (
         <Container className="py-2">
+          <BotaoVoltar />
           <Row className="responsivo">
             <Col sm={12} lg={8}>
               <Slideshow imagens={dados[pagina][id - 1].images} />
@@ -49,9 +50,8 @@ function PontoTuristico() {
                 </a>
               </div>
             </Col>
-            <Card className="mt-5">
-              <Col sm={12} lg={12} className="d-flex justify-content-center mt-4 ">
-                {/* Se for uma praia, exibe os bares */}
+            {/*<Card className="mt-5">
+              <Col sm={12} lg={12} className="d-flex justify-content-center mt-4 "> 
                 {isPraia && dados[pagina][id - 1].bares && dados[pagina][id - 1].bares.length > 0 && (
                   <div className="w-100">
                     <h4 className="text-center mb-4">Bares Próximos</h4>
@@ -69,7 +69,7 @@ function PontoTuristico() {
                   </div>
                 )}
               </Col>
-            </Card>
+            </Card>*/}
           </Row>
         </Container>
       )}

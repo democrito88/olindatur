@@ -1,9 +1,16 @@
 {
     "dropdown-menu": "Conozca",
-    "cathegories": "",
+    "cathegories": {
+        "fortes":"fuertes", 
+        "igrejas":"iglesias", 
+        "monumentos":"monumentos", 
+        "museus":"museos",
+        "praias":"playas"
+    },
     "banner": "Todos los colores, muchos carnavales, una ciudad",
     "banner-sub": "¡Descubre lo que Olinda tiene para ofrecerte!",
     "copyright": "Todos los derechos reservados",
     "not-found": "Página no encontrada",
-    "not-found-description": "La página que estás intentando acceder no fue encontrada."
+    "not-found-description": "La página que estás intentando acceder no fue encontrada.",
+    "voltar": "volver"
 }

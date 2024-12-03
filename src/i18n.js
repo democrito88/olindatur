@@ -14,7 +14,7 @@ i18n
         es: { translation: es },
         cn: { translation: cn },
     },
-    lng: 'pt', // Default language
+    lng: localStorage.getItem('lang') || 'pt', // Default language
     fallbackLng: 'pt',
     interpolation: {
       escapeValue: false, // React already escapes by default
