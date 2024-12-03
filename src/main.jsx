@@ -9,7 +9,7 @@ import { BrowserRouter } from 'react-router-dom';
 createRoot(document.getElementById('root')).render(
   <>
     <AppProvider>
-      <BrowserRouter basename="/olindatur">
+      <BrowserRouter basename="/olindatur/">
         <App />
       </BrowserRouter>
     </AppProvider>
