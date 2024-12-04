@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "nome":"Alto da sé",
+        "descricao":"O Alto da Sé é um dos pontos mais icônicos de Olinda, oferecendo uma vista panorâmica deslumbrante da cidade e do mar. No topo, destaca-se a Catedral da Sé, uma das igrejas mais antigas e imponentes de Pernambuco, com sua arquitetura colonial e grande importância histórica. Próxima à catedral, está a Caixa d’Água, um antigo reservatório de água que também serve como um marco na paisagem da cidade. Além disso, o Alto da Sé é famoso pelas tapioqueiras, mulheres que vendem deliciosas tapiocas nas ruas, oferecendo uma experiência autêntica da culinária local, com sabores que encantam turistas e moradores.",
+        "atracoes": {
+            "fortes": [],
+            "irgejas": [7],
+            "monumentos": [2, 6],
+            "museus": [],
+            "praias": [],
+            "mercados": [],
+            "praças": [],
+            "visite": []
+        }
+    },
+    {
+        "id":2,
+        "nome":"Bairro do Carmo",
+        "descricao":"",
+        "atracoes": {
+            "fortes": [],
+            "irgejas": [3],
+            "monumentos": [1],
+            "museus": [],
+            "praias": [2],
+            "mercados": [],
+            "praças": [3],
+            "visite": []
+        }
+    },
+    {
+        "id":3,
+        "nome":"Sítio Histórico",
+        "descricao":"O centro histórico de Olinda, vizinho à cidade do Recife, capital do Estado de Pernambuco, remete ao início da colonização portuguesa no Brasil, no século XVI, quando se consolidou como sede da Capitania de Pernambuco, no período áureo da economia de cana de açúcar. O conjunto arquitetônico, urbanístico e paisagístico foi tombado pelo Iphan, em 1968. O reconhecimento da cidade como Patrimônio Mundial Cultural, pela Unesco, ocorreu  em 1982 e refere-se a uma área de 1,2 km2 e cerca de 1.500 imóveis, os quais testemunham diferentes estilos arquitetônicos: edifícios coloniais do século XVI harmonizam-se às fachadas de azulejos dos séculos XVIII e XIX e às obras neoclássicas e ecléticas do início do século XX. \nA vegetação exuberante das ruas, dos jardins, das aleias, dos conventos, com árvores frutíferas frondosas, mangueiras, fruta-pão, jaca, sapoti e coqueiros conferem ao sítio o valor dominante de um núcleo urbano emoldurado por uma massa verde, sob a luz tropical e tendo aos seus pés a praia e o oceano. A cidade guarda sua relação com a paisagem local e com o mar, com as características de sua arquitetura vernacular, manifestação cultural herdada de Portugal e adaptada ao meio, e assimilada a ponto de adquirir sua própria personalidade e mantê-la ao longo dos tempos.",
+        "atracoes": {
+            "fortes": [],
+            "irgejas": [1, 2, 4, 5, 6, 8],
+            "monumentos": [4, 7, 8, 9, 12, 13],
+            "museus": [1, 2, 3, 4],
+            "praias": [],
+            "mercados": [2, 3],
+            "praças": [2],
+            "visite": [1, 3, 4, 5]
+        }
+    }
+]

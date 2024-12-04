@@ -18,7 +18,7 @@ export default function Navegacao() {
         <div className="d-flex flex-row justify-content-center gap-4 align-items-center">
           <Link to="/" className="d-flex flex-row align-items-center text-dark text-decoration-none">
             <img src={logo} width={20} />
-            <p className="fs-4 mb-1">OlindaTur</p>
+            <p className="fs-4 mb-1 title">OlindaTur</p>
           </Link>
           <NavDropdown title={t("dropdown-menu")} id="basic-nav-dropdown">
             {estado === 0 || estado === 1 ? (

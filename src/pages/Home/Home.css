@@ -31,7 +31,8 @@
 
 /* Mudança de cor ao passar o mouse */
 .botao-categoria:hover .botao-categoria-painel {
-    background-color: #f4514f;
+    /*background-color: #f4514f;*/
+    background-color: darkkhaki;
 }
 
 .botao-categoria:hover .botao-categoria-titulo {

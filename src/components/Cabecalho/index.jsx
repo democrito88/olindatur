@@ -7,7 +7,7 @@ export default function Cabecalho(){
     return(
         <header className="header">
             <div className="titulo-banner-painel ">
-                <h1 className="titulo-banner ">{t('banner')}</h1>
+                <h1 className="titulo-banner title">{t('banner')}</h1>
                 <h5 className="titulo-banner">{t('banner-sub')}</h5>
             </div>
         </header>

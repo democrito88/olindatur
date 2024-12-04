@@ -39,7 +39,7 @@ function PontoTuristico() {
               <Slideshow imagens={dados[pagina][id - 1].images} />
             </Col>
             <Col sm={12} lg={4}>
-              <h3 className="mt-2 text-center">
+              <h3 className="mt-2 text-center title">
                 {dados[pagina][id - 1].name}
               </h3>
               <p>{dados[pagina][id - 1].descricao[currentLanguage]}</p>

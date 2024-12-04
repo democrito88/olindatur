@@ -17,7 +17,7 @@ function Rodape() {
           </div>
           <div className="col-sm text-center">
             <img src={sombrinhaSemFundo} width="50px" alt="Logo Olindatur" />
-            <b>Olindatur &copy;</b>
+            <b className='title'>OlindaTur &copy;</b>
           </div>
           <div className="col-sm text-center link-social">
             <a href="https://www.facebook.com/prefeituradeolinda">

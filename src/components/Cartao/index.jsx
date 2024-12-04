@@ -33,7 +33,7 @@ function Cartao(props) {
                     className="img-uniform "
                     />
                     <Card.Body className="mt-2 p-0">
-                        <Card.Title className='text-center'>
+                        <Card.Title className='text-center title'>
                             {props.name}
                         </Card.Title>
                         <Card.Text className="p-2 " id="descricao-text">

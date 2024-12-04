@@ -8,6 +8,8 @@ import "./App.css";
 import Categoria from "./pages/Categoria";
 import PontoTuristico from "./pages/PontoTuristico";
 import Navegacao from "./components/Navegacao";
+import Guias from "./pages/Guias";
+import Construcao from "./pages/Construcao";
 
 function App() {
 
@@ -18,6 +20,8 @@ function App() {
           <Route element={<Home />} path="/" />
           <Route element={<Categoria />} path="/:pagina" />
           <Route element={<PontoTuristico />} path="/:pagina/:id" />
+          <Route element={<Guias />} path="/teste" />
+          <Route element={<Construcao />} path="/guias" />
           <Route element={<NotFound />} path="/*" />
         </Routes>
         <Rodape />
