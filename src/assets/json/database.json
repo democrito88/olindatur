@@ -878,22 +878,174 @@
     ],
     "praças":[
         {
-            "id": "3",
-            "name": "Casa de João Fernandes Vieira",
+            "id": "1",
+            "name": "Praça do Jacaré",
             "coordinates": [
-                -7.993144,
-                -34.851314
+                -8.02026,
+                -34.85041
             ],
             "descricao": {
-                "pt": "Este sobrado histórico pertenceu a João Fernandes Vieira, figura importante na luta contra os holandeses no século XVII.",
-                "en": "This historic manor belonged to João Fernandes Vieira, an important figure in the fight against the Dutch in the 17th century.",
-                "es": "Esta casa histórica perteneció a João Fernandes Vieira, una figura importante en la lucha contra los holandeses en el siglo XVII.",
-                "cn": "这座历史悠久的宅邸曾属于若昂·费尔南德斯·维埃拉，他是17世纪反抗荷兰人斗争中的重要人物。"
+                "pt": "A Praça do Jacaré, localizada em Olinda, é um dos espaços mais tranquilos e encantadores da cidade, onde o visitante pode vivenciar um dos cenários naturais mais bonitos da região. A praça, que está situada às margens do Rio Capibaribe, é famosa pela sua vista espetacular, especialmente ao pôr do sol, quando o sol se põe sobre o rio e as águas refletem as cores do céu. O nome Praça do Jacaré vem dos jacarés que, antigamente, habitavam a área, embora hoje em dia eles já não sejam mais vistos. O local é também ponto de encontro para moradores e turistas que desfrutam da calma, do contato com a natureza e da beleza do entorno. A praça é uma ótima opção para quem busca um ambiente relaxante e é frequentemente visitada por quem passeia pela cidade de Olinda, seja para tirar fotos, fazer piqueniques ou simplesmente aproveitar o visual incrível do Rio Capibaribe.",
+                "en": "The Praça do Jacaré in Olinda is one of the most peaceful and charming spots in the city, offering visitors one of the most beautiful natural scenes in the region. Located on the banks of the Capibaribe River, the square is famous for its spectacular view, especially at sunset when the sun sets over the river and the waters reflect the colors of the sky. The name Praça do Jacaré comes from the alligators that once inhabited the area, although they are no longer seen today. The location is also a meeting point for locals and tourists who enjoy the tranquility, the connection with nature, and the surrounding beauty. The square is a great option for those seeking a relaxing environment and is frequently visited by those strolling through Olinda, whether for taking photos, having picnics, or simply enjoying the incredible view of the Capibaribe River.",
+                "es": "La Plaza del Jacaré en Olinda es uno de los lugares más tranquilos y encantadores de la ciudad, donde los visitantes pueden experimentar uno de los paisajes naturales más hermosos de la región. Ubicada a orillas del río Capibaribe, la plaza es famosa por su espectacular vista, especialmente al atardecer, cuando el sol se pone sobre el río y las aguas reflejan los colores del cielo. El nombre Plaza del Jacaré proviene de los caimanes que alguna vez habitaron la zona, aunque hoy en día ya no se ven. El lugar también es un punto de encuentro para locales y turistas que disfrutan de la tranquilidad, el contacto con la naturaleza y la belleza del entorno. La plaza es una excelente opción para quienes buscan un ambiente relajante y es frecuentemente visitada por aquellos que pasean por Olinda, ya sea para tomar fotos, hacer picnic o simplemente disfrutar de la increíble vista del río Capibaribe.",
+                "cn": "**奥林达的鳄鱼广场（Praça do Jacaré）**是这座城市最宁静、最迷人的地方之一，游客可以在这里体验到该地区最美丽的自然景色。 该广场位于卡皮巴里贝河（Capibaribe River）河畔，以其壮丽的景色而闻名，特别是在日落时分，夕阳西下，河水倒映出天空的色彩。 鳄鱼广场的名字来源于曾经栖息在该地区的鳄鱼，尽管如今已经不再看到它们。 这个地方还是本地人和游客的聚集地，人们在这里享受宁静、亲近自然以及周围的美丽景色。 该广场是寻求放松环境的理想选择，常常吸引来往奥林达的游客，无论是拍照、野餐，还是仅仅欣赏卡皮巴里贝河的美丽景色。"
             },
             "images": [
-                "https://i.ibb.co/0M8trYP/casa-joao-fernandes.jpg"
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d4/eb/71/pequena-plaza.jpg?w=900&h=-1&s=1"
             ],
-            "linkMapa": "sjZd8VgQ1ackrq2K8"
+            "linkMapa": "MAKJTGoNWbgZGyM19"
+        },
+        {
+            "id": "2",
+            "name": "Praça dos Nápoles",
+            "coordinates": [
+                -7.96696, 
+                -34.85358
+            ],
+            "descricao": {
+                "pt": "A Praça Nápoles, popularmente chamada de Praça dos Brinquedos, é um espaço encantador em Olinda, ideal para famílias e crianças. Localizada em um bairro residencial, a praça é conhecida por sua infraestrutura voltada ao lazer infantil, com brinquedos como escorregadores, balanços e gangorras, proporcionando diversão segura e acessível. O local também conta com áreas verdes, bancos e espaços para piqueniques, sendo um ponto de convivência para a comunidade local. Além disso, a praça é frequentemente utilizada para eventos culturais e recreativos, promovendo interação entre moradores e visitantes. É um ambiente perfeito para momentos de lazer e descontração, especialmente para quem procura atividades ao ar livre com crianças.",
+                "en": "The Praça Nápoles, popularly known as the Praça dos Brinquedos (Toy Square), is a charming spot in Olinda, perfect for families and children. Located in a residential neighborhood, the square is renowned for its child-friendly facilities, including playground equipment like slides, swings, and seesaws, offering safe and enjoyable fun. It also features green spaces, benches, and picnic areas, making it a community gathering place. Additionally, the square often hosts cultural and recreational events, fostering interaction among locals and visitors. It’s an ideal setting for leisure and relaxation, especially for those seeking outdoor activities with kids.",
+                "es": "La Plaza Nápoles, conocida popularmente como la Plaza de los Juguetes, es un lugar encantador en Olinda, perfecto para familias y niños. Ubicada en un barrio residencial, la plaza es conocida por sus instalaciones pensadas para los más pequeños, con juegos como toboganes, columpios y subibajas, ofreciendo diversión segura y accesible. También cuenta con áreas verdes, bancos y espacios para hacer picnic, siendo un punto de encuentro para la comunidad local. Además, la plaza suele ser escenario de eventos culturales y recreativos, fomentando la interacción entre residentes y visitantes. Es un lugar ideal para momentos de ocio y relajación, especialmente para quienes buscan actividades al aire libre con niños.",
+                "cn": "那不勒斯广场（Praça Nápoles），又被称为玩具广场（Praça dos Brinquedos），是奥林达一个迷人的场所，非常适合家庭和孩子。 该广场位于住宅区，以其适合儿童的设施而闻名，包括滑梯、秋千和跷跷板等游乐设备，提供安全而有趣的娱乐体验。 广场还设有绿地、长椅和野餐区，是社区居民的聚会场所。 此外，广场经常举办文化和娱乐活动，促进当地居民和游客之间的互动。 对于那些想和孩子一起寻找户外活动的人来说，这里是一个理想的休闲场所。"
+            },
+            "images": [
+                "https://www.olinda.pe.gov.br/wp-content/uploads/2023/10/04.jpg",
+                "https://www.olinda.pe.gov.br/wp-content/uploads/2023/10/praca_olinda-2.jpeg"
+            ],
+            "linkMapa": "d9ciRGZQENgKD3i38"
+        },
+        {
+            "id": "3",
+            "name": "Praça da Abolição",
+            "coordinates": [
+                -8.01681,
+                -34.85026
+            ],
+            "descricao": {
+                "pt": "A Praça da Abolição, popularmente chamada de Praça da Preguiça, é um espaço icônico de Olinda, localizado no centro histórico da cidade. O apelido Praça da Preguiça tem origem nos mamíferos da espécie preguiça que habitavam o local no passado, aproveitando as árvores frondosas que ainda embelezam a praça. Hoje, a área continua a ser um ponto de descanso e encontro para moradores e turistas, atraídos pela sombra das árvores e pela atmosfera tranquila. Além de seu charme natural, a praça também é um marco tradicional durante as festividades do carnaval, servindo como ponto de referência para blocos e desfiles. Com seu ambiente acolhedor e cheio de história, a Praça da Preguiça é um convite para quem deseja relaxar e apreciar a beleza de Olinda.",
+                "en": "The Praça da Abolição, popularly known as Praça da Preguiça (Sloth Square), is an iconic spot in Olinda, located in the city's historic center. Its nickname originates from the sloth mammals that once inhabited the area, taking advantage of the lush trees that still adorn the square. Today, it remains a popular spot for locals and tourists seeking shade and tranquility. In addition to its natural charm, the square is a traditional landmark during Carnival festivities, serving as a reference point for parades and block parties. With its welcoming atmosphere and rich history, Praça da Preguiça invites visitors to relax and enjoy Olinda's beauty.",
+                "es": "La Plaza de la Abolición, conocida popularmente como Plaza de la Preguiça (Plaza del Perezoso), es un lugar emblemático de Olinda, ubicado en el centro histórico de la ciudad. Su apodo proviene de los mamíferos de la especie perezoso que habitaban la zona en el pasado, aprovechando los frondosos árboles que aún embellecen la plaza. Hoy en día, es un lugar de descanso y encuentro para residentes y turistas, atraídos por la sombra de los árboles y la atmósfera tranquila. Además de su encanto natural, la plaza es un punto de referencia tradicional durante las festividades del carnaval, sirviendo como hito para los desfiles y los bloques. Con su ambiente acogedor y su rica historia, la Plaza de la Preguiça invita a relajarse y disfrutar de la belleza de Olinda.",
+                "cn": "废奴广场（Praça da Abolição），又被称为树懒广场（Praça da Preguiça），是奥林达历史中心的标志性地点。 它的昵称来源于曾经栖息在此的树懒，这些哺乳动物曾依赖广场上茂密的树木，现在这些树木依然为广场增添了自然的魅力。 如今，这里是当地居民和游客的热门场所，大家在树荫下享受宁静的时光。 除了其自然美景外，广场还是狂欢节期间的传统地标，是游行和街头派对的重要参考点。 凭借其宜人的氛围和丰富的历史，树懒广场为游客提供了一个放松身心、欣赏奥林达美景的理想场所。"
+            },
+            "images": [
+                "https://vault.pulsarimagens.com.br/file/thumb/13ADR537.jpg",
+                "https://i.ytimg.com/vi/xkDnZWaBQlU/maxresdefault.jpg"
+
+            ],
+            "linkMapa": "iMHdxghm3UqQQ4Vt9"
+        },
+        {
+            "id": "4",
+            "name": "Praça 12 de Março",
+            "coordinates": [
+                -8.00972,
+                -34.84263
+            ],
+            "descricao": {
+                "pt": "A Praça 12 de Março, localizada em Olinda, é um espaço público repleto de história e significado para a cidade. O nome da praça faz referência à data que marca eventos importantes na história local, sendo um símbolo de memória e resistência. Situada em uma área central, a praça é cercada por árvores e bancos que convidam ao descanso e à convivência. É um local de encontros, manifestações culturais e celebrações populares, frequentemente utilizado pela comunidade para eventos e atividades ao ar livre. Sua localização estratégica a torna um ponto de passagem para quem explora a cidade, oferecendo um espaço de convivência e interação no coração de Olinda.",
+                "en": "The Praça 12 de Março, located in Olinda, is a public space filled with history and significance for the city. The square's name references a date marking important events in local history, serving as a symbol of memory and resilience. Situated in a central area, the square is surrounded by trees and benches that invite visitors to relax and socialize. It serves as a gathering place for cultural events, popular celebrations, and outdoor activities, frequently utilized by the local community. Its strategic location makes it a convenient stop for those exploring the city, offering a space for interaction and relaxation in the heart of Olinda.",
+                "es": "La Plaza 12 de Marzo, ubicada en Olinda, es un espacio público lleno de historia y significado para la ciudad. El nombre de la plaza hace referencia a una fecha que marca eventos importantes en la historia local, sirviendo como un símbolo de memoria y resistencia. Situada en una zona central, la plaza está rodeada de árboles y bancos que invitan al descanso y la convivencia. Es un lugar de encuentro para eventos culturales, celebraciones populares y actividades al aire libre, frecuentemente utilizado por la comunidad local. Su ubicación estratégica la convierte en un punto de paso para quienes exploran la ciudad, ofreciendo un espacio de interacción y relajación en el corazón de Olinda.",
+                "cn": "**3月12日广场（Praça 12 de Março）**位于奥林达，是一个充满历史和意义的公共空间。 广场的名称纪念了当地历史上的重要事件，象征着记忆和坚韧。 广场坐落在市中心区域，周围环绕着树木和长椅，为游客提供了放松和社交的场所。 这里是文化活动、民间庆祝活动以及户外活动的聚集地，常被当地社区广泛使用。 由于地理位置优越，这里也是探索奥林达的游客的理想停留点，提供了一个融合互动与休闲的场所。"
+            },
+            "images": [
+                "https://fastly.4sqi.net/img/general/width960/6190821_wCHLNOsnWHVS_yiIBE60DAdUXCqlpzVZsUgZfLQwHcg.jpg"
+
+            ],
+            "linkMapa": "sDELTVK1NW9aYE8F8"
+        },
+        {
+            "id": "5",
+            "name": "Praça Laura Nigro",
+            "coordinates": [
+                -8.01630,
+                -34.85269
+            ],
+            "descricao": {
+                "pt": "A Praça Laura Nigro, localizada no centro histórico de Olinda, é um dos lugares mais vibrantes durante o Carnaval. O espaço é palco de manifestações culturais, sendo ponto de encontro para blocos e foliões que fazem da festa uma das mais tradicionais e animadas do Brasil. Com sua atmosfera colorida e repleta de energia, a praça se transforma em um cenário de alegria e música, abrigando apresentações de frevo, maracatu e outras expressões culturais pernambucanas. Durante o restante do ano, a praça mantém sua importância histórica e cultural, mas é no período carnavalesco que ela ganha vida de maneira única, reunindo pessoas de todas as partes do mundo para celebrar a essência do Carnaval de Olinda.",
+                "en": "The Praça Laura Nigro, located in Olinda's historic center, is one of the liveliest spots during Carnival. The square serves as a stage for cultural expressions and is a meeting point for blocos and revelers, making the festival one of the most traditional and vibrant in Brazil. With its colorful and energetic atmosphere, the square becomes a scene of joy and music, hosting performances of frevo, maracatu, and other cultural expressions from Pernambuco. Throughout the year, the square retains its historical and cultural significance, but it is during Carnival that it comes alive in a unique way, bringing people from all over the world to celebrate the essence of Olinda’s Carnival.",
+                "es": "La Plaza Laura Nigro, ubicada en el centro histórico de Olinda, es uno de los lugares más animados durante el Carnaval. El espacio sirve como escenario de expresiones culturales y punto de encuentro para bloques y carnavaleros, convirtiendo la fiesta en una de las más tradicionales y vibrantes de Brasil. Con su atmósfera colorida y llena de energía, la plaza se transforma en un escenario de alegría y música, acogiendo presentaciones de frevo, maracatu y otras expresiones culturales de Pernambuco. Durante el resto del año, la plaza mantiene su importancia histórica y cultural, pero es en el período de Carnaval cuando cobra vida de manera única, reuniendo a personas de todo el mundo para celebrar la esencia del Carnaval de Olinda.",
+                "cn": "**劳拉·尼格罗广场（Praça Laura Nigro）**位于奥林达历史中心，是狂欢节期间最热闹的地方之一。 广场成为文化表达的舞台，是狂欢节游行队伍和欢庆者的聚集点，使这个节日成为巴西最具传统和活力的庆典之一。 在这个充满色彩和活力的氛围中，广场上演着欢快的表演，包括弗雷沃舞、马拉卡图和其他佩尔南布哥州的文化表现形式。 虽然广场全年都保持其历史和文化重要性，但只有在狂欢节期间，它才以独特的方式焕发生机，吸引来自世界各地的人们，共同庆祝奥林达狂欢节的精髓。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f1/8a/d0/projeto-cultural-com.jpg?w=1000&h=-1&s=1",
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/12/8f/06/fachadas-sobre-r-de-sao.jpg?w=1000&h=-1&s=1"
+            ],
+            "linkMapa": "BkLLkZG1NDWpevpu5"
+        },
+        {
+            "id": "6",
+            "name": "Praça Dantas Barreto",
+            "coordinates": [
+                -8.01331,
+                -34.84477
+            ],
+            "descricao": {
+                "pt": "A Praça Dantas Barreto, localizada em Olinda, é um espaço público com importância histórica e cultural, frequentemente utilizado como ponto de encontro para eventos comunitários e manifestações culturais. Com uma localização estratégica, a praça oferece um ambiente acolhedor, cercado por árvores e bancos que proporcionam um espaço de convivência para moradores e visitantes. Durante o Carnaval, a Praça Dantas Barreto também ganha destaque como local de passagem de blocos e foliões, integrando-se à vibrante atmosfera festiva da cidade. É um espaço que reflete a vivacidade de Olinda, combinando história, cultura e lazer em um único ambiente.",
+                "en": "The Praça Dantas Barreto, located in Olinda, is a public space with historical and cultural significance, often used as a gathering spot for community events and cultural expressions. With a strategic location, the square offers a welcoming environment, surrounded by trees and benches, providing a space for locals and visitors to connect. During Carnival, Praça Dantas Barreto becomes a key spot for parades and revelers, blending seamlessly into the city's vibrant festive atmosphere. It’s a space that embodies the liveliness of Olinda, combining history, culture, and leisure in one setting.",
+                "es": "La Plaza Dantas Barreto, ubicada en Olinda, es un espacio público con importancia histórica y cultural, frecuentemente utilizado como punto de encuentro para eventos comunitarios y expresiones culturales. Con una ubicación estratégica, la plaza ofrece un ambiente acogedor, rodeado de árboles y bancos, proporcionando un espacio de convivencia para residentes y visitantes. Durante el Carnaval, la Plaza Dantas Barreto se convierte en un punto clave para los desfiles y carnavaleros, integrándose perfectamente en la vibrante atmósfera festiva de la ciudad. Es un espacio que refleja la vitalidad de Olinda, combinando historia, cultura y ocio en un solo lugar.",
+                "cn": "**丹塔斯·巴雷托广场（Praça Dantas Barreto）**位于奥林达，是一个具有历史和文化意义的公共空间，经常被用作社区活动和文化表达的聚会场所。 广场位置优越，环境宜人，周围环绕着树木和长椅，为当地居民和游客提供了一个交流的场所。 在狂欢节期间，丹塔斯·巴雷托广场成为游行和狂欢者的重要聚集点，与城市充满活力的节日氛围完美融合。 这个地方结合了历史、文化和休闲，是奥林达生机勃勃的象征。"
+            },
+            "images": [
+                "https://www.olinda.pe.gov.br/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-04-at-13.59.14-1.jpeg",
+                "https://www.olinda.pe.gov.br/wp-content/uploads/2022/03/praca1.jpeg"
+            ],
+            "linkMapa": "4GicbV4jZtXoip9K6"
+        },
+        {
+            "id": "7",
+            "name": "Praça do Vôlei",
+            "coordinates": [
+                -7.99190,
+                -34.86298
+            ],
+            "descricao": {
+                "pt": "A Praça do Vôlei, localizada no bairro de Ouro Preto, em Olinda, é um espaço público voltado para atividades esportivas e momentos de lazer na comunidade local. O nome da praça reflete sua popularidade como ponto de encontro para a prática de vôlei, atraindo moradores e visitantes que apreciam o esporte. Além disso, o espaço é utilizado para outras atividades recreativas, sendo um ambiente acolhedor para jovens, famílias e grupos de amigos. Cercada por áreas verdes, bancos e boa iluminação, a Praça do Vôlei oferece um local ideal para convivência social e práticas esportivas, promovendo integração e qualidade de vida no bairro.",
+                "en": "The Praça do Vôlei, located in the Ouro Preto neighborhood in Olinda, is a public space dedicated to sports activities and leisure moments for the local community. The square’s name reflects its popularity as a gathering spot for volleyball enthusiasts, attracting residents and visitors who enjoy the sport. Additionally, it is used for other recreational activities, providing a welcoming environment for young people, families, and friends. Surrounded by green areas, benches, and good lighting, Praça do Vôlei offers an ideal setting for social interaction and sports, promoting integration and quality of life in the neighborhood.",
+                "es": "La Plaza del Vóley, ubicada en el barrio de Ouro Preto en Olinda, es un espacio público dedicado a actividades deportivas y momentos de ocio para la comunidad local. Su nombre refleja su popularidad como punto de encuentro para los aficionados al vóley, atrayendo a residentes y visitantes que disfrutan de este deporte. Además, la plaza se utiliza para otras actividades recreativas, ofreciendo un ambiente acogedor para jóvenes, familias y grupos de amigos. Rodeada de áreas verdes, bancos y buena iluminación, la Plaza del Vóley ofrece un espacio ideal para la interacción social y las prácticas deportivas, promoviendo la integración y la calidad de vida en el barrio.",
+                "cn": "**排球广场（Praça do Vôlei）**位于奥林达的奥鲁普雷图（Ouro Preto）社区，是一个致力于体育活动和社区娱乐的公共空间。 广场因其排球活动而得名，吸引了热爱这一运动的居民和游客。 此外，广场还用于其他娱乐活动，是年轻人、家庭和朋友的理想聚会场所。 广场周围绿意盎然，设有长椅和良好的照明设施，为社交互动和体育活动提供了理想的环境，同时提升了社区的生活质量。"
+            },
+            "images": [
+                "https://www.olinda.pe.gov.br/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-15-at-10.15.25-680x383.jpeg",
+                "https://www.olinda.pe.gov.br/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-15-at-10.15.30-680x510.jpeg"
+            ],
+            "linkMapa": "xdvvYqKtA3QyxgJt7"
+        },
+        {
+            "id": "8",
+            "name": "Praça Fernandes Vieira",
+            "coordinates": [
+                -7.97725, 
+                -34.84230
+            ],
+            "descricao": {
+                "pt": "A Praça Fernandes Vieira, localizada em Olinda, é um espaço público que combina história, lazer e convivência comunitária. Com árvores sombreadas, bancos e áreas de convivência, a praça oferece um ambiente tranquilo para moradores e visitantes. Além de ser um local de descanso, é frequentemente utilizada para encontros culturais e atividades recreativas, sendo um ponto importante para a integração social no bairro. Seu nome homenageia Fernandes Vieira, uma figura histórica de destaque na luta pela restauração pernambucana, agregando um valor simbólico ao espaço. A praça reflete o charme de Olinda, misturando cultura, memória e lazer em um único lugar.",
+                "en": "The Praça Fernandes Vieira, located in Olinda, is a public space that combines history, leisure, and community interaction. With shaded trees, benches, and social areas, the square provides a peaceful environment for residents and visitors. In addition to being a place for relaxation, it is often used for cultural gatherings and recreational activities, serving as a vital spot for social integration in the neighborhood. Its name honors Fernandes Vieira, a prominent historical figure in the struggle for Pernambuco’s restoration, adding symbolic value to the space. The square reflects Olinda’s charm, blending culture, memory, and leisure in one place.",
+                "es": "La Plaza Fernandes Vieira, ubicada en Olinda, es un espacio público que combina historia, ocio e interacción comunitaria. Con árboles que brindan sombra, bancos y áreas de convivencia, la plaza ofrece un ambiente tranquilo para residentes y visitantes. Además de ser un lugar de descanso, se utiliza con frecuencia para reuniones culturales y actividades recreativas, siendo un punto importante para la integración social en el vecindario. Su nombre rinde homenaje a Fernandes Vieira, una figura histórica destacada en la lucha por la restauración de Pernambuco, lo que añade un valor simbólico al espacio. La plaza refleja el encanto de Olinda, mezclando cultura, memoria y ocio en un solo lugar.",
+                "cn": "**费尔南德斯·维埃拉广场（Praça Fernandes Vieira）**位于奥林达，是一个集历史、休闲和社区互动于一体的公共空间。 广场种满了遮荫的树木，设有长椅和社交区域，为居民和游客提供了一个宁静的环境。 除了作为一个放松的场所，它还经常用于文化聚会和娱乐活动，是社区社会融合的重要地点。 广场以费尔南德斯·维埃拉命名，这位历史人物在佩尔南布哥复兴的斗争中具有重要地位，为这一空间增添了象征意义。 广场体现了奥林达的魅力，将文化、记忆和休闲融为一体。"
+            },
+            "images": [
+                "https://live.staticflickr.com/7442/9372849974_cbdf96ab84_b.jpg",
+                "https://live.staticflickr.com/3724/9372818086_bce8bcbd7e_b.jpg"
+            ],
+            "linkMapa": "HgU7rk6x47NfoEQ66"
+        },
+        {
+            "id": "9",
+            "name": "Praça Monsenhor Fabrício",
+            "coordinates": [
+                -8.01819,
+                -34.85212
+            ],
+            "descricao": {
+                "pt": "A Praça Monsenhor Fabrício, localizada em Olinda, é um espaço público de grande valor para a comunidade, misturando elementos históricos e momentos de convivência social. Rodeada por áreas arborizadas e bancos, a praça é um local de tranquilidade e descanso para moradores e visitantes. Seu nome homenageia Monsenhor Fabrício, uma figura religiosa importante da região, reforçando a conexão do espaço com a história e a espiritualidade local. Além disso, a praça é frequentemente utilizada para eventos comunitários, celebrações religiosas e encontros culturais, fortalecendo os laços entre os frequentadores. Com um ambiente acolhedor e significativo, a Praça Monsenhor Fabrício é um exemplo de como espaços públicos podem unir memória, cultura e lazer.",
+                "en": "The Praça Monsenhor Fabrício, located in Olinda, is a public space of great importance to the community, blending historical significance with moments of social interaction. Surrounded by trees and benches, the square provides a tranquil place for residents and visitors to relax. Its name honors Monsenhor Fabrício, an important religious figure in the region, emphasizing the space's connection to local history and spirituality. Additionally, the square is often used for community events, religious celebrations, and cultural gatherings, strengthening ties among its visitors. With its welcoming and meaningful atmosphere, Praça Monsenhor Fabrício exemplifies how public spaces can unite memory, culture, and leisure.",
+                "es": "La Plaza Monsenhor Fabrício, ubicada en Olinda, es un espacio público de gran importancia para la comunidad, que combina significado histórico con momentos de interacción social. Rodeada de árboles y bancos, la plaza ofrece un lugar tranquilo para que residentes y visitantes se relajen. Su nombre honra a Monsenhor Fabrício, una figura religiosa destacada de la región, subrayando la conexión del espacio con la historia y la espiritualidad local. Además, la plaza se utiliza con frecuencia para eventos comunitarios, celebraciones religiosas y encuentros culturales, fortaleciendo los lazos entre sus visitantes. Con su atmósfera acogedora y significativa, la Plaza Monsenhor Fabrício ejemplifica cómo los espacios públicos pueden unir memoria, cultura y ocio.",
+                "cn": "**法布里西奥神父广场（Praça Monsenhor Fabrício）**位于奥林达，是一个对社区具有重要意义的公共空间，融合了历史价值和社交互动的时刻。 广场四周树木环绕，设有长椅，为居民和游客提供了一个宁静的休憩场所。 广场以法布里西奥神父命名，这位宗教人物在当地历史中占有重要地位，突出了这一空间与地方历史和精神文化的联系。 此外，广场经常用于社区活动、宗教庆典和文化聚会，加强了人们之间的联系。 以其温馨且意义深远的氛围，法布里西奥神父广场展示了公共空间如何将记忆、文化和休闲融为一体。"
+            },
+            "images": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/d5/0a/7c/busto-del-religioso.jpg?w=900&h=-1&s=1"
+            ],
+            "linkMapa": "kJRmFjpjxtZTXw4p8"
         }
     ],
     "visite":[
