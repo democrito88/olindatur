@@ -5,7 +5,10 @@
         "igrejas":"igrejas", 
         "monumentos":"monumentos", 
         "museus":"museus",
-        "praias": "praias"
+        "praias": "praias",
+        "mercados": "mercados",
+        "praças": "praças",
+        "visite": "visite"
     },
     "banner": "Todas as cores, muitos carnavais, uma cidade",
     "banner-sub": "Venha ver o que te espera em Olinda!",

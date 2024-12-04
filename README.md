@@ -4,7 +4,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Version](https://img.shields.io/badge/v.1.1.0-FDEE21?style=for-the-badge)
+![Version](https://img.shields.io/badge/v.1.1.2-FDEE21?style=for-the-badge)
+
+![](./src/assets/img/sobrinhafrevo.jpg)
 
 Font-end application for a tourism purpose page of Olinda, a city in Brazil.
 

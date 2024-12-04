@@ -5,7 +5,10 @@
         "igrejas":"churches", 
         "monumentos":"monuments", 
         "museus":"museums",
-        "praias":"beaches"
+        "praias":"beaches",
+        "mercados": "markets",
+        "praças": "squares",
+        "visite": "visits"
     },
     "banner": "Colorful, festive, in just one city",
     "banner-sub":"Find out what’s waiting for you in Olinda",
