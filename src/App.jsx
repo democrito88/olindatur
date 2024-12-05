@@ -20,8 +20,7 @@ function App() {
           <Route element={<Home />} path="/" />
           <Route element={<Categoria />} path="/:pagina" />
           <Route element={<PontoTuristico />} path="/:pagina/:id" />
-          <Route element={<Guias />} path="/teste" />
-          <Route element={<Construcao />} path="/guias" />
+          <Route element={<Guias />} path="/guias" />
           <Route element={<NotFound />} path="/*" />
         </Routes>
         <Rodape />
