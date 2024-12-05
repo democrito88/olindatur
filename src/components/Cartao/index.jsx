@@ -4,6 +4,7 @@ import { TbBrandGoogleMaps } from 'react-icons/tb';
 import { FaVolumeUp } from "react-icons/fa";
 import './Cartao.css';
 import { Link } from 'react-router-dom';
+import { FcFinePrint } from 'react-icons/fc';
 
 
 function Cartao(props) {
@@ -26,7 +27,7 @@ function Cartao(props) {
     };
 
     return (
-        <Link to={`/${props.categoria}/${props.id}`}>
+        
             <Card border="0" className="mt-5 card-uniform ">
                     <Card.Img 
                     src={`${props.img}`} 
@@ -40,14 +41,16 @@ function Cartao(props) {
                             {texto}
                         </Card.Text>
                     </Card.Body>
-                <Card.Footer style={{marginTop: '6em'}}>
+                <Card.Footer style={{marginTop: '6em'}} className='d-flex justify-content-between'>
                     <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
                     <a href={`https://maps.app.goo.gl/${props.mapa}`} rel="noopener noreferrer" className='link-mapa'>
                         <TbBrandGoogleMaps size={40} />
                     </a>
+                    
+                    <Link className='text-dark fs-4' to={`/${props.categoria}/${props.id}`} >Ver Mais</Link>
                 </Card.Footer>
             </Card>
-        </Link>
+       
     );
 }
 
