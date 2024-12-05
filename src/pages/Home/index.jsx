@@ -51,7 +51,7 @@ function Home() {
     return (
         <>
             <Cabecalho />
-            <section>
+            <section className="primeira">
                 <Container className="py-3">
                     <Row>
                         <Col className="d-flex flex-column justify-content-center text-center">
@@ -60,26 +60,26 @@ function Home() {
                             <h5>{t('section1-texto2')}</h5>
                         </Col>
                         <Col>
-                            <img className="rounded" src={mirante} height={400}/>
+                            <img className="rounded img-fluid" src={mirante} height={400}/>
                         </Col>
                     </Row>
                 </Container>
             </section>
-            <div className="container principal">
+            <div className=" principal terceira">
                 <div className="row d-flex flex-row flex-wrap mt-2 mb-2">
                     {renderConteudo()}
                 </div>
             </div>
-            <section>
+            <section className="segunda">
                 <Container className="py-3">
                     <Row>
                         <Col>
-                            <img className="rounded" src={tapioqueira} height={400} />
+                            <img className="rounded img-fluid" src={tapioqueira} height={400} />
                         </Col>
                         <Col className="d-flex flex-column justify-content-center text-center">
                             <h1 className="title">{t('section2-titulo')}</h1>
                             <h5>{t('section2-texto1')}</h5>
-                            <Link className="text-dark text-decoration-none" to={'/guias'}>
+                            <Link className=" text-decoration-none" to={'/guias'}>
                                 <h4>{t('section2-texto2')}</h4>
                             </Link>
                         </Col>

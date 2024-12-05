@@ -64,3 +64,17 @@
     text-transform: capitalize;
 }
 
+.primeira{
+    background-color: #0079ff !important;
+    color: white;
+}
+
+.segunda{
+    background-color: #ff0060;
+    color: white;
+}
+
+.terceira{
+    background-color: #f6fa70;
+    color: black;
+}
