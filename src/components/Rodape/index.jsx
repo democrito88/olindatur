@@ -12,12 +12,13 @@ function Rodape() {
     <footer className="rodape mt-4">
       <div className="container">
         <div className="row mt-3 d-flex flex-row align-items-baseline justify-content-center">
-          <div className="col-sm">
+          <div className="col-sm text-center">
             <img src={brasao} width={'200px'} className='left' />
           </div>
           <div className="col-sm text-center">
             <img src={sombrinhaSemFundo} width="50px" alt="Logo Olindatur" />
             <b className='title'>OlindaTur &copy;</b>
+            <p className='text-center'><b>Prefeitura Municipal de Olinda - {t('copyright')}.</b></p>
           </div>
           <div className="col-sm text-center link-social">
             <a href="https://www.facebook.com/prefeituradeolinda">
@@ -27,9 +28,6 @@ function Rodape() {
               <SiInstagram size={'35px'} color='black' />
             </a>
           </div>
-        </div>
-        <div className='row text-center'>
-          <p><b>Prefeitura Municipal de Olinda - {t('copyright')}.</b></p>
         </div>
       </div>
     </footer>
