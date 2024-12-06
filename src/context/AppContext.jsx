@@ -6,7 +6,7 @@ export const AppContext = createContext();
 
 export const AppProvider = ({ children }) => {
 
-  const { dados, estado, mensagem } = useFetch(`https://mocki.io/v1/5f5db860-fa19-490e-9744-0d3beeaec837`);
+  const { dados, estado, mensagem } = useFetch(`https://mocki.io/v1/5f5db860-fa19-490e-9744-0d3beeaec837 `);
 
   const { t, i18n } = useTranslation();
 

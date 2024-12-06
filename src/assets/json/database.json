@@ -142,7 +142,7 @@
                 "cn": "建于1540年，是奥林达最古老的教堂，拥有美丽的祭坛和城市的全景。"
             },
             "images": [
-                "https://i.ibb.co/9qXQMdV/semIMG.png"
+                "https://sanctuaria.art/wp-content/uploads/2016/03/img_0018.jpg"
             ],
             "linkMapa": "CHQUEaVDGB3CLzT4A"
         },
@@ -450,7 +450,7 @@
                 "cn": "建于19世纪80年代的阿尔托达塞，曾用于天文和气象研究。如今，它是用于观星和科学教育的开放空间。"
             },
             "images": [
-                "../src/assets/img/monumentos/observatorio.jpg"
+                "https://s2-g1.glbimg.com/RUUO5z4DzoEhALHZ_WsYUEG1C4c=/0x0:1080x810/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/T/s/JuHzG0Qz60ajXCr4qNpg/observatorio-se.jpeg"
             ],
             "linkMapa": "3wWFCDkC9anJD6VMA"
         },
@@ -643,7 +643,7 @@
             "linkMapa": ""
         }
     ],
-    "praias":[
+    "praias": [
         {
             "id": "1",
             "name": "Praia do Farol",
@@ -661,7 +661,6 @@
                 "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/7c/46/d0/pe.jpg?w=900&h=500&s=1",
                 "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/64/5d/fc/bela-praia.jpg?w=900&h=-1&s=1",
                 "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/12/14/b9/praia-do-farol.jpg?w=900&h=500&s=1"
-
             ],
             "linkMapa": ""
         },
@@ -820,7 +819,7 @@
             "linkMapa": ""
         }
     ],
-    "mercados":[
+    "mercados": [
         {
             "id": "1",
             "name": "Conjunto da Maxambomba",
@@ -876,7 +875,7 @@
             "linkMapa": "J4n48xLP5ai2wd737"
         }
     ],
-    "praças":[
+    "praças": [
         {
             "id": "1",
             "name": "Praça do Jacaré",
@@ -897,9 +896,9 @@
         },
         {
             "id": "2",
-            "name": "Praça dos Nápoles",
+            "name": "Praça Nápoles",
             "coordinates": [
-                -7.96696, 
+                -7.96696,
                 -34.85358
             ],
             "descricao": {
@@ -930,7 +929,6 @@
             "images": [
                 "https://vault.pulsarimagens.com.br/file/thumb/13ADR537.jpg",
                 "https://i.ytimg.com/vi/xkDnZWaBQlU/maxresdefault.jpg"
-
             ],
             "linkMapa": "iMHdxghm3UqQQ4Vt9"
         },
@@ -949,7 +947,6 @@
             },
             "images": [
                 "https://fastly.4sqi.net/img/general/width960/6190821_wCHLNOsnWHVS_yiIBE60DAdUXCqlpzVZsUgZfLQwHcg.jpg"
-
             ],
             "linkMapa": "sDELTVK1NW9aYE8F8"
         },
@@ -1014,7 +1011,7 @@
             "id": "8",
             "name": "Praça Fernandes Vieira",
             "coordinates": [
-                -7.97725, 
+                -7.97725,
                 -34.84230
             ],
             "descricao": {
@@ -1048,7 +1045,7 @@
             "linkMapa": "kJRmFjpjxtZTXw4p8"
         }
     ],
-    "visite":[
+    "visite": [
         {
             "id": "1",
             "name": "Casa de Alceu Valença",
@@ -1065,7 +1062,6 @@
             "images": [
                 "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/56/ad/58/photo0jpg.jpg?w=1000&h=-1&s=1",
                 "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/71/de/06/historica.jpg?w=1000&h=-1&s=1"
-
             ],
             "linkMapa": "4dReu4Aeo2vWQqa36"
         },
@@ -1087,7 +1083,6 @@
                 "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/50/3d/4c/lindo-predio.jpg?w=1200&h=-1&s=1",
                 "https://www.diariodepernambuco.com.br/staticimpresso/app/da_impresso_130686904244/2014/06/22/91772/20140621234941168146u.jpg",
                 "https://media-cdn.tripadvisor.com/media/photo-s/0e/3d/cb/38/20170115-144256-largejpg.jpg"
-
             ],
             "linkMapa": "nRkC7G5V3BDcFCcu9"
         },
@@ -1132,7 +1127,7 @@
             "linkMapa": "4BbyNRLeKpgQFeJ97"
         },
         {
-           "id": "5",
+            "id": "5",
             "name": "Casa dos Bonecos Gigantes e Mirins de Olinda",
             "coordinates": [
                 -8.01301,
@@ -1168,6 +1163,62 @@
                 "https://i.ibb.co/0M8trYP/casa-joao-fernandes.jpg"
             ],
             "linkMapa": "sjZd8VgQ1ackrq2K8"
-        }    
+        }
+    ],
+    "carnaval": [
+        {
+            "id": "1",
+            "name": "Bacalhau do Batata",
+            "coordinates": [
+                -8.004567,
+                -34.857520
+            ],
+            "descricao": {
+                "pt": "O Bacalhau do Batata é um bloco de carnaval que desfila na Quarta-feira de Cinzas pelas ladeiras do Sítio Histórico de Olinda, em Pernambuco. O bloco foi criado em 1962 por Izaías Pereira da Silva, mais conhecido como Batata, um garçom que trabalhava durante todo o Carnaval e só podia brincar na quarta-feira.",
+                "en": "The 'Bacalhau do Batata' is a Carnival block that parades on Ash Wednesday through the slopes of the Historic Site of Olinda, in Pernambuco. The block was created in 1962 by Izaías Pereira da Silva, better known as Batata, a waiter who worked throughout Carnival and could only celebrate on Wednesday.",
+                "es": "El 'Bacalhau do Batata' es un bloque de Carnaval que desfila el Miércoles de Ceniza por las laderas del Sitio Histórico de Olinda, en Pernambuco. El bloque fue creado en 1962 por Izaías Pereira da Silva, más conocido como Batata, un camarero que trabajaba durante todo el Carnaval y solo podía celebrar el miércoles.",
+                "cn": "巴塔鳕鱼节”是一个狂欢节方阵，于圣灰星期三在伯南布哥奥林达历史遗址的斜坡上游行。这个方阵由以赛亚·佩雷拉·达·席尔瓦（Izaías Pereira da Silva）于1962年创立，他是一名被称为“巴塔”（Batata）的服务员，因为整个狂欢节期间都在工作，只能在星期三庆祝。"
+            },
+            "images": [
+                "https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2019/03/06/779541/20190306143151602859o.jpg"
+            ],
+            "linkMapa": "2wrftcqXwfF2Mmgn6"
+        },
+        {
+            "id": "2",
+            "name": "Elefante de Olinda",
+            "coordinates": [
+                -8.004567,
+                -34.857520
+            ],
+            "descricao": {
+                "pt": "O Elefante de Olinda é uma figura do Carnaval de Olinda, símbolo do Clube Carnavalesco Misto Elefante de Olinda, que desfila pelas ruas da cidade durante o Carnaval. A figura é uma manifestação artística e lúdica, que representa a diversidade cultural do carnaval pernambucano.",
+                "en": "The 'Elephant of Olinda' is a figure of Olinda's Carnival, symbol of the 'Clube Carnavalesco Misto Elefante de Olinda,' which parades through the city's streets during Carnival. This figure is an artistic and playful manifestation that represents the cultural diversity of Pernambuco's Carnival.",
+                "es": "El 'Elefante de Olinda' es una figura del Carnaval de Olinda, símbolo del 'Clube Carnavalesco Misto Elefante de Olinda,' que desfila por las calles de la ciudad durante el Carnaval. Esta figura es una manifestación artística y lúdica que representa la diversidad cultural del Carnaval de Pernambuco.",
+                "cn": "奥林达大象是奥林达狂欢节的一部分，是“奥林达混合狂欢俱乐部大象”的象征，在狂欢节期间，它穿越城市街道游行。这一形象是一种艺术和趣味性的表现，象征着伯南布哥狂欢节的文化多样性。"
+            },
+            "images": [
+                "https://pbs.twimg.com/profile_images/1747725572162084864/zHqci0mv_400x400.jpg"
+            ],
+            "linkMapa": "2wrftcqXwfF2Mmgn6"
+        },
+        {
+            "id": "3",
+            "name": "O Homem da Meia-Noite",
+            "coordinates": [
+                -8.004567,
+                -34.857520
+            ],
+            "descricao": {
+                "pt": "O Clube Carnavalesco de Alegoria e Crítica O Homem da Meia-Noite é um bloco carnavalesco, uma troça e uma das mais antigas agremiações a circular nas ladeiras do Sítio Histórico de Olinda, conhecido pelo boneco gigante do Carnaval de Olinda. ",
+                "en": "The 'Clube Carnavalesco de Alegoria e Crítica O Homem da Meia-Noite' is a Carnival block, a prank, and one of the oldest associations parading through the slopes of Olinda's Historic Site. It is known for its giant puppet, a hallmark of Olinda's Carnival.",
+                "es": "El 'Clube Carnavalesco de Alegoria e Crítica O Homem da Meia-Noite' es un bloque de Carnaval, una broma, y una de las asociaciones más antiguas que desfilan por las laderas del Sitio Histórico de Olinda. Es conocido por su muñeco gigante, un símbolo del Carnaval de Olinda.",
+                "cn": "“午夜人狂欢俱乐部”是一个狂欢节方阵、一个戏谑团体，也是奥林达历史遗址斜坡上最古老的协会之一。它以奥林达狂欢节标志性的巨型木偶而闻名。"
+            },
+            "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/O_Homem_da_Meia-Noite_Sede.jpg/625px-O_Homem_da_Meia-Noite_Sede.jpg"
+            ],
+            "linkMapa": "2wrftcqXwfF2Mmgn6"
+        }
     ]
 }
