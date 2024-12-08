@@ -10,6 +10,8 @@ import PontoTuristico from "./pages/PontoTuristico";
 import Navegacao from "./components/Navegacao";
 import Guias from "./pages/Guias";
 import Construcao from "./pages/Construcao";
+import { Accessibility } from 'accessibility';
+
 
 function App() {
 

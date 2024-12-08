@@ -6,12 +6,15 @@ import Slideshow from "../../components/Slideshow";
 import { FaVolumeUp } from "react-icons/fa";
 import { TbBrandGoogleMaps } from "react-icons/tb";
 import BotaoVoltar from "../../components/BotaoVoltar";
+import { Accessibility } from "accessibility";
 
 function PontoTuristico() {
   const { pagina, id } = useParams();
   const { dados, estado, mensagem, i18n } = useContext(AppContext);
   const currentLanguage = i18n.language;
-
+  useEffect(() => {
+    new Accessibility();
+  }, []);
   const speakText = () => {
     if ('speechSynthesis' in window) {
       const utterance = new SpeechSynthesisUtterance(dados[pagina][id - 1].name + ". " + dados[pagina][id - 1].descricao[currentLanguage]);
