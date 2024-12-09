@@ -14,7 +14,6 @@ export default defineConfig({
   //fim*/
   server: {
     // Adiciona redirecionamento para index.html
-    hmr: true,
     historyApiFallback: true,
   },
   resolve: {

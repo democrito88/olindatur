@@ -5,7 +5,6 @@ import { AppContext } from "../../context/AppContext";
 import { Link } from "react-router-dom";
 import { Col, Container, Row } from "react-bootstrap";
 import mirante from "../../assets/img/mirante_caixa_dagua_olinda.jpg";
-import tapioqueira from "https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2024/01/02/944452/20240102111635951707o.jpeg";
 
 
 // Componente CategoriaBotao
@@ -98,7 +97,7 @@ function Home() {
             <Col>
               <img
                 className="rounded img-fluid"
-                src={tapioqueira}
+                src={"https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2024/01/02/944452/20240102111635951707o.jpeg"}
                 height={400}
                 alt="Tapioqueira"
               />
