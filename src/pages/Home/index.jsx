@@ -36,8 +36,32 @@ function Home() {
   const { dados, estado, mensagem, t } = useContext(AppContext);
 
   // Inicializar o Accessibility no carregamento
+  var options = {
+    labels: {
+      resetTitle: 'Redefinir',
+      closeTitle: 'Fechar',
+      menuTitle: 'Acessibilidade',
+      increaseText: 'Aumentar tamanho do texto',
+      decreaseText: 'Diminuir tamanho do texto',
+      increaseTextSpacing: 'Aumentar espaçamento do texto',
+      decreaseTextSpacing: 'Diminuir espaçamento do texto',
+      increaseLineHeight: 'Aumentar altura da linha',
+      decreaseLineHeight: 'Diminuir altura da linha',
+      invertColors: 'Inverter cores',
+      grayHues: 'Escala de cinza',
+      underlineLinks: 'Sublinhar links',
+      bigCursor: 'Cursor grande',
+      readingGuide: 'Guia de leitura',
+      textToSpeech: 'Texto para fala',
+      speechToText: 'Fala para texto',
+      disableAnimations: 'Desativar animações',
+      hotkeyPrefix: 'Atalho:'
+    },
+    textToSpeechLang: 'pt-BR', // Configuração para português brasileiro
+    speechToTextLang: 'pt-BR' // Configuração para português brasileiro
+  };
   useEffect(() => {
-    new Accessibility();
+    new Accessibility(options);
   }, []);
 
   const renderConteudo = () => {
