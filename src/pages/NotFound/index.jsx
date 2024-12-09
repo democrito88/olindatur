@@ -1,4 +1,9 @@
+import { useContext } from "react";
+import { AppContext } from "../../context/AppContext";
+
 function NotFound() {
+    const { t } = useContext(AppContext);
+
     return(
         <>
         <h1 className="text-center title">{t('not-found')}</h1>

@@ -9,7 +9,7 @@ export default function BotaoVoltar(){
     return(
         <Button variant="light" className="botao-voltar" onClick={() => history.back()}>
             <BiArrowBack size={20} />
-            <strong className="title">{t('voltar')}</strong>
+            <strong className="title text-capitalize">{t('voltar')}</strong>
         </Button>
     );
 }

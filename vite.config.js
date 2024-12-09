@@ -12,7 +12,11 @@ export default defineConfig({
     port: 80
   },
   //fim*/
-
+  server: {
+    // Adiciona redirecionamento para index.html
+    hmr: true,
+    historyApiFallback: true,
+  },
   resolve: {
     alias: {
       'react-vlibras': '/node_modules/react-vlibras/dist/index.js'

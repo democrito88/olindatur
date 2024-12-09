@@ -1,32 +1,49 @@
-import { useContext } from "react";
-import { useParams } from "react-router-dom";
+import { useContext, useEffect } from "react";
+import { useNavigate, useParams } from "react-router-dom";
 import { AppContext } from "../../context/AppContext";
-import { Card, Col, Container, Row } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import Slideshow from "../../components/Slideshow";
 import { FaVolumeUp } from "react-icons/fa";
 import { TbBrandGoogleMaps } from "react-icons/tb";
 import BotaoVoltar from "../../components/BotaoVoltar";
 
-
 function PontoTuristico() {
   const { pagina, id } = useParams();
-  const { dados, estado, mensagem, i18n } = useContext(AppContext);
+  const navigate = useNavigate();
+  const { dados, estado, mensagem, t, i18n } = useContext(AppContext);
   const currentLanguage = i18n.language;
-  
+
+  console.log("dados:", dados);
+  console.log("pagina:", pagina);
+  console.log("id:", id);
+
+  // Check if pagina or id is invalid and navigate to a fallback page
+  useEffect(() => {
+    if (!dados || !dados[pagina] || !dados[pagina][id - 1]) {
+      navigate("/not-found"); // Redirect to a 404 page or fallback route
+    }
+  }, [dados, pagina, id, navigate]);
+
+  // Return null while waiting for the navigation to complete
+  if (!dados || !dados[pagina] || !dados[pagina][id - 1]) {
+    return null;
+  }
+
+  const point = dados[pagina][id - 1];
+
   const speakText = () => {
-    if ('speechSynthesis' in window) {
-      const utterance = new SpeechSynthesisUtterance(dados[pagina][id - 1].name + ". " + dados[pagina][id - 1].descricao[currentLanguage]);
-      utterance.lang = 'pt';
+    if ("speechSynthesis" in window) {
+      const utterance = new SpeechSynthesisUtterance(
+        `${point.name}. ${point.descricao[currentLanguage]}`
+      );
+      utterance.lang = "pt";
       utterance.pitch = 1;
       utterance.rate = 1;
       window.speechSynthesis.speak(utterance);
     } else {
-      alert('API Web Speech não é suportada neste navegador.');
+      alert("API Web Speech não é suportada neste navegador.");
     }
   };
-
-  // Verificar se a página atual é 'praias'
-  const isPraia = pagina === 'praias';
 
   return (
     <>
@@ -37,40 +54,27 @@ function PontoTuristico() {
           <BotaoVoltar />
           <Row className="responsivo">
             <Col sm={12} lg={8}>
-              <Slideshow imagens={dados[pagina][id - 1].images} />
+              <Slideshow imagens={point.images} />
             </Col>
             <Col sm={12} lg={4}>
-              <h3 className="mt-2 text-center title">
-                {dados[pagina][id - 1].name}
-              </h3>
-              <p>{dados[pagina][id - 1].descricao[currentLanguage]}</p>
+              <h3 className="mt-2 text-center title">{point.name}</h3>
+              <p>{point.descricao[currentLanguage]}</p>
               <div className="d-flex justify-content-start mt-3">
-                <FaVolumeUp size={40} onClick={speakText} style={{ cursor: 'pointer', marginLeft: '10px' }} />
-                <a href={`https://maps.app.goo.gl/${dados[pagina][id - 1].linkMapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
+                <FaVolumeUp
+                  size={40}
+                  onClick={speakText}
+                  style={{ cursor: "pointer", marginLeft: "10px" }}
+                />
+                <a
+                  href={`https://maps.app.goo.gl/${point.linkMapa}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-mapa"
+                >
                   <TbBrandGoogleMaps size={40} />
                 </a>
               </div>
             </Col>
-            {/*<Card className="mt-5">
-              <Col sm={12} lg={12} className="d-flex justify-content-center mt-4 "> 
-                {isPraia && dados[pagina][id - 1].bares && dados[pagina][id - 1].bares.length > 0 && (
-                  <div className="w-100">
-                    <h4 className="text-center mb-4">Bares Próximos</h4>
-                    {dados[pagina][id - 1].bares.map(bar => (
-                      <div key={bar.id} className="mt-3">
-                        <h5 className="text-center bg-dark text-white p-2"><b>{bar.name}</b></h5>
-                        <p className="text-center">{bar.descricao[currentLanguage]}</p>
-                        <div className="text-center">
-                          <a href={`https://maps.app.goo.gl/${bar.linkMapa}`} target="_blank" rel="noopener noreferrer" className='link-mapa'>
-                            <TbBrandGoogleMaps size={30} />
-                          </a>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                )}
-              </Col>
-            </Card>*/}
           </Row>
         </Container>
       )}

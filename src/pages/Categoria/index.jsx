@@ -1,5 +1,5 @@
-import { useParams } from "react-router-dom";
-//import dados from "../../assets/json/database.json";
+import { useEffect } from "react";
+import { useNavigate, useParams } from "react-router-dom";
 import { Col, Container, Row } from "react-bootstrap";
 import Cartao from "../../components/Cartao";
 import { useContext } from "react";
@@ -9,20 +9,28 @@ import BotaoVoltar from "../../components/BotaoVoltar";
 
 export default function Categoria() {
     const { pagina } = useParams();
+    const navigate = useNavigate(); // Adicionado para navegação programática
     const { dados, estado, mensagem, i18n } = useContext(AppContext);
     const currentLanguage = i18n.language;
-    
+
+    // Adicionando navegação programática
+    useEffect(() => {
+        if (!dados[pagina]) {
+            navigate("/not-found"); // Redireciona para uma página de erro ou outra rota, caso a categoria não exista
+        }
+    }, [dados, pagina, navigate]);
+
     return (
         <>
             <Cabecalho />
-            <Container className="mt-4 ">
+            <Container className="mt-4">
                 <BotaoVoltar />
                 <Row>
-                    {estado === 0 || estado === 1 ?
+                    {estado === 0 || estado === 1 ? (
                         <p>{mensagem}</p>
-                        :
+                    ) : (
                         dados[pagina]?.map((objeto, index) => (
-                            <Col key={index} lg={4} md={6} sm={12} >
+                            <Col key={index} lg={4} md={6} sm={12}>
                                 <Cartao
                                     id={objeto.id}
                                     name={objeto.name}
@@ -33,7 +41,7 @@ export default function Categoria() {
                                 />
                             </Col>
                         ))
-                    }
+                    )}
                 </Row>
             </Container>
         </>

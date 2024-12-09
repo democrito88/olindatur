@@ -52,8 +52,8 @@ function App() {
         <Route element={<Home />} path="/" />
         <Route element={<Categoria />} path="/:pagina" />
         <Route element={<PontoTuristico />} path="/:pagina/:id" />
-        <Route element={<Guias />} path="/guias" />
-        <Route element={<NotFound />} path="/*" />
+        <Route element={<Guias />} path="/roteiros" />
+        <Route element={<NotFound />} path="/not-found" />
       </Routes>
       <Rodape />
     </>

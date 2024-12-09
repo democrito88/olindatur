@@ -5,7 +5,7 @@ import { AppContext } from "../../context/AppContext";
 import { Link } from "react-router-dom";
 import { Col, Container, Row } from "react-bootstrap";
 import mirante from "../../assets/img/mirante_caixa_dagua_olinda.jpg";
-import tapioqueira from "../../assets/img/tapioqueira.jpg";
+import tapioqueira from "https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2024/01/02/944452/20240102111635951707o.jpeg";
 
 
 // Componente CategoriaBotao
@@ -47,13 +47,22 @@ function Home() {
       return <p>Nenhuma categoria disponível.</p>;
     }
 
-    return Object.entries(dados).map(([categoria, items]) => (
+    return <>
+      {
+        Object.entries(dados).map(([categoria, items]) => (
+          <CategoriaBotao
+            key={categoria}
+            categoria={categoria}
+            imagem={items[0]?.images?.[0]}
+          />
+        ))
+      }
       <CategoriaBotao
-        key={categoria}
-        categoria={categoria}
-        imagem={items[0]?.images?.[0]}
+        key={"roteiro"}
+        categoria={"roteiros"}
+        imagem={"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKgYRzN2KIk2Z8fqji5iR_BFmPhfVK8Ohuw&s"}
       />
-    ));
+    </>
   };
 
   return (
