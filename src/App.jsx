@@ -1,5 +1,5 @@
-import React, { useContext } from "react";
-import { Route, Routes } from "react-router-dom";
+import React, { useEffect } from "react";
+import { Route, Routes, useLocation } from "react-router-dom";
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Rodape from "./components/Rodape";
@@ -9,9 +9,7 @@ import Categoria from "./pages/Categoria";
 import PontoTuristico from "./pages/PontoTuristico";
 import Navegacao from "./components/Navegacao";
 import Guias from "./pages/Guias";
-import Construcao from "./pages/Construcao";
 import { Accessibility } from "accessibility";
-import { useEffect } from 'react';
 
 var options = {
   labels: {
@@ -38,14 +36,14 @@ var options = {
   speechToTextLang: 'pt-BR' // Configuração para português brasileiro
 };
 
-
-
-
 function App() {
+  const location = useLocation();
+
+  // Garantir que o scroll vá para o topo ao acessar a página ou ao mudar de rota
   useEffect(() => {
     new Accessibility(options);
-  }, []);
-
+    window.scrollTo(0, 0);
+  }, [location]); // Dependência no `location` para garantir que o scroll é ajustado em qualquer mudança de rota
 
   return (
     <>
@@ -59,7 +57,6 @@ function App() {
       </Routes>
       <Rodape />
     </>
-
   );
 }
 

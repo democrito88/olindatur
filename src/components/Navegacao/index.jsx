@@ -38,17 +38,17 @@ export default function Navegacao() {
           </NavDropdown>
         </div>
         <Nav className="d-flex flex-row justify-content-center gap-3">
-          <Nav.Link onClick={() => changeLanguage("pt")} style={{ fontSize: "24px" }}>
-            🇧🇷
+          <Nav.Link onClick={() => changeLanguage("pt")}   >
+            <img src="https://i.ibb.co/Kb0JF42/brasil.png" style={{ width: "24px" }} />
           </Nav.Link>
-          <Nav.Link onClick={() => changeLanguage("en")} style={{ fontSize: "24px" }}>
-            🇺🇸
+          <Nav.Link onClick={() => changeLanguage("en")} >
+            <img src="https://i.ibb.co/jTGz1KL/estados-unidos.png" style={{ width: "24px" }} />
           </Nav.Link>
-          <Nav.Link onClick={() => changeLanguage("es")} style={{ fontSize: "24px" }}>
-            🇪🇸
+          <Nav.Link onClick={() => changeLanguage("es")}   >
+            <img src="https://i.ibb.co/yyq4V83/espanha.png" style={{ width: "24px" }} />
           </Nav.Link>
-          <Nav.Link onClick={() => changeLanguage("cn")} style={{ fontSize: "24px" }}>
-            🇨🇳
+          <Nav.Link onClick={() => changeLanguage("cn")}   >
+            <img src="https://i.ibb.co/KWMmw4Z/china.png" style={{ width: "26px" }} />
           </Nav.Link>
         </Nav>
       </Container>
