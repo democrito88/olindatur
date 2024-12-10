@@ -17,13 +17,6 @@ function PontoTuristico() {
   console.log("pagina:", pagina);
   console.log("id:", id);
 
-  // Check if pagina or id is invalid and navigate to a fallback page
-  useEffect(() => {
-    if (!dados || !dados[pagina] || !dados[pagina][id - 1]) {
-      navigate("/not-found"); // Redirect to a 404 page or fallback route
-    }
-  }, [dados, pagina, id, navigate]);
-
   // Return null while waiting for the navigation to complete
   if (!dados || !dados[pagina] || !dados[pagina][id - 1]) {
     return null;

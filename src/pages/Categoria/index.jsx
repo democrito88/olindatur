@@ -13,13 +13,6 @@ export default function Categoria() {
     const { dados, estado, mensagem, i18n } = useContext(AppContext);
     const currentLanguage = i18n.language;
 
-    // Adicionando navegação programática
-    useEffect(() => {
-        if (!dados[pagina]) {
-            navigate("/not-found"); // Redireciona para uma página de erro ou outra rota, caso a categoria não exista
-        }
-    }, [dados, pagina, navigate]);
-
     return (
         <>
             <Cabecalho />
